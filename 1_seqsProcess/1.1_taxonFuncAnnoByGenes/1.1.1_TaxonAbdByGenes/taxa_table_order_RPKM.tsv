@@ -1,0 +1,515 @@
+order	S149	S150	S152	S153	S157	S113	S114	S130	S146	S802	S20	S27	S32	S45	S107	taxonomy
+o_Enterobacterales	165502.2635	57299.394	1221553.0499	1472458.9971	286146.5686	1512335.1458	963347.8865	22768.4592	1305004.0393	5370.8179	693391.65	15613.1708	210320.2253	906106.3799	2051.7887	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+o_Mycobacteriales	282340.8931	1264367.0193	134832.4761	23354.1645	293891.6933	35194.3239	433316.513	32598.8537	192526.1661	497514.6837	5598.2187	21630.137	70493.2666	70306.1628	59880.3652	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Mycobacteriales
+o_Actinomycetales	509041.0569	194231.6912	99446.8272	111775.1707	40386.6766	104576.1124	95401.6084	25751.0535	237699.5901	173344.6365	3466.2752	31555.8341	83032.5794	89403.7433	286409.5628	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales
+o_Clostridiales	5863.2803	543.9578	19036.8215	459.4956	1228.1599	324.3429	33729.1584	509580.8134	674.6116	128.8762	233318.3857	9705.5581	333653.2702	12082.8283	5417.67	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Clostridiales
+o_Lactobacillales	2045.7799	20723.9404	62752.4778	7317.3852	20260.0484	11491.2236	57336.542	124049.8433	13895.5595	377237.066	14694.3103	170380.7795	217264.9633	28829.4102	14488.0702	d_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales
+o_Campylobacterales	12715.6799	2299.4005	17470.1648	4599.4206	636430.7165	4193.8162	29860.4089	4863.3864	1240.3224	232.2275	598.8195	14479.7508	235.4527	276537.076	2214.3515	d_Bacteria;p_Campylobacterota;c_Campylobacteria;o_Campylobacterales
+o_Rhodobacterales	48229.8242	7000.3167	99491.4847	113398.9959	14197.4319	100616.6736	56306.0374	1419.3138	43493.1447	19553.1379	160.5822	146802.4656	7372.9085	66638.782	7708.313	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales
+o_Burkholderiales	22124.1765	5870.3752	10732.5618	12400.2465	4894.8237	9439.2937	11580.639	918.1445	7703.4089	1686.5307	358.4866	407113.8244	13043.5713	8041.9627	28273.8958	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Burkholderiales
+o_Unclassified_c_Actinomycetia	58754.6172	173501.2188	25635.2176	9318.3099	42955.1324	10823.0569	69814.8496	3202.747	25886.6015	34430.7332	466.87	3985.6849	10493.0178	13399.709	23453.3486	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Unclassified_c_Actinomycetia
+o_Chitinophagales	22848.983	191180.5667	39102.2415	27993.6741	47560.15	23156.7076	76354.2857	1275.2368	22109.7547	21288.6438	1301.469	367.7899	1519.9888	24647.0172	176.4349	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Chitinophagales
+o_Pseudomonadales	7750.5305	5010.8214	78649.6109	93991.5331	12758.8146	90212.0029	59640.3517	1635.7527	30410.4118	1119.4674	528.0052	10401.246	7965.5166	52516.986	30722.7133	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales
+o_Streptomycetales	23954.8628	178797.2512	29258.6833	10405.0312	53796.5059	12809.0126	78232.0267	1498.6679	18327.0071	18066.4899	220.796	471.9081	1330.9366	16268.5584	578.9377	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Streptomycetales
+o_Unclassified_p_Proteobacteria	3677.4447	4321.3656	77012.6046	84522.9544	14378.2277	81585.745	54954.6022	597.3402	13306.3233	744.2519	1121.0882	9831.2078	1576.1023	59117.9136	9381.9365	d_Bacteria;p_Proteobacteria;c_Unclassified_p_Proteobacteria;o_Unclassified_p_Proteobacteria
+o_Peptostreptococcales	37123.9207	3327.0003	12728.3662	909.8761	1229.9118	1959.5722	21705.9186	141977.0755	954.3638	2165.4591	96400.2863	284.3039	46337.2232	5847.3998	32103.9418	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Peptostreptococcales
+o_Bacteroidales	1780.36	5972.0205	63563.4228	75755.2625	10051.6686	70009.861	41467.5518	539.2777	13928.9965	895.2529	528.9404	510.4146	732.2864	46313.4866	231.8572	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+o_Rhizobiales A	5463.0222	1241.7393	44.4872	0	486.6106	28.8716	188.4524	175.51	2202.9378	660.425	111.7942	4457.0505	7151.2099	39.8837	302283.8776	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales A
+o_Paenibacillales	15681.9047	133739.7562	16967.8613	5161.6043	36991.7285	5336.6118	57415.7687	1002.3316	10054.9547	12157.405	458.6542	464.2627	1115.9171	11245.4654	154.9353	d_Bacteria;p_Firmicutes;c_Bacilli;o_Paenibacillales
+o_Rhizobiales	4209.6161	3773.5006	49479.1793	55815.7669	7445.6293	51398.9801	30132.5712	282.6353	15398.5411	987.4671	208.1353	24935.9827	2039.4436	32325.3741	28926.8223	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales
+o_Fusobacteriales	289.5144	374.5777	4546.5034	649.7361	4845.8641	211.9711	2454.739	188088.6994	127.476	4054.3955	10832.3415	2656.7011	46958.5739	20820.1562	227.3311	d_Bacteria;p_Fusobacteriota;c_Fusobacteriia;o_Fusobacteriales
+o_Propionibacteriales	81811.3215	9914.5112	2432.1705	3798.8694	2678.1757	2873.4197	2065.7508	4924.9713	20245.8241	9781.5594	389.9646	18420.9278	8339.5949	2106.7135	116999.8492	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Propionibacteriales
+o_Lachnospirales	3100.2519	23235.1238	35541.2407	44042.8077	10035.9452	45821.7482	31811.6573	1844.799	13048.8139	1563.5786	1960.2077	88.4871	1366.9403	32444.0129	486.7195	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Lachnospirales
+o_Xanthomonadales	29589.0222	3037.6174	2989.3247	2718.4961	615.6565	1521.2223	2489.7871	2752.777	1439.985	850.9607	109.8387	41909.2167	18798.1394	1950.4316	76964.4861	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales
+o_Flavobacteriales	1986.9139	3205.115	31105.6796	30999.9771	4417.9072	33697.2785	18296.6262	1452.6675	3661.4073	212.5875	236.3324	36814.2165	407.7369	16248.0311	221.5943	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Flavobacteriales
+o_Caulobacterales	4161.8546	2150.7119	3868.3856	4137.3733	1420.4993	4859.3908	2999.586	714.8346	3409.5411	711.1396	53.9348	102376.4502	2897.6473	3340.5053	5042.4348	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales
+o_UBA1444	532.4389	42.3796	22389.5371	32739.0605	5814.2562	30060.161	16268.9705	10.1468	10528.6701	0	19.5587	15.5511	99.5426	18933.8535	17.3412	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_UBA1444
+o_Unclassified_c_Alphaproteobacteria	4401.0727	3653.9754	8012.9486	4977.8607	3235.2624	6902.8244	6460.048	126.9156	3386.2269	943.9437	32.3416	15913.8804	969.8958	4120.121	22925.9936	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Unclassified_c_Alphaproteobacteria
+o_Unclassified_c_Gammaproteobacteria	1358.5509	3627.702	8391.3274	8217.8657	2417.2226	9721.1143	8319.3202	223.0262	4637.1091	551.9591	5880.6381	9715.9976	2213.5679	7384.8323	2907.428	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Unclassified_c_Gammaproteobacteria
+o_Sphingomonadales	7764.4394	13065.985	2786.4216	3657.2835	2778.8025	3675.3866	4658.133	384.2968	2549.3457	1727.483	34.7278	22523.0516	292.8603	2418.5578	873.0631	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales
+o_PS1	531.4571	4975.8568	13045.6969	15098.7942	2898.5591	11759.0827	8777.8479	39.2005	4240.4867	314.742	11.5358	5.8628	0	6890.7817	23.1917	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_PS1
+o_Chromatiales	228.0537	372.1185	10416.1806	12203.3549	2115.4928	11599.6707	6994.3693	12.441	2199.8195	233.2788	7.8484	2.7797	51.8045	6449.3868	100.5471	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Chromatiales
+o_Cyanobacteriales	589.6954	1624.9902	8363.1917	10715.7633	1458.7756	11253.5533	7086.7639	42.3301	3126.2386	130.2578	5.3121	208.8664	20.3629	7330.7506	47.8907	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Cyanobacteriales
+o_Unclassified_c_Clostridia	2806.3921	682.6594	1608.2389	3837.1895	460.6383	4373.4659	3961.8658	13155.2412	954.6144	387.1995	6307.8494	281.2479	6829.2482	2222.4113	2208.9801	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Unclassified_c_Clostridia
+o_Bacillales B	217.102	1249.1495	4898.625	11866.9083	1024.1919	2223.7167	18875.1335	399.7457	457.1639	38.8157	107.1086	18.1682	463.7628	2421.5693	64.9315	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales B
+o_Aquificales	97.3193	205.9394	7317.6181	8943.9416	1152.9248	8884.7626	7395.6667	150.3872	1924.5641	9.0845	3.7492	0.7671	1.91	6005.2727	1.8639	d_Bacteria;p_Aquificota;c_Aquificae;o_Aquificales
+o_Pedosphaerales	227.2719	1647.6335	7229.5474	5440.1954	1612.3184	7952.0896	4563.7373	0	2816.0815	255.1169	8.8122	84.5144	72.8909	5028.0885	2.7157	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Pedosphaerales
+o_Tissierellales	836.2543	1944.876	4392.234	3781.3042	2338.1646	5007.0015	4978.4322	1693.2713	1865.0971	454.3352	1313.9177	369.1873	2924.472	2302.8111	1541.53	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Tissierellales
+o_Unclassified_c_Bacilli	562.7177	520.203	3051.4187	2816.1189	771.8031	2615.8549	2248.6831	2071.5687	1503.3695	5107.8321	767.4363	3527.681	5919.6152	1971.7688	1153.9528	d_Bacteria;p_Firmicutes;c_Bacilli;o_Unclassified_c_Bacilli
+o_Bacteriovoracales	245.6659	2491.2006	6697.3191	6617.6013	1569.2804	5847.6872	4220.9161	14.8423	1348.3516	190.3724	0	2.3523	40.4516	5070.8084	0	d_Bacteria;p_Bdellovibrionota;c_Bacteriovoracia;o_Bacteriovoracales
+o_Unclassified_c_Bacteroidia	227.6729	1917.8169	5127.9022	5864.3109	1149.5774	5590.0431	4034.2713	254.2303	1912.3105	160.5731	45.3091	2716.8837	149.7007	3014.0604	156.2225	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Unclassified_c_Bacteroidia
+o_Oscillospirales	1243.3319	2663.0624	3114.4786	4585.6889	1776.1129	5134.5983	3088.4424	642.8579	1438.3917	482.9402	1107.3118	226.026	1105.1614	2548.9759	270.617	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Oscillospirales
+o_SAR324	4234.5838	234.0324	776.4028	697.1919	579.6234	1241.9213	652.7547	0	8676.5926	0	1.9613	28.595	5.9796	5941.8315	2.0996	d_Bacteria;p_SAR324;c_SAR324;o_SAR324
+o_Unclassified_p_Myxococcota	163.8502	946.7377	3916.3695	4672.017	644.4824	4835.3673	2766.4022	11.7826	1068.3255	278.1648	1.0036	0.8157	20.5874	3534.6243	0.5176	d_Bacteria;p_Myxococcota;c_Unclassified_p_Myxococcota;o_Unclassified_p_Myxococcota
+o_Cytophagales	453.3851	1758.1593	3585.448	3742.106	1340.785	2939.2378	2762.6777	152.2499	1985.2567	225.3339	3.4542	99.5131	81.9272	2510.0751	47.4215	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Cytophagales
+o_Methylococcales	99.0934	615.0731	2679.598	5189.1541	784.4315	3295.7712	2689.172	25.0371	1713.1168	63.7273	10.4014	64.3927	78.3491	1684.1862	66.3575	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Methylococcales
+o_Myxococcales	138.2155	1455.7581	3793.1343	3693.8345	854.6696	2739.0781	1753.8476	20.803	1193.6672	460.0368	15.1512	93.2115	0	1916.1722	3.358	d_Bacteria;p_Myxococcota;c_Myxococcia;o_Myxococcales
+o_UBA796	619.8299	2620.3761	2616.5564	2825.077	712.2478	3073.9764	2176.4132	15.1069	905.2154	579.7092	8.1484	0	0.9145	1953.1437	0.2766	d_Bacteria;p_Myxococcota A;c_UBA796;o_UBA796
+o_Unclassified_p_Actinobacteriota	2183.51	3250.0599	1160.4148	1764.6092	787.5379	947.1759	1035.9567	160.3087	851.9609	833.1	26.2792	379.4235	413.6109	469.2454	2040.169	d_Bacteria;p_Actinobacteriota;c_Unclassified_p_Actinobacteriota;o_Unclassified_p_Actinobacteriota
+o_Polyangiales	251.374	432.6591	2852.3996	2070.3264	568.7478	2889.0334	3371.2464	0	815.0012	256.3985	0.9751	0	24.5743	2544.4906	9.6858	d_Bacteria;p_Myxococcota;c_Polyangia;o_Polyangiales
+o_Opitutales	162.2163	3517.6617	1772.4395	2455.4942	1062.1774	1643.2928	1501.7987	233.5642	946.2772	220.3602	10.8752	74.4448	52.2769	1068.7314	9.0116	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Opitutales
+o_Bryobacterales	390.7881	5455.7637	1647.4955	713.9548	715.0724	478.3702	2679.1772	45.9337	401.5172	371.38	2.2587	10.5126	0	781.3831	22.7316	d_Bacteria;p_Acidobacteriota;c_Acidobacteriae;o_Bryobacterales
+o_Anaerolineales	246.3869	997.3936	1826.0657	2165.1955	181.5224	2131.1896	1833.9209	22.1077	548.8776	25.5672	3.1059	1.3102	0	2118.4071	0.5996	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Anaerolineales
+o_Fibrobacterales	16.8672	0	2809.6396	2624.0878	348.854	2236.6401	1378.4762	0	822.9809	0	2.3717	0	0	1501.6144	0.2588	d_Bacteria;p_Fibrobacterota;c_Fibrobacteria;o_Fibrobacterales
+o_Acidimicrobiales	331.3076	1022.0599	1879.9831	1038.8193	649.9286	1777.0723	1360.0735	30.9067	1603.6899	364.3636	0	31.9211	5.9796	1143.6421	257.8792	d_Bacteria;p_Actinobacteriota;c_Acidimicrobiia;o_Acidimicrobiales
+o_Ignavibacteriales	0	0	2540.8893	1757.3664	495.0993	3196.0546	941.7922	0	623.8738	66.0267	0	0	0	1770.5503	0	d_Bacteria;p_Bacteroidota;c_Ignavibacteria;o_Ignavibacteriales
+o_Verrucomicrobiales	40.1376	128.7537	1031.3403	2325.8324	458.7332	2938.7378	2030.5687	0	744.5727	166.7325	8.2854	91.9528	0	1391.8665	8.1296	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Verrucomicrobiales
+o_Sphingobacteriales	176.3201	356.8194	1940.3587	1942.0724	667.4526	1792.7027	1448.364	5.655	869.0645	11.4164	6.7094	180.016	0	1937.4707	10.4501	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Sphingobacteriales
+o_Unclassified_c_Cyanobacteriia	145.5673	841.8844	1281.8968	2554.6665	372.213	1930.8615	1684.7544	0	1454.3134	110.7027	1.3009	1.923	32.606	677.5882	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Unclassified_c_Cyanobacteriia
+o_Streptosporangiales	856.3349	2914.4318	613.6365	809.0096	766.5318	1005.1297	1605.8909	43.6977	862.1989	331.9895	2.7034	39.0997	121.9257	638.2903	140.5395	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Streptosporangiales
+o_Chlamydiales	70.9826	482.0818	2219.6078	993.4194	921.0697	1542.8399	1933.6842	0	1153.4962	229.6277	6.2449	23.8572	7.4384	641.4988	2.5018	d_Bacteria;p_Chlamydiota;c_Chlamydiia;o_Chlamydiales
+o_Bacillales A	31.6017	0	1265.6849	2043.9807	302.259	2209.9126	964.1292	27.6762	350.3892	13.0973	322.1108	3.2336	125.1403	1407.9313	204.2454	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales A
+o_Saccharimonadales	3573.3003	881.304	289.1455	749.5905	98.7074	129.8114	844.1009	497.6992	1016.9378	263.1891	40.4349	0.6918	10.095	476.4947	45.739	d_Bacteria;p_Patescibacteria;c_Saccharimonadia;o_Saccharimonadales
+o_Rickettsiales	202.5171	2610.4443	952.6929	99.2463	681.9767	166.0378	2830.4798	97.6872	562.8252	256.1267	39.8433	1.642	9.0372	262.526	4.2476	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rickettsiales
+o_Acetobacterales	99.3945	384.2258	311.7865	1804.4019	705.6319	1590.5827	1587.5071	5.8425	290.5341	222.5107	2.2637	405.7095	13.1691	904.5885	253.17	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Acetobacterales
+o_Caldilineales	120.0497	887.4399	542.4308	1678.069	238.9011	2580.7755	729.1135	0	396.4799	150.2543	0	0	0	1197.0858	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Caldilineales
+o_Synergistales	46.9305	85.3498	770.6002	1236.9155	360.3469	2237.613	1601.145	75.5941	209.5925	14.8771	48.505	3.2453	6.9353	1038.4426	10.2031	d_Bacteria;p_Synergistota;c_Synergistia;o_Synergistales
+o_Nanopelagicales	1008.2586	139.4507	1179.1596	1016.9038	115.2478	712.5589	438.229	29.4653	1018.8289	25.8494	0.4329	6.0259	67.9644	1635.0111	252.349	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Nanopelagicales
+o_Unclassified_c_Polyangia	201.1573	1523.5046	705.2936	1512.5666	251.7537	956.6552	1414.2757	0	552.6929	80.9388	1.6058	0	0	419.3049	0.4141	d_Bacteria;p_Myxococcota;c_Polyangia;o_Unclassified_c_Polyangia
+o_Kapabacteriales	0	96.4386	1176.3504	1521.4904	266.3501	1390.6974	1084.979	0	303.0177	0	10.4337	5.1344	20.1627	1665.2602	3.8342	d_Bacteria;p_Bacteroidota;c_Kapabacteria;o_Kapabacteriales
+o_Gemmatimonadales	130.8962	580.9925	1450.9251	1746.2759	58.9469	1094.63	1026.0116	0	257.0161	78.4036	0	9.7827	0	1086.0101	7.362	d_Bacteria;p_Gemmatimonadota;c_Gemmatimonadetes;o_Gemmatimonadales
+o_Staphylococcales	354.1651	869.9258	1299.6624	777.8148	454.0923	1409.1133	563.8494	0	737.8461	171.584	20.9172	1.5372	86.8242	572.6683	192.9893	d_Bacteria;p_Firmicutes;c_Bacilli;o_Staphylococcales
+o_Bacillales G	55.1932	430.9966	793.2392	1792.6472	219.3127	1838.7217	615.4025	0	914.5284	81.6738	0	0	0	694.205	13.5309	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales G
+o_Magnetococcales	108.2788	465.6919	746.9024	1376.8133	748.9262	1016.6616	1376.4208	7.8623	428.1365	0	0	18.2435	25.4259	931.0096	0	d_Bacteria;p_Proteobacteria;c_Magnetococcia;o_Magnetococcales
+o_Rhodospirillales	25.2056	0	1110.841	1129.5403	295.8735	1929.2198	995.6994	0	740.4847	28.319	9.03	51.5347	6.3182	540.6884	258.5887	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodospirillales
+o_Bacillales H	0	48.6986	1546.2861	455.9634	228.8542	993.8625	1072.6807	56.5213	171.5846	545.9651	121.346	297.7717	209.6758	855.6243	15.7531	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales H
+o_Aggregatilineales	33.8678	0	1475.081	737.6146	520.3024	1326.6669	1094.2199	0	465.9887	50.2321	0	5.8807	16.866	803.984	13.2064	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Aggregatilineales
+o_Haloplasmatales A	53.5626	751.5298	621.0915	1387.0378	42.0409	1417.186	608.9839	19.328	341.249	103.6915	64.7803	0	16.6722	761.5601	11.8216	d_Bacteria;p_Firmicutes;c_Bacilli;o_Haloplasmatales A
+o_Treponematales	44.0502	48.3621	352.8055	1181.6011	268.2362	1344.992	673.8926	101.9497	509.9789	12.6448	0.4899	4.6477	28.6733	1424.2897	23.3536	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales
+o_Nannocystales	29.9979	404.8826	1534.6613	546.977	166.1907	1556.9272	626.4525	0	211.2809	175.9941	1.4448	0	0	573.8448	0.2951	d_Bacteria;p_Myxococcota;c_Polyangia;o_Nannocystales
+o_Acidobacteriales	352.7991	949.0276	175.6613	905.1411	560.9941	822.3955	765.7957	48.1131	139.5304	201.4809	1.9483	0.982	19.4015	849.4628	6.6689	d_Bacteria;p_Acidobacteriota;c_Acidobacteriae;o_Acidobacteriales
+o_UBA1407	18.1036	144.9432	868.3535	1477.8059	87.026	742.6097	1508.9236	56.708	52.7275	0	0	0	14.3409	678.7449	0	d_Bacteria;p_Verrucomicrobiota;c_Lentisphaeria;o_UBA1407
+o_Promineofilales	78.8201	487.1873	1057.9635	2220.3241	394.98	504.4921	250.2579	0	133.4871	32.043	2.8755	0	15.8682	288.2152	12.8485	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Promineofilales
+o_Holophagales	174.5949	1369.4944	453.9642	476.9916	365.9833	795.6725	488.1413	64.2837	299.5604	294.4639	1.7719	13.5998	14.9095	599.1321	1.0781	d_Bacteria;p_Acidobacteriota;c_Holophagae;o_Holophagales
+o_Unclassified_p_Bacteroidota	32.0967	42.1245	1078.873	781.6889	165.9371	839.5257	724.6756	6.4528	216.7098	0	0	200.3461	0	1256.7761	21.7222	d_Bacteria;p_Bacteroidota;c_Unclassified_p_Bacteroidota;o_Unclassified_p_Bacteroidota
+o_Elusimicrobiales	0	0	894.9855	1326.1758	105.5555	910.9572	791.9296	0	321.8112	0	0	0	0	952.1018	0	d_Bacteria;p_Elusimicrobiota;c_Elusimicrobia;o_Elusimicrobiales
+o_Desulfovibrionales	25.5095	278.3568	611.4499	422.3791	292.4766	1211.2224	940.4939	121.3865	614.8017	35.9808	6.2285	48.2467	24.3544	595.0511	6.4073	d_Bacteria;p_Desulfobacterota I;c_Desulfovibrionia;o_Desulfovibrionales
+o_SCGC-AAA003-L08	70.8897	638.2187	1230.2626	1288.3587	527.1223	92.9639	1134.3309	16.1448	0	78.6529	0	16.9726	0	74.5926	0	d_Bacteria;p_Marinisomatota;c_Marinisomatia;o_SCGC-AAA003-L08
+o_PHBI01	53.7686	146.679	754.7575	798.5628	257.5881	1031.4245	404.216	0	249.5557	24.1683	4.0465	0	0	1438.7007	0.0682	d_Bacteria;p_Myxococcota;c_UBA9042;o_PHBI01
+o_Desulfobacterales	139.977	951.417	1001.1201	202.9484	531.5462	877.9115	514.0343	63.9166	144.8598	36.3616	1.2177	46.9648	38.9364	567.5634	23.4557	d_Bacteria;p_Desulfobacterota;c_Desulfobacteria;o_Desulfobacterales
+o_Chloroflexales	224.7629	974.7551	392.4042	499.3841	219.6507	1540.7225	633.1381	7.1452	48.1165	83.0557	0	4.5271	18.0442	372.4386	48.2113	d_Bacteria;p_Chloroflexota;c_Chloroflexia;o_Chloroflexales
+o_Ktedonobacterales	162.3902	0	1730.015	182.6865	1017.5554	316.9509	1134.8133	0	2.9942	0	0	4.1077	0	426.3044	57.3357	d_Bacteria;p_Chloroflexota;c_Ktedonobacteria;o_Ktedonobacterales
+o_RFN20	0	0	150.1545	412.2748	110.3055	356.9814	602.2736	1777.7475	0	0	400.2458	9.4342	1108.5979	8.4676	24.6478	d_Bacteria;p_Firmicutes;c_Bacilli;o_RFN20
+o_Azospirillales	77.7251	256.4963	524.0532	763.3744	311.4539	991.0488	683.129	7.5266	471.8503	402.3827	3.9787	58.0265	26.2052	377.7195	3.4162	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Azospirillales
+o_UBA9042	80.4122	1194.9846	698.79	643.7627	462.1179	688.8007	416.3803	27.4167	98.2991	50.9818	0	0	0	527.1067	0.9266	d_Bacteria;p_Myxococcota;c_UBA9042;o_UBA9042
+o_Christensenellales	38.876	337.8623	739.2732	512.1179	21.1485	825.528	294.8085	38.1764	40.1409	120.6244	685.9156	205.4008	759.2924	55.4723	35.4383	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Christensenellales
+o_Pelagibacterales	0	0	736.3866	404.191	491.5862	978.2716	1152.288	2.6338	119.6019	0	1.9538	5.695	19.9085	768.0691	1.1388	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Pelagibacterales
+o_Nitrospinales	13.402	0	1121.9178	953.1409	165.0194	561.9488	478.8072	24.6884	517.8763	49.8412	0	0	0	658.1136	0.5156	d_Bacteria;p_Nitrospinota;c_Nitrospinia;o_Nitrospinales
+o_RF32	86.7235	423.6033	811.6128	511.995	79.7801	784.1019	232.7296	0	688.9318	40.9763	18.6096	8.3538	0	677.246	0.2543	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_RF32
+o_Unclassified_p_Nitrospinota	0	0	962.0766	780.8235	41.7824	1216.9819	513.3013	0	212.1084	0	0	0	0	499.686	0	d_Bacteria;p_Nitrospinota;c_Unclassified_p_Nitrospinota;o_Unclassified_p_Nitrospinota
+o_Humimicrobiales	37.3277	304.9219	683.813	361.7939	34.6873	794.5675	850.5661	104.5044	482.0774	35.4334	0	0	27.6282	426.2763	0.3118	d_Bacteria;p_Actinobacteriota;c_Humimicrobiia;o_Humimicrobiales
+o_Paceibacterales	0	0	1141.7688	1038.0758	67.2154	685.77	547.8261	3.2538	58.1349	0	1.4314	0.5324	0	598.3826	0.3768	d_Bacteria;p_Patescibacteria;c_Paceibacteria;o_Paceibacterales
+o_Nitrosococcales	14.7364	0	621.7238	664.9593	16.944	1424.5787	268.1465	7.4471	430.7158	0	0	27.4774	70.5819	514.4759	37.6088	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nitrosococcales
+o_Unclassified_c_Dehalococcoidia	0	0	388.8386	1040.5873	28.0409	1160.3376	416.6466	0	237.5239	0	2.1591	0	0	732.7131	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_Unclassified_c_Dehalococcoidia
+o_Unclassified_c_Campylobacteria	84.4156	0	71.001	4.9594	2522.051	17.5787	152.8585	33.5012	11.2267	1.3085	3.0513	45.6429	0	1043.8947	10.4763	d_Bacteria;p_Campylobacterota;c_Campylobacteria;o_Unclassified_c_Campylobacteria
+o_Desulfuromonadales	0	184.1759	595.0744	632.6052	271.8401	378.6166	1018.3774	7.951	183.5965	16.0516	0	0	0	620.6342	0	d_Bacteria;p_Desulfobacterota;c_Desulfuromonadia;o_Desulfuromonadales
+o_Deinococcales	1511.197	22.3294	506.6607	461.9325	382.735	0	0	89.0226	310.2945	173.1448	1.0864	41.4742	49.3709	286.2502	53.1755	d_Bacteria;p_Deinococcota;c_Deinococci;o_Deinococcales
+o_Steroidobacterales	0	0	1661.3416	1069.4217	0	1038.9851	0	0	77.29	0	0	25.8375	0	0	4.7155	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Steroidobacterales
+o_PWTM01	0	0	765.4859	1130.7115	93.0848	753.1252	95.2965	0	393.7877	0	0	0	0	618.458	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_PWTM01
+o_Haliangiales	70.5687	346.9727	758.0383	351.8349	539.7376	578.9342	903.9009	0	47.5288	17.4989	3.0227	0	0	169.1741	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_Haliangiales
+o_AKYH767	15.0157	0	691.2469	183.8461	266.0098	414.4466	605.906	0	489.801	0	0	28.1006	0	1089.4704	0	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_AKYH767
+o_Leptolyngbyales	24.3929	0	744.9982	655.7435	141.647	671.2648	751.0937	3.186	356.5666	27.9432	0.1015	0.0999	13.2897	370.5225	1.2775	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Leptolyngbyales
+o_Arenicellales	17.6759	0	270.9831	1402.7313	80.5429	617.6653	584.616	0	337.7073	117.6696	0	0	0	306.5633	6.5596	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Arenicellales
+o_Unclassified_p_Chloroflexota	56.0999	83.4596	1316.9828	253.1452	70.6586	666.7396	626.8192	0	91.1439	0	0	0	5.7657	537.2318	0	d_Bacteria;p_Chloroflexota;c_Unclassified_p_Chloroflexota;o_Unclassified_p_Chloroflexota
+o_Vicinamibacterales	71.5347	98.266	246.4167	321.6328	181.4686	781.8741	1410.3099	20.4455	136.2732	3.3995	0	2.0985	0	209.2485	61.3034	d_Bacteria;p_Acidobacteriota;c_Vicinamibacteria;o_Vicinamibacterales
+o_XYA12-FULL-58-9	93.0149	573.3585	230.2256	1112.8554	332.83	362.7895	201.9665	0	121.5713	104.7871	0	2.2527	0	370.1166	0	d_Bacteria;p_Myxococcota;c_XYA12-FULL-58-9;o_XYA12-FULL-58-9
+o_UBA2565	0	0	1433.4469	594.4201	16.0561	685.6409	164.376	0	163.0178	0	0	0	0	405.3736	0	d_Bacteria;p_Verrucomicrobiota;c_Lentisphaeria;o_UBA2565
+o_UBA1177	0	0	895.2567	627.7465	68.101	323.6435	1007.7412	0	269.45	0	0	0	0	192.5978	0	d_Bacteria;p_UBP6;c_UBA1177;o_UBA1177
+o_Babeliales	0	0	618.618	379.3748	102.707	1181.7173	180.7468	0	0	0	11.9502	11.707	18.2943	239.4913	599.7945	d_Bacteria;p_Dependentiae;c_Babeliae;o_Babeliales
+o_SJA-28	0	0	458.614	938.1851	145.1388	521.2383	297.1745	0	227.2909	0	0	0	0	752.736	0	d_Bacteria;p_Bacteroidota;c_Ignavibacteria;o_SJA-28
+o_RZYC01	0	273.1828	431.2781	830.6583	18.0681	584.7361	258.9628	0	146.2219	111.1081	0	0	0	664.6684	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_RZYC01
+o_Leptospirales	0	0	473.3835	1167.3548	65.8756	519.2253	418.1709	0	187.7663	0	0	0	0	430.008	0	d_Bacteria;p_Spirochaetota;c_Leptospirae;o_Leptospirales
+o_Chitinivibrionales	2.4588	0	915.0904	258.3759	55.7472	760.6556	646.4472	0	236.1046	0	7.2716	0.277	15.9644	308.3878	5.3471	d_Bacteria;p_Fibrobacterota;c_Chitinivibrionia;o_Chitinivibrionales
+o_Bradymonadales	0	99.7099	602.5358	333.5557	109.8095	604.4487	945.4403	0	29.4569	40.5537	0	0	0	418.1109	0	d_Bacteria;p_Myxococcota;c_Bradymonadia;o_Bradymonadales
+o_UBA1400	30.0702	481.1595	323.7367	952.0426	52.5616	319.0182	409.7283	0	47.2417	68.6206	0	0	0	458.4548	0	d_Bacteria;p_Patescibacteria;c_Microgenomatia;o_UBA1400
+o_UBA9983 A	0	0	0	1569.2798	151.1034	285.5851	0	0	99.5495	0	0	0	0	1005.0062	20.3015	d_Bacteria;p_Patescibacteria;c_Paceibacteria;o_UBA9983 A
+o_Longimicrobiales	49.7066	0	1203.7372	0	18.0681	775.4094	408.0336	0	233.6697	0	0	19.1483	0	341.249	19.8856	d_Bacteria;p_Gemmatimonadota;c_Gemmatimonadetes;o_Longimicrobiales
+o_Unclassified_c_Anaerolineae	39.4805	0	302.6351	697.5885	37.3284	535.0937	229.292	0	385.2184	0	0	0	36.0048	787.1342	0.7048	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Unclassified_c_Anaerolineae
+o_RF39	0	0	655.2027	422.3395	72.2336	663.201	563.6958	64.6717	177.3283	0	37.9452	2.3881	53.4169	251.8851	47.5434	d_Bacteria;p_Firmicutes;c_Bacilli;o_RF39
+o_Brachyspirales	1036.0801	0	480.3181	0	725.981	442.2066	140.1457	5.3953	0	0	1.7186	12.0407	22.6385	115.8799	2.7828	d_Bacteria;p_Spirochaetota;c_Brachyspirae;o_Brachyspirales
+o_UBA7694	0	0	720.1379	246.1342	60.4524	480.3641	788.3162	0	0	0	5.3807	0	0	678.9825	0	d_Bacteria;p_Cyanobacteria;c_Sericytochromatia;o_UBA7694
+o_Brevibacillales	319.4202	0	0	75.5082	30.0151	0	144.1864	0	2136.7645	57.3315	24.0121	0	0	107.3806	30.959	d_Bacteria;p_Firmicutes;c_Bacilli;o_Brevibacillales
+o_Geobacterales	30.2845	123.9227	310.562	495.8632	137.8155	530.8288	412.0141	0	20.9843	14.4004	0	2.5586	0	811.9155	28.0246	d_Bacteria;p_Desulfobacterota;c_Desulfuromonadia;o_Geobacterales
+o_Desulfarculales	36.6505	0	337.0717	909.513	65.1163	383.6808	617.347	0	80.4891	0	0	0	0	486.2214	0	d_Bacteria;p_Desulfobacterota;c_Desulfarculia;o_Desulfarculales
+o_Thalassobaculales	0	0	834.7155	454.2973	212.7103	459.1103	290.8106	85.1031	94.3177	0	0	7.0733	0	430.7801	7.8384	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Thalassobaculales
+o_UBA9160	109.0357	405.0003	408.0298	0	29.2976	935.3782	139.6361	0	526.8563	0	0	2.2527	0	300.205	0	d_Bacteria;p_Myxococcota A;c_UBA9160;o_UBA9160
+o_Ectothiorhodospirales	0	0	466.6521	590.0223	31.4934	619.2129	520.726	0	39.969	0	0	0	0	546.3913	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Ectothiorhodospirales
+o_Pyrinomonadales	19.7783	470.9495	595.1849	196.3213	131.6421	339.9823	454.4833	0	80.4101	0	6.54	6.8256	0	499.9026	1.9944	d_Bacteria;p_Acidobacteriota;c_Blastocatellia;o_Pyrinomonadales
+o_Gastranaerophilales	0	109.3544	391.2958	164.2529	123.5904	785.6849	794.2976	51.3342	24.7882	57.1838	0	0	0	272.5158	0	d_Bacteria;p_Cyanobacteria;c_Vampirovibrionia;o_Gastranaerophilales
+o_Balneolales	54.9757	699.8684	332.8488	658.323	164.0945	0	241.7779	8.6325	62.6519	0	0	34.5157	13.8141	496.1474	0	d_Bacteria;p_Bacteroidota;c_Rhodothermia;o_Balneolales
+o_UBA994	7.1378	0	534.8521	485.128	56.8081	574.5808	328.3823	8.8615	623.6569	0	0.6191	0	10.1028	112.8404	0.3955	d_Bacteria;p_Firmicutes H;c_UBA994;o_UBA994
+o_Phormidesmiales	80.6724	608.5812	233.8163	265.6721	121.6719	419.7576	335.7273	0	108.889	0	0	0	0	537.5343	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Phormidesmiales
+o_Bacillales D	84.5697	0	509.6979	529.7004	93.6609	336.9969	239.79	7.2804	36.015	165.083	35.7536	10.1157	21.4111	432.2342	143.3552	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales D
+o_UBA1018	58.5258	49.8888	293.9948	782.1514	298.8351	239.3104	479.2347	0	35.8608	17.392	0	90.9767	0	281.6034	4.107	d_Bacteria;p_Bdellovibrionota;c_Bdellovibrionia A;o_UBA1018
+o_Chthoniobacterales	13.1662	0	532.0239	282.104	27.0357	288.0165	485.7045	0	36.4918	0	0	0	0	860.939	26.9828	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Chthoniobacterales
+o_Bacillales	156.8269	217.4147	206.1593	0	276.625	53.8433	475.8415	158.6045	655.7559	70.9531	28.4867	1.8337	27.896	55.5207	156.7661	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales
+o_Ardenticatenales	0	0	578.6927	1052.0569	105.5555	569.3483	0	0	29.7696	0	0	0	0	187.017	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Ardenticatenales
+o_Desulfobulbales	136.6191	409.622	231.1085	175.0636	156.0319	114.4266	289.5786	0	447.8542	99.9602	0	11.7009	0	378.2882	2.9802	d_Bacteria;p_Desulfobacterota;c_Desulfobulbia;o_Desulfobulbales
+o_Diplorickettsiales	0	0	456.4029	842.7001	138.749	200.204	284.0913	0	29.3483	0	0	0	0	460.9263	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Diplorickettsiales
+o_UBA2214	0	0	978.76	158.8728	0	756.6079	0	0	35.9644	0	0	0	0	451.8676	0.7659	d_Bacteria;p_KSB1;c_UBA2214;o_UBA2214
+o_Beggiatoales	19.5575	65.4957	385.9653	228.1892	235.639	580.1731	466.4391	0	46.9496	0	0	149.9775	0	185.0588	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Beggiatoales
+o_PCC-6307	218.8111	0	353.1293	601.861	38.7037	347.4271	549.5197	0	67.8765	30.8284	0	3.6915	0	142.6516	1.9134	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_PCC-6307
+o_Legionellales	16.3261	0	345.6604	299.8362	486.3469	475.9752	164.2564	0	158.3743	0	0	0	0	355.3322	52.8471	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Legionellales
+o_Marinisomatales	38.7041	211.1672	540.1369	97.8113	279.7455	510.0733	513.5311	18.2325	140.3424	0	0	4.3598	0	0	0	d_Bacteria;p_Marinisomatota;c_Marinisomatia;o_Marinisomatales
+o_JAAYKL01	0	0	971.8937	61.3504	82.5967	310.2812	236.3363	0	134.8114	0	0	0	0	545.4386	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_JAAYKL01
+o_UBA8477	0	0	147.4961	727.8254	119.6943	556.4692	0	0	505.3663	0	2.0974	0	0	279.1896	0	d_Bacteria;p_Marinisomatota;c_UBA8477;o_UBA8477
+o_BM507	82.7235	0	379.2106	26.6845	66.7127	1308.0518	87.7097	0	77.0422	93.8402	0	0	0	190.3566	0.2573	d_Bacteria;p_Patescibacteria;c_ABY1;o_BM507
+o_HGW-17	16.3261	0	61.1872	434.6264	0	771.7652	452.5599	0	20.0059	0	0	0	0	549.9626	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_HGW-17
+o_JACCYU01	0	293.358	527.7522	420.3586	105.3711	699.9635	215.7493	0	14.6396	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_JACCYU01
+o_Nitrospirales	0	0	405.8014	174.6927	155.7987	820.0785	255.2007	0	333.4332	0	0	0	0	124.2157	0	d_Bacteria;p_Nitrospirota;c_Nitrospiria;o_Nitrospirales
+o_WVXJ01	60.9459	1108.3889	0	0	99.824	53.8433	204.3915	0	84.4594	656.8811	0	0	0	0	0	d_Bacteria;p_Armatimonadota;c_CAIYQO01;o_WVXJ01
+o_Micavibrionales	15.8078	73.1206	135.0504	483.5204	45.8275	582.4246	386.6543	0	263.3432	0	0	0	0	259.4919	1.1674	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Micavibrionales
+o_Competibacterales	28.5967	0	281.2716	377.2634	20.1196	642.0424	514.1442	0	25.5343	0	0	93.5194	10.7785	231.3913	19.7373	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Competibacterales
+o_Rhodothermales	0	0	429.7601	0	251.8443	821.9829	229.292	0	0	0	0	0	10.6765	497.1581	0	d_Bacteria;p_Bacteroidota;c_Rhodothermia;o_Rhodothermales
+o_Bdellovibrionales	13.772	0	410.7036	194.9755	204.917	229.3734	153.4855	0	164.6145	13.0973	0	2.1706	0	844.1942	0	d_Bacteria;p_Bdellovibrionota;c_Bdellovibrionia;o_Bdellovibrionales
+o_Unclassified_c_Verrucomicrobiae	12.0045	0	370.2452	419.2547	18.7594	673.5859	296.6457	0	307.763	0	0	1.3522	0	83.9028	0	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Unclassified_c_Verrucomicrobiae
+o_Thermosynechococcales	0	0	532.5605	392.0468	201.5796	472.2719	250.2542	0	6.944	0	0	0	0	309.0512	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Thermosynechococcales
+o_UBA3495	15.4817	0	691.3536	568.6549	25.3576	287.2264	311.5208	0	45.3848	0	0	0	0	213.8356	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_UBA3495
+o_Fimbriimonadales	0	0	498.829	0	27.9608	770.5461	131.3096	0	503.8949	0	0	0	0	212.7764	0	d_Bacteria;p_Armatimonadota;c_Fimbriimonadia;o_Fimbriimonadales
+o_Obscuribacterales	0	0	126.4252	267.5985	51.2453	700.022	574.0908	0	98.195	0	0	0	0	308.4378	0	d_Bacteria;p_Cyanobacteria;c_Vampirovibrionia;o_Obscuribacterales
+o_HRBIN30	0	0	475.9084	1032.0619	50.0975	153.0467	108.3226	0	0	0	0	0	0	246.0484	1.7435	d_Bacteria;p_Desulfobacterota B;c_Binatia;o_HRBIN30
+o_Ozemobacterales	116.0437	244.3431	306.1944	608.8446	86.8547	376.5626	190.5929	0	112.0281	0	0	0	11.3192	0	2.2158	d_Bacteria;p_Riflebacteria;c_Ozemobacteria;o_Ozemobacterales
+o_UBA1113	30.9633	168.9338	339.1159	0	145.91	0	1298.8546	0	0	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_UBA1113
+o_Euzebyales	214.0435	208.1555	279.6457	158.8728	255.0416	0	389.0503	12.2253	35.9644	35.3718	2.5829	13.9045	58.2942	225.9338	65.8555	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Euzebyales
+o_Palsa-1104 A	0	0	395.5863	204.8525	75.5978	730.3181	220.523	0	73.3627	111.708	0	0	0	126.0856	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_Palsa-1104 A
+o_Ammonifexales	0	0	449.802	795.0203	121.5487	344.1969	62.2183	0	0	0	0	0	0	161.5147	0	d_Bacteria;p_Firmicutes B;c_Desulfotomaculia;o_Ammonifexales
+o_SZUA-336	0	1695.835	46.518	0	0	0	0	0	0	131.3762	0	0	0	0	0	d_Bacteria;p_Myxococcota A;c_UBA9160;o_SZUA-336
+o_Xenobiales	0	0	35.1589	625.8285	0	114.2213	157.3643	0	140.3424	0	0	0	0	776.7845	0	d_Bacteria;p_Eremiobacterota;c_Xenobia;o_Xenobiales
+o_SZUA-6	0	0	367.7436	139.282	41.0821	120.6018	83.1093	0	208.5535	0	0	0	0	863.299	0	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_SZUA-6
+o_DTU080	30.6463	0	536.6239	307.6119	142.4442	370.2624	102.7771	0	212.3497	0	0	0	0	85.3271	0	d_Bacteria;p_Firmicutes G;c_Limnochordia;o_DTU080
+o_JACQBZ01	1.4257	0	414.8063	440.7722	37.364	302.3024	243.8548	0	152.1379	0	0	0	1.0748	179.9793	0.2525	d_Bacteria;p_Nitrospirota;c_Nitrospiria;o_JACQBZ01
+o_Fermentibacterales	7.421	0	59.9736	392.6097	12.1549	574.5767	49.7747	0	123.4085	0	0	0	0	527.1773	0	d_Bacteria;p_Fermentibacterota;c_Fermentibacteria;o_Fermentibacterales
+o_Micropepsales	13.7509	0	289.3463	854.7962	35.1852	227.7393	144.0846	0	0	0	0	31.1882	0	93.5085	11.8429	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Micropepsales
+o_UBA4486	0	0	186.072	264.2787	34.2032	457.6684	581.8027	0	167.5112	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_UBA4486
+o_2-01-FULL-39-33	0	0	360.267	584.7869	31.2923	379.7674	96.1075	0	132.3797	0	0	0	0	103.9536	0	d_Bacteria;p_Patescibacteria;c_ABY1;o_2-01-FULL-39-33
+o_UBA6777	0	0	310.2589	0	0	178.3286	836.3356	0	50.8598	0	0	0	0	302.1914	0	d_Bacteria;p_Myxococcota;c_UBA6777;o_UBA6777
+o_UBA6098	0	0	221.4129	440.2629	0	637.4667	168.8911	0	69.7898	0	0	0	0	130.8701	0	d_Bacteria;p_UBP14;c_UBA6098;o_UBA6098
+o_Erysipelotrichales	22.712	0	91.2806	129.6462	6.7589	224.5166	86.2089	261.1449	0	9.9644	142.8141	8.5782	161.9815	8.9813	487.5108	d_Bacteria;p_Firmicutes;c_Bacilli;o_Erysipelotrichales
+o_D2-FULL-39-29	0	0	143.4962	409.5445	12.4639	605.0532	153.1204	0	52.7275	0	0	0	0	262.6902	0	d_Bacteria;p_Firestonebacteria;c_D2-FULL-39-29;o_D2-FULL-39-29
+o_Unclassified_c_Blastocatellia	0	0	112.3345	515.8753	0	801.274	46.6156	0	0	0	0	0	0	155.0453	0	d_Bacteria;p_Acidobacteriota;c_Blastocatellia;o_Unclassified_c_Blastocatellia
+o_Victivallales	0	0	0	594.0929	77.7334	588.4308	124.2681	8.3994	34.186	0	6.5304	2.0085	0	161.0709	0	d_Bacteria;p_Verrucomicrobiota;c_Lentisphaeria;o_Victivallales
+o_Methylomirabilales	0	0	52.5856	358.4998	63.9452	258.6821	261.8581	0	162.309	0	0	0	0	424.8538	0.5761	d_Bacteria;p_Methylomirabilota;c_Methylomirabilia;o_Methylomirabilales
+o_Selenomonadales	0	0	47.061	266.1984	35.6111	0	0	7.6169	180.78	0	15.3121	872.9214	12.1889	137.7259	0	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Selenomonadales
+o_UBA9968	0	0	855.7555	64.8231	69.3745	0	142.0457	0	58.6967	0	0	0	0	368.741	0	d_Bacteria;p_Desulfobacterota B;c_Binatia;o_UBA9968
+o_Dehalococcoidales	124.2297	372.2704	177.0817	321.9325	21.5335	226.4889	88.1806	20.8371	18.2192	0	0	19.7469	0	128.7624	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_Dehalococcoidales
+o_PGYV01	0	0	69.9114	238.3091	85.0139	619.0428	87.0338	0	71.9289	0	0	0	0	338.9007	0	d_Bacteria;p_Goldbacteria;c_PGYV01;o_PGYV01
+o_Chlorobiales	6.844	0	392.7711	543.5253	43.599	0	0	117.76	0	0	1.1445	21.1607	17.8562	352.1503	5.8577	d_Bacteria;p_Bacteroidota;c_Chlorobia;o_Chlorobiales
+o_Hydrogenothermales	8.9794	0	525.8555	341.4284	117.6592	369.5459	0	0	0	0	0	0	0	121.3868	0	d_Bacteria;p_Aquificota;c_Aquificae;o_Hydrogenothermales
+o_SpSt-205	0	0	387.0888	108.2086	27.3372	431.8323	0	0	123.8652	0	0	0	0	394.0176	0	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_SpSt-205
+o_JACIZP01	1.8333	0	333.3356	319.7886	46.5369	276.9022	276.6257	0	63.5048	0	0	0	0	153.6048	0	d_Bacteria;p_KSB1;c_UBA2214;o_JACIZP01
+o_Desulfotomaculales	0	25.463	240.2916	864.5939	0	39.4019	99.7142	4.6347	61.8064	62.1374	0	0	0	64.7128	0	d_Bacteria;p_Firmicutes B;c_Desulfotomaculia;o_Desulfotomaculales
+o_Thermodesulfovibrionales	0	943.8593	0	0	105.0528	0	121.4261	84.2777	0	152.4903	23.5715	0	0	0	0	d_Bacteria;p_Nitrospirota;c_Thermodesulfovibrionia;o_Thermodesulfovibrionales
+o_PIVX01	0	0	544.4818	325.0555	26.8056	91.8125	177.4643	0	88.0724	0	0	1.3724	0	164.0494	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_PIVX01
+o_UBA8231	0	0	324.2542	72.456	0	335.457	473.3596	0	21.8694	0	0	0	0	183.6007	0	d_Bacteria;p_Latescibacterota;c_UBA2968;o_UBA8231
+o_Oligoflexales	0	0	281.2716	174.3234	170.721	50.3145	222.627	0	126.1952	0	0	0	0	358.2065	0	d_Bacteria;p_Bdellovibrionota;c_Oligoflexia;o_Oligoflexales
+o_UBA1149	0	0	264.4959	300.5317	29.2394	331.1954	209.5385	0	37.1084	0	0	0	0	174.8404	0	d_Bacteria;p_Desulfobacterota B;c_Binatia;o_UBA1149
+o_Coriobacteriales	105.4964	181.4796	50.818	104.5057	87.8928	0	91.6194	78.3252	24.0638	17.3818	400.3057	18.2038	22.5391	0	164.294	d_Bacteria;p_Actinobacteriota;c_Coriobacteriia;o_Coriobacteriales
+o_AABM5-25-91	0	0	333.6463	189.5516	76.0727	369.2911	155.7604	0	0	0	0	0	0	202.1718	0	d_Bacteria;p_KSB1;c_UBA2214;o_AABM5-25-91
+o_Moorellales	0	0	342.0089	376.9919	0	338.7678	41.5935	0	15.9945	0	0	0	0	200.9591	0	d_Bacteria;p_Firmicutes B;c_Moorellia;o_Moorellales
+o_JC444	17.4696	232.1586	276.3191	53.4727	332.3335	46.3011	226.8198	0	0	47.7064	0	0	0	76.0439	0	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_JC444
+o_SZUA-365	0	0	0	1249.3176	0	0	0	0	56.5622	0	0	0	0	0	0	d_Bacteria;p_Bacteroidota;c_SZUA-365;o_SZUA-365
+o_TMED127	0	68.2323	374.0622	70.8376	0	429.359	155.2252	0	205.3818	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_TMED127
+o_Saccharofermentanales	5.7857	20.5844	0	595.1473	57.9031	93.6959	177.8367	4.3075	78.7148	8.696	0.4318	0.9676	19.9085	192.3551	33.1899	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Saccharofermentanales
+o_4484-171	0	521.1786	64.3334	0	78.2308	0	320.3583	0	0	45.4226	0	0	0	259.884	0	d_Bacteria;p_Omnitrophota;c_Koll11;o_4484-171
+o_AKYH767-A	0	0	156.0604	566.7007	47.4432	122.674	97.1409	0	128.2855	0	0	41.6866	0	100.7385	5.243	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_AKYH767-A
+o_Bacillales C	20.5949	224.7284	104.8462	0	326.1732	0	453.0302	21.6469	0	0	27.9082	0	31.05	44.824	0.2745	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales C
+o_Nevskiales	16.3261	267.2225	303.0557	78.2602	0	172.5646	263.8455	0	21.2592	15.5263	0	59.5806	0	22.2589	29.3309	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales
+o_RBG-13-44-9	0	0	283.469	0	57.4508	371.8556	0	0	0	0	0	0	0	522.1718	0	d_Bacteria;p_Calditrichota;c_Calditrichia;o_RBG-13-44-9
+o_Unclassified_p_Verrucomicrobiota	181.5235	198.076	307.6547	338.7234	0	0	0	0	33.5409	23.0174	0	0	0	139.8167	0	d_Bacteria;p_Verrucomicrobiota;c_Unclassified_p_Verrucomicrobiota;o_Unclassified_p_Verrucomicrobiota
+o_CF-121	5.5292	0	238.3188	54.8937	36.2251	574.4629	111.2574	0	84.2861	0	0	0	0	110.9232	0	d_Bacteria;p_Dormibacterota;c_Dormibacteria;o_CF-121
+o_Palsa-1104	0	0	0	33.2748	108.6859	233.0724	401.2964	0	75.325	0	0	0	0	359.6522	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_Palsa-1104
+o_SAR202	0	0	354.0049	95.7665	75.3558	287.4741	313.9017	26.2729	21.1988	0	0	0	0	37.1545	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_SAR202
+o_Magasanikbacterales	79.5216	907.0065	0	0	18.9041	0	0	0	87.7496	106.0021	0	0	0	0	4.6596	d_Bacteria;p_Patescibacteria;c_ABY1;o_Magasanikbacterales
+o_JAEEML01	0	0	0	645.8613	0	248.551	235.8774	0	16.245	0	0	0	0	51.0268	0	d_Bacteria;p_Myxococcota;c_XYA12-FULL-58-9;o_JAEEML01
+o_Limnochordales	0	0	829.0706	0	59.304	0	303.5653	0	0	0	0	0	0	0	0	d_Bacteria;p_Firmicutes G;c_Limnochordia;o_Limnochordales
+o_Bin18	12.2837	0	52.3192	334.9552	21.7509	468.7555	82.3904	0	34.0457	0	0	0	4.6299	142.0693	0	d_Bacteria;p_Desulfobacterota B;c_Binatia;o_Bin18
+o_Absconditabacterales	0	0	168.0311	0	70.2024	415.6932	100.1196	0	37.3834	0	0	0	0	359.4686	0	d_Bacteria;p_Patescibacteria;c_JAEDAM01;o_Absconditabacterales
+o_UBA3088	0	0	139.4199	475.2447	63.5766	68.5843	260.3488	0	143.4431	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_UBA3088
+o_P2-11E	60.3993	384.4569	108.4724	0	82.4406	23.241	286.4302	0	97.2163	28.7201	0	0	0	43.819	0	d_Bacteria;p_Chloroflexota;c_Limnocylindria;o_P2-11E
+o_Kiloniellales	0	0	271.1811	308.1276	0	266.8022	236.3181	0	0	0	0	0	0	21.9095	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Kiloniellales
+o_Thermoflexales	41.7645	75.1392	0	42.1549	180.4589	36.5012	604.2353	0	0	13.0973	1.5763	0	0	105.8899	0.8129	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Thermoflexales
+o_UBA10030	54.9757	99.9812	165.1046	0	165.5857	0	483.1244	10.1195	0	0	0	0	41.4422	79.7685	0.634	d_Bacteria;p_Bacteroidota;c_UBA10030;o_UBA10030
+o_GN15	16.6903	0	375.352	0	52.6947	205.1617	51.9201	0	161.9068	0	0	0	0	215.3242	0	d_Bacteria;p_Zixibacteria;c_MSB-5A5;o_GN15
+o_UBA12015	0	499.906	0	0	0	38.2617	0	0	359.4434	163.3824	0	0	0	0	0	d_Bacteria;p_Desulfobacterota B;c_Binatia;o_UBA12015
+o_UBA6257	0	0	99.63	26.2261	139.6272	158.9612	219.3273	0	0	0	0	3.2009	0	410.2596	1.6773	d_Bacteria;p_Patescibacteria;c_Paceibacteria;o_UBA6257
+o_DSM-22653	12.7186	763.3126	109.9516	0	20.832	115.903	0	5.9914	17.6256	12.0955	0	0	0	0	0	d_Bacteria;p_Firmicutes;c_Bacilli;o_DSM-22653
+o_UBA5066	0	0	0	503.6516	0	172.6633	236.4949	0	40.0985	0	0	0	0	102.3208	0	d_Bacteria;p_Acidobacteriota;c_Thermoanaerobaculia;o_UBA5066
+o_DRLW01	0	0	218.9082	559.649	0	0	272.522	0	0	0	0	0	0	0	0	d_Bacteria;p_KSB1;c_UBA2214;o_DRLW01
+o_XYD2-FULL-50-16	0	0	0	1039.3482	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_SAR324;c_SAR324;o_XYD2-FULL-50-16
+o_WFRC01	0	0	202.2521	0	24.5943	517.3643	251.7866	0	0	0	0	0	0	32.6811	0	d_Bacteria;p_WOR-3;c_UBA3072;o_WFRC01
+o_Acholeplasmatales	0	0	711.4516	230.9663	0	0	0	0	0	0	0	0	0	82.1146	2.621	d_Bacteria;p_Firmicutes;c_Bacilli;o_Acholeplasmatales
+o_UBA4802	0	0	472.4483	0	57.4508	371.8556	0	0	48.6082	0	0	0	0	76.3409	0	d_Bacteria;p_Spirochaetota;c_UBA4802;o_UBA4802
+o_UBA2400	0	0	14.5719	596.0599	0	28.6732	0	0	385.7209	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_UBA2400
+o_SZUA-229	0	0	64.3334	438.5902	117.3462	126.5891	240.2687	0	33.0949	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_SZUA-229
+o_UBA12405	13.6464	446.7245	0	0	178.8133	0	137.2964	0	179.8212	25.9558	0	3.0744	0	29.701	1.2082	d_Bacteria;p_Patescibacteria;c_Microgenomatia;o_UBA12405
+o_Limnocylindrales	12.3635	0	23.1256	127.0613	14.0606	113.1272	415.0407	0	63.006	40.5097	0	2.5287	8.5682	177.1915	8.8843	d_Bacteria;p_Chloroflexota;c_Limnocylindria;o_Limnocylindrales
+o_Methylacidiphilales	0	44.9457	44.3841	690.7203	27.6894	0	174.4035	4.083	12.0113	0	0	0	0	0	0.2431	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Methylacidiphilales
+o_Rubrobacterales	12.6115	0	169.8691	270.2176	82.6258	33.4252	42.2945	0	34.9542	0	0	2.929	0	301.9326	39.9049	d_Bacteria;p_Actinobacteriota;c_Rubrobacteria;o_Rubrobacterales
+o_Coxiellales	0	0	198.5341	307.0321	37.8234	173.983	121.265	0	16.6271	0	0	0	0	133.8229	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Coxiellales
+o_SS1-B-03-39	0	0	36.1035	615.3355	43.9027	248.6437	44.9458	0	0	0	0	0	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_SS1-B-03-39
+o_Portnoybacterales	54.7522	149.3622	73.748	0	269.0377	0	183.62	0	0	0	0	3.0838	0	238.3326	0.808	d_Bacteria;p_Patescibacteria;c_Paceibacteria;o_Portnoybacterales
+o_Unclassified_c_Gemmatimonadetes	11.4533	124.9765	84.8479	0	18.7594	53.1222	643.3726	0	0	0	2.294	8.0635	0	24.9276	0.5915	d_Bacteria;p_Gemmatimonadota;c_Gemmatimonadetes;o_Unclassified_c_Gemmatimonadetes
+o_Parvibaculales	16.6109	0	201.0126	87.1617	93.932	149.1979	117.1636	0	144.5795	0	0.2716	0	0	162.4039	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Parvibaculales
+o_Eubacteriales	0	0	390.1509	0	64.6953	244.2688	132.4649	0	14.9564	0	0	0	7.3816	85.9675	30.1292	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Eubacteriales
+o_Sulfobacillales	8.5962	0	258.0374	187.9444	14.0798	198.54	86.4862	0	110.6182	0	0	0	0	104.2379	0.0362	d_Bacteria;p_Firmicutes E;c_Sulfobacillia;o_Sulfobacillales
+o_UBA4975	0	0	137.4395	0	0	540.8809	85.5502	0	141.4056	0	0	0	0	55.5207	0	d_Bacteria;p_Firmicutes D;c_Proteinivoracia;o_UBA4975
+o_JACPHY01	0	0	89.7814	359.1703	0	417.7319	0	0	92.3723	0	0	0	0	0	0	d_Bacteria;p_Patescibacteria;c_ABY1;o_JACPHY01
+o_CACIAM-69d	21.7418	593.1088	0	0	35.6111	0	256.6507	0	0	20.6766	0	0	0	23.6601	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_CACIAM-69d
+o_UBA7879	22.4484	0	0	0	36.7685	416.4783	376.421	0	93.3277	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_UBA7879
+o_Desulfuribacillales	0	0	0	0	0	0	73.0915	780.2801	0	0	4.9889	4.9101	34.2385	47.4351	0	d_Bacteria;p_Firmicutes;c_Bacilli;o_Desulfuribacillales
+o_UBA8366	0	0	0	839.2362	0	0	42.2154	0	47.495	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_UBA8366
+o_Gloeobacterales	0	0	189.5717	366.1793	0	74.6043	23.6001	0	29.2563	0	0	26.321	0	214.4246	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Gloeobacterales
+o_JABIPA01	0	0	0	0	0	68.7825	0	0	0	0	0	0	0	847.2517	0	d_Bacteria;p_Margulisbacteria;c_Marinamargulisbacteria;o_JABIPA01
+o_RBC074	82.3795	224.7284	110.9603	63.039	67.4651	0	138.1361	9.7017	57.0812	117.5154	0	0	0	44.824	0	d_Bacteria;p_Acidobacteriota;c_Blastocatellia;o_RBC074
+o_UBA10015	29.5374	0	24.1894	54.97	145.1388	23.7988	396.2326	0	0	0	0	0	0	240.1765	0	d_Bacteria;p_Omnitrophota;c_Koll11;o_UBA10015
+o_Cardiobacteriales	0	167.9489	62.8271	0	8.7336	0	251.6045	37.2164	185.0052	6.9201	62.4529	29.1176	38.1867	46.4211	10.721	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Cardiobacteriales
+o_Mycoplasmatales	0	0	16.6823	0	294.4124	0	85.3897	116.1544	0	73.3	39.6912	89.8897	176.2864	0	7.9609	d_Bacteria;p_Firmicutes;c_Bacilli;o_Mycoplasmatales
+o_LD1-PB3	0	0	84.2835	95.7665	51.2453	414.6125	209.8514	0	43.3578	0	0	0	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_LD1-PB3
+o_UBA1151	0	0	0	540.6883	0	117.0431	0	0	239.3018	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_UBA1151
+o_Thiohalomonadales	0	597.4487	0	0	89.6792	0	183.62	0	0	0	0	9.2513	0	0	8.0577	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Thiohalomonadales
+o_SURF-5	0	0	0	0	0	620.8372	261.8581	0	0	0	0	0	0	0	0	d_Bacteria;p_Abyssubacteria;c_SURF-5;o_SURF-5
+o_UBA6429	27.7999	227.5114	112.3345	0	91.0675	0	186.4624	0	115.5761	26.4379	0	1.5658	0	60.5055	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_UBA6429
+o_NS11-12g	0	0	51.9085	0	0	459.6327	0	0	0	0	0	0	0	335.5068	0.5687	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_NS11-12g
+o_GWE2-31-10	0	296.3153	48.7689	0	148.26	0	303.5653	0	0	0	2.072	0	0	39.4018	0	d_Bacteria;p_Spirochaetota;c_GWE2-31-10;o_GWE2-31-10
+o_UBA1063	0	0	828.4025	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_WOR-3;c_Hydrothermia;o_UBA1063
+o_Woeseiales	6.844	98.7718	146.3066	0	11.2099	0	182.1392	0	28.4536	0	0	0	0	352.2133	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Woeseiales
+o_Geminicoccales	60.4884	0	240.9298	54.751	29.2976	189.6315	119.9748	0	49.5765	0	0	38.9526	0	38.9308	1.0345	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Geminicoccales
+o_GCA-2863065	0	0	289.1158	458.2178	0	0	0	0	0	0	0	0	0	65.5815	7.313	d_Bacteria;p_Myxococcota;c_UBA9042;o_GCA-2863065
+o_CADDZG01	0	0	80.708	169.8717	0	280.6113	147.6419	0	41.7574	0	0	0	0	93.1519	2.4069	d_Bacteria;p_Actinobacteriota;c_UBA4738;o_CADDZG01
+o_B26-G9	0	0	563.735	116.4618	0	0	127.6003	0	0	0	0	0	0	0	0	d_Bacteria;p_Omnitrophota;c_Koll11;o_B26-G9
+o_Elainellales	12.6115	68.8073	0	0	123.9387	434.2839	126.8835	17.8228	17.4771	0	0	0	0	0	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Elainellales
+o_DSWW01	32.7236	428.4909	17.6307	20.0328	21.4394	0	65.8462	3.083	36.279	118.2578	0	49.4877	0	0	0.5795	d_Bacteria;p_Desulfobacterota;c_DSWW01;o_DSWW01
+o_GCA-2747355	0	0	0	706.7568	21.0106	33.9982	0	0	0	0	0	0	0	27.919	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_GCA-2747355
+o_UBA12225	0	0	0	0	28.9516	468.4795	59.2789	0	0	0	0	0	0	230.8261	0	d_Bacteria;p_Chloroflexota;c_UBA2235;o_UBA12225
+o_TANB77	0	0	273.6352	0	66.5493	0	0	324.0699	0	0	27.7541	0.866	36.1214	16.7323	27.537	d_Bacteria;p_Firmicutes A;c_Clostridia;o_TANB77
+o_SM23-28-2	14.0303	153.0962	0	0	22.9803	451.8751	95.2965	0	0	0	0	0	0	30.5364	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_SM23-28-2
+o_UBA828	27.8862	0	150.2444	0	228.3757	73.9092	280.5622	0	0	0	3.1917	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_UBA828
+o_Unclassified_p_Fibrobacterota	0	113.9321	281.2716	63.9186	136.813	0	140.0636	19.6741	0	0	4.7801	0	0	0	0	d_Bacteria;p_Fibrobacterota;c_Unclassified_p_Fibrobacterota;o_Unclassified_p_Fibrobacterota
+o_SHVP01	80.6529	440.037	72.4232	0	0	0	90.1607	12.6645	37.2566	25.5672	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_SHVP01
+o_Entotheonellales	0	0	210.9799	0	113.1338	159.2293	173.7328	0	47.8604	0	0	0	0	34.9403	0	d_Bacteria;p_Tectomicrobia;c_Entotheonellia;o_Entotheonellales
+o_Carboxydocellales	14.163	0	267.0749	260.1103	0	37.5375	0	0	98.1364	0	0	0	0	61.6507	0	d_Bacteria;p_Firmicutes B;c_GCA-003054495;o_Carboxydocellales
+o_UMGS1883	0	0	176.1361	133.4223	0	57.764	0	0	124.4369	0	0	0	0	237.1757	0	d_Bacteria;p_Firmicutes A;c_Clostridia;o_UMGS1883
+o_Enterobacterales A	0	0	103.0796	234.247	10.4456	101.4152	213.8756	0	0	0	0	0	0	55.5207	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales A
+o_LBFQ01	8.7689	0	0	590.4978	0	0	105.2926	0	12.152	0	0	0	0	0	0	d_Bacteria;p_WOR-3;c_Hydrothermia;o_LBFQ01
+o_SpSt-956	0	0	0	0	241.1049	97.5359	370.2502	0	0	0	4.212	0	0	0	0	d_Bacteria;p_Eremiobacterota;c_SpSt-956;o_SpSt-956
+o_JABWCM01	0	0	290.7374	66.0697	17.6772	28.6043	72.3887	0	0	0	0	0	0	234.8951	0	d_Bacteria;p_Myxococcota;c_UBA9042;o_JABWCM01
+o_DTJE01	25.8771	0	34.855	0	211.9221	34.2922	347.1317	6.095	0	24.6094	0	22.6807	0	0	0.3128	d_Bacteria;p_Myxococcota;c_UBA9042;o_DTJE01
+o_UBA5070	2.8542	0	103.8005	187.8345	23.3748	158.8601	90.9345	0	41.5317	0	0	0.1608	0	83.8634	0	d_Bacteria;p_Fibrobacterota;c_Fibrobacteria;o_UBA5070
+o_Desulfitobacteriales	0	0	109.9516	71.9502	115.5031	216.3523	0	12.685	0	0	45.0187	0	14.1166	88.8331	6.6238	d_Bacteria;p_Firmicutes B;c_Desulfitobacteriia;o_Desulfitobacteriales
+o_Hydrogenedentiales	34.2724	56.0535	220.1701	0	56.1351	57.764	36.5457	0	171.5387	9.7705	0	0	0	23.7176	0	d_Bacteria;p_Hydrogenedentota;c_Hydrogenedentia;o_Hydrogenedentiales
+o_UBA6624	0	0	0	452.0557	48.3796	0	99.0582	0	0	0	0	0	0	64.2871	0	d_Bacteria;p_UBP7;c_UBA6624;o_UBA6624
+o_Solirubrobacterales	2.6042	140.2408	0	0	0	118.9938	0	0	124.4369	0	0	28.7486	0	239.3942	6.6729	d_Bacteria;p_Actinobacteriota;c_Thermoleophilia;o_Solirubrobacterales
+o_Aminicenantales	0	0	0	525.407	0	0	90.1607	0	37.2566	0	7.104	0	0	0	0.3053	d_Bacteria;p_Acidobacteriota;c_Aminicenantia;o_Aminicenantales
+o_SZUA-21	24.5785	44.6996	88.2823	0	107.3533	0	357.1878	0	0	0	0	0.9229	0	35.6629	0.2418	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_SZUA-21
+o_UBA4473	0	0	401.9907	0	0	96.8006	157.9389	0	0	0	0	0	0	0	0	d_Bacteria;p_Patescibacteria;c_Gracilibacteria;o_UBA4473
+o_UBA6099	0	0	47.805	217.2726	0	305.7153	59.5132	0	24.5923	0	0	0	0	0	0	d_Bacteria;p_UBP15;c_UBA6099;o_UBA6099
+o_UBA1381	0	0	0	60.3623	10.7668	313.0936	262.6193	0	0	0	2.0974	0	0	0	1.6225	d_Bacteria;p_Firmicutes A;c_Clostridia;o_UBA1381
+o_UCB3	0	0	338.8595	29.6174	0	51.2904	0	0	40.2275	0	0	0	0	189.5361	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_UCB3
+o_Unclassified_p_Firmicutes A	36.3216	0	0	0	0	0	30.2974	247.6694	0	49.3044	114.4954	3.1598	85.0745	0	78.5377	d_Bacteria;p_Firmicutes A;c_Unclassified_p_Firmicutes A;o_Unclassified_p_Firmicutes A
+o_2-02-FULL-39-32	0	0	0	170.3615	0	344.1969	0	0	0	0	4.2468	0	0	121.136	0	d_Bacteria;p_Elusimicrobiota;c_Elusimicrobia;o_2-02-FULL-39-32
+o_Tumebacillales	0	0	0	0	0	568.8946	59.9874	0	0	0	0	0	0	0	0	d_Bacteria;p_Firmicutes;c_Bacilli;o_Tumebacillales
+o_LZORAL124-64-63	0	0	159.1405	0	0	0	0	0	0	0	0	0	0	450.0096	0	d_Bacteria;p_Krumholzibacteriota;c_Krumholzibacteria;o_LZORAL124-64-63
+o_Halobacteroidales	8.1188	0	0	0	0	382.6167	0	180.5462	0	0	33.9166	0.9145	0	0	0	d_Bacteria;p_Firmicutes F;c_Halanaerobiia;o_Halobacteroidales
+o_UBA4248	5.2572	0	0	0	153.9146	411.9016	0	0	0	0	0	0.5881	0	34.0871	0.1541	d_Bacteria;p_Myxococcota;c_Bradymonadia;o_UBA4248
+o_RFP12	0	0	27.8359	0	0	260.1705	259.8994	0	7.1598	0	0	36.6226	0	11.2447	2.6501	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_RFP12
+o_Immundisolibacterales	74.5519	271.1667	0	0	67.8385	0	0	65.6047	45.9177	78.7773	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Immundisolibacterales
+o_Moranbacterales	0	0	281.2716	0	24.9278	161.3475	70.0318	41.1339	0	0	20.8209	0	0	0	0	d_Bacteria;p_Patescibacteria;c_Paceibacteria;o_Moranbacterales
+o_Unclassified_c_Saccharimonadia	0	0	197.0619	0	14.977	24.235	61.3313	0	139.3896	0	0	0	0	159.212	0	d_Bacteria;p_Patescibacteria;c_Saccharimonadia;o_Unclassified_c_Saccharimonadia
+o_Syntrophomonadales	23.8813	0	128.6668	0	156.4617	0	160.1791	11.2498	0	0	0	11.9601	34.3019	51.9768	14.8184	d_Bacteria;p_Firmicutes B;c_Syntrophomonadia;o_Syntrophomonadales
+o_B64-G9	0	0	0	0	0	275.8134	199.4283	0	20.6021	0	0	0	0	97.0692	0	d_Bacteria;p_Myxococcota;c_B64-G9;o_B64-G9
+o_Monoglobales	0	0	0	524.0781	0	50.4211	0	0	0	0	0	0	0	0	4.7927	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Monoglobales
+o_Miltoncostaeales	0	0	0	412.2748	73.537	0	0	0	31.1092	0	0	0	0	48.8582	0	d_Bacteria;p_Actinobacteriota;c_Thermoleophilia;o_Miltoncostaeales
+o_Thermotomaculales	39.5567	0	53.2805	0	291.5563	0	132.6594	0	0	0	0	0	0	43.0469	0.5837	d_Bacteria;p_Acidobacteriota;c_Holophagae;o_Thermotomaculales
+o_UBA7937	18.7853	0	0	57.5	0	149.3646	251.9973	0	0	0	0	0	0	81.771	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_UBA7937
+o_Eremiobacterales	0	0	0	512.7796	0	0	0	0	0	0	0	3.3272	0	0	40.9718	d_Bacteria;p_Eremiobacterota;c_Eremiobacteria;o_Eremiobacterales
+o_UBA727	0	0	0	82.0447	0	142.0821	89.8916	0	0	0	0	0	0	233.3525	0	d_Bacteria;p_Myxococcota;c_UBA727;o_UBA727
+o_JAFGXH01	0	0	0	454.2973	0	0	62.2183	0	25.7101	0	0	0	0	0	0	d_Bacteria;p_UBP6;c_UBA1177;o_JAFGXH01
+o_UBA2200	4.6381	0	66.4543	151.0164	0	0	145.5977	0	34.186	0	0	138.7577	0	0	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_UBA2200
+o_SG8-24	0	0	122.4158	0	14.886	240.8781	0	0	0	0	0	0	0	158.2451	0	d_Bacteria;p_Patescibacteria;c_ABY1;o_SG8-24
+o_SHVW01	0	0	16.2127	184.2157	0	143.5582	80.7337	0	83.4028	0	0	0	0	26.1974	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_SHVW01
+o_Desulfatiglandales	0	0	0	46.9027	25.0979	81.2244	108.6389	0	0	0	0	0	0	266.8024	0	d_Bacteria;p_Desulfobacterota;c_DSM-4660;o_Desulfatiglandales
+o_CR04bin15	0	0	0	0	0	0	0	4.0289	0	0	318.6847	11.5273	189.0233	0	0.389	d_Bacteria;p_KSB1;c_UBA2214;o_CR04bin15
+o_Unclassified_c_Kiritimatiellae	39.5567	215.8185	53.2805	0	32.3951	52.4202	0	18.6341	109.6361	0	0	0	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_Unclassified_c_Kiritimatiellae
+o_Bin61	45.1678	345.0056	24.3354	0	59.1847	0	0	0	12.5188	25.773	0	0	6.8098	0	0	d_Bacteria;p_Acidobacteriota;c_Vicinamibacteria;o_Bin61
+o_Cloacimonadales	0	0	168.7629	63.9186	0	166.0378	70.0318	0	0	0	0	0	0	45.4495	1.8489	d_Bacteria;p_Cloacimonadota;c_Cloacimonadia;o_Cloacimonadales
+o_Jiangellales	360.8133	0	10.3462	0	0	0	0	43.3035	0	0	1.7905	13.5035	0	0	80.5932	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Jiangellales
+o_S15B-MN24	4.7864	0	116.047	102.5559	15.6795	164.9168	0	0	99.4965	0	0	0	0	0	0	d_Bacteria;p_Cyanobacteria;c_Sericytochromatia;o_S15B-MN24
+o_Nautiliales	0	0	364.8046	0	34.1239	27.6088	69.8693	0	0	0	0	3.5202	0	0	0.3074	d_Bacteria;p_Campylobacterota;c_Campylobacteria;o_Nautiliales
+o_B48-G9	42.5966	139.4425	137.7003	0	41.8617	0	28.5709	0	59.0308	24.3058	0	0	6.4221	18.542	0.5029	d_Bacteria;p_Ratteibacteria;c_UBA8468;o_B48-G9
+o_ML615J-28	0	0	45.6403	128.8359	83.2494	148.7422	0	7.981	19.4433	0	0	0	0	61.0727	0	d_Bacteria;p_Firmicutes;c_Bacilli;o_ML615J-28
+o_DTU022	56.3558	102.4912	50.6053	0	12.8561	0	78.9694	0	0	35.7299	0	0	0	153.7495	0	d_Bacteria;p_Firmicutes D;c_Dethiobacteria;o_DTU022
+o_4484-113	0	0	0	347.4226	0	0	0	0	139.8168	0	0	0	0	0	0	d_Bacteria;p_4484-113;c_4484-113;o_4484-113
+o_Cryosericales	77.4083	337.8675	0	0	0	0	51.9201	0	0	0	0	0	0	0	0	d_Bacteria;p_Caldisericota;c_Caldisericia;o_Cryosericales
+o_GWC2-55-46	0	0	166.4405	0	0	0	0	0	28.5406	0	0	2.3199	0	268.9441	0	d_Bacteria;p_Desulfobacterota;c_GWC2-55-46;o_GWC2-55-46
+o_UBA7540	0	0	82.4169	70.2342	0	182.4436	128.2525	0	0	0	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_Acidobacteriae;o_UBA7540
+o_UBA995	17.071	279.4152	0	0	27.9608	0	114.5007	0	23.6572	0	0	0	0	0	0	d_Bacteria;p_Firmicutes E;c_DTU015;o_UBA995
+o_JAAYUB01	0	0	36.4298	124.1792	22.1497	215.049	45.3519	0	18.7405	0	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_UBA6911;o_JAAYUB01
+o_JACQRZ01	0	0	28.8656	32.7983	0	28.3995	215.6111	0	14.8493	0	0	0	0	139.928	0	d_Bacteria;p_Patescibacteria;c_ABY1;o_JACQRZ01
+o_Unclassified_p_Acidobacteriota	12.9386	0	0	0	0	68.5843	0	0	376.5382	0	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_Unclassified_p_Acidobacteriota;o_Unclassified_p_Acidobacteriota
+o_Unclassified_c_Acidobacteriae	0	0	43.0416	293.434	0	0	91.81	0	0	0	0	17.5125	0	0	0.2781	d_Bacteria;p_Acidobacteriota;c_Acidobacteriae;o_Unclassified_c_Acidobacteriae
+o_MWCZ01	0	0	59.5797	312.3294	36.2251	0	34.2201	0	0	0	0	2.4913	0	0	0	d_Bacteria;p_Latescibacterota;c_MWCZ01;o_MWCZ01
+o_Nitriliruptorales	0	0	54.2362	123.2511	0	133.4011	101.2792	0	13.9503	0	0	0	0	0	11.1736	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Nitriliruptorales
+o_JACPQY01	0	0	0	25.639	0	44.4007	0	0	0	0	0	0	0	364.6133	0	d_Bacteria;p_JACPQY01;c_JACPQY01;o_JACPQY01
+o_Thermacetogeniales	0	0	0	60.5396	0	0	198.9891	0	0	0	0	0	0	172.1874	0	d_Bacteria;p_Firmicutes B;c_Moorellia;o_Thermacetogeniales
+o_Reyranellales	125.006	0	0	0	0	0	70.0318	0	86.8165	59.5776	0	36.0055	2.7404	0	41.6805	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Reyranellales
+o_Unclassified_c_Acidimicrobiia	0	0	0	274.8499	36.7685	0	0	0	0	0	0	0	0	97.7164	0	d_Bacteria;p_Actinobacteriota;c_Acidimicrobiia;o_Unclassified_c_Acidimicrobiia
+o_UBA1144	0	0	0	0	0	408.5624	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Desulfobacterota D;c_UBA1144;o_UBA1144
+o_FACHB-261	8.4234	45.9576	45.3834	77.3499	13.7968	22.3253	141.2461	0	11.6733	16.0215	0	0	0	18.3333	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_FACHB-261
+o_JAAZAB01	0	0	0	0	0	399.308	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_JAAZAB01
+o_JACPZX01	49.6097	135.3337	0	0	0	0	83.187	0	17.1874	110.7422	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_Mor1;o_JACPZX01
+o_SLRQ01	0	0	0	0	0	0	392.7871	0	0	0	0	0	0	0	0	d_Bacteria;p_Myxococcota;c_Myxococcia;o_SLRQ01
+o_UBA2466	0	0	297.4101	56.3217	0	0	0	0	38.2491	0	0	0	0	0	0	d_Bacteria;p_Bdellovibrionota;c_FAC87;o_UBA2466
+o_SBBL01	51.9038	141.5919	0	0	0	0	0	0	71.9289	123.4025	0	2.9234	0	0	0	d_Bacteria;p_Nitrospirota;c_Nitrospiria;o_SBBL01
+o_Gaiellales	9.0414	0	0	0	0	53.1222	0	4.8676	0	0	0	14.2637	1.9473	261.7403	44.2988	d_Bacteria;p_Actinobacteriota;c_Thermoleophilia;o_Gaiellales
+o_AABM5-125-24	0	0	0	0	312.9233	0	0	0	0	22.7113	0	0	0	51.9768	0	d_Bacteria;p_AABM5-125-24;c_AABM5-125-24;o_AABM5-125-24
+o_O2-12-FULL-43-9	0	0	0	78.0823	41.7824	0	0	0	212.1084	0	0	0	0	55.5207	0	d_Bacteria;p_Bdellovibrionota E;c_O2-12-FULL-43-9;o_O2-12-FULL-43-9
+o_Acetivibrionales	0	109.3544	0	0	131.316	0	0	24.5927	0	57.1838	1.4938	0	49.1926	0	13.0662	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Acetivibrionales
+o_Thiomicrospirales	0	0	0	153.1197	0	0	167.7642	0	0	0	7.0553	0	0	54.4381	1.3002	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Thiomicrospirales
+o_CG2-30-66-41	0	0	0	60.5396	0	314.521	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Armatimonadota;c_Abditibacteria;o_CG2-30-66-41
+o_JABDJQ01	25.5095	0	68.7198	0	0	0	85.5502	0	0	194.0785	0	0	0	0	0	d_Bacteria;p_JABDJQ01;c_JABDJQ01;o_JABDJQ01
+o_Dehalobacteriales	0	0	0	0	0	0	0	342.3512	0	0	1.8484	1.8192	24.3486	0	0.4766	d_Bacteria;p_Firmicutes B;c_Dehalobacteriia;o_Dehalobacteriales
+o_Unclassified_p_Patescibacteria	64.6555	0	0	0	0	0	0	0	301.0222	0	0	0	0	0	2.7442	d_Bacteria;p_Patescibacteria;c_Unclassified_p_Patescibacteria;o_Unclassified_p_Patescibacteria
+o_Chthonomonadales	0	0	0	0	108.1426	0	110.7121	0	0	0	0	0	0	143.7005	1.3948	d_Bacteria;p_Armatimonadota;c_Chthonomonadetes;o_Chthonomonadales
+o_Unclassified_c_Desulfobacteria	0	0	0	0	43.513	316.8474	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Desulfobacterota;c_Desulfobacteria;o_Unclassified_c_Desulfobacteria
+o_Turneriellales	0	241.3339	0	0	36.2251	0	0	0	30.6495	42.0663	0	0	0	0	0	d_Bacteria;p_Spirochaetota;c_Leptospirae;o_Turneriellales
+o_UTPRO1	14.6244	0	236.3781	44.7638	11.9767	38.7602	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Desulfobacterota B;c_Binatia;o_UTPRO1
+o_Syntrophales	0	0	53.9941	0	0	0	67.218	0	0	0	0	0	0	218.1169	3.4481	d_Bacteria;p_Desulfobacterota;c_Syntrophia;o_Syntrophales
+o_J063	0	0	48.7296	66.4424	11.8512	76.7083	84.9298	0	30.0814	0	0	0	0	23.622	0	d_Bacteria;p_Tectomicrobia;c_Entotheonellia;o_J063
+o_Borreliales	0	0	0	340.723	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Borreliales
+o_UBA9980	0	0	0	238.3091	85.0139	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Wallbacteria;c_UBA9980;o_UBA9980
+o_DRWM01	0	0	36.4298	0	0	286.732	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_DRWM01
+o_MSB-5A5	10.6391	0	0	0	136.1159	28.1976	0	0	53.4064	70.8249	0	0	0	23.1555	0	d_Bacteria;p_Zixibacteria;c_MSB-5A5;o_MSB-5A5
+o_UBA890	0	0	0	0	0	46.3011	0	0	121.0476	0	0	0	0	152.0877	0	d_Bacteria;p_Acidobacteriota;c_UBA890;o_UBA890
+o_Exiguobacterales	0	0	0	0	6.7589	0	0	14.146	0	0	284.8579	1.9041	6.2214	0	5.258	d_Bacteria;p_Firmicutes;c_Bacilli;o_Exiguobacterales
+o_UBA5177	0	0	240.4508	0	0	23.6568	29.9341	0	0	0	0	0	0	19.4267	5.0646	d_Bacteria;p_Chloroflexota;c_UBA5177;o_UBA5177
+o_Thermomicrobiales	0	0	0	224.3672	0	48.5689	0	0	0	0	0	1.3632	0	0	43.2158	d_Bacteria;p_Chloroflexota;c_Chloroflexia;o_Thermomicrobiales
+o_VBWC01	0	0	72.5971	115.4831	0	85.7098	18.0754	0	7.4692	0	0	0	0	11.7307	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_VBWC01
+o_Acidithiobacillales	0	0	0	0	32.5385	0	233.1811	0	0	0	1.1369	41.8659	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Acidithiobacillales
+o_CSP1-3	0	0	0	0	0	0	0	0	0	0	0	1.4127	0	297.3976	7.9577	d_Bacteria;p_CSP1-3;c_CSP1-3;o_CSP1-3
+o_UBA101185	105.8887	0	0	0	0	0	0	0	88.045	100.7011	0	0	0	0	4.8715	d_Bacteria;p_Patescibacteria;c_WWE3;o_UBA101185
+o_JACRHL01	0	0	0	51.0873	0	44.2356	55.9734	0	0	0	0	0	0	145.3032	0	d_Bacteria;p_Nitrospirota;c_JACRHL01;o_JACRHL01
+o_Deferribacterales	0	0	0	0	46.6408	0	0	0	0	0	0	0	0	247.9062	0.5603	d_Bacteria;p_Deferribacterota;c_Deferribacteres;o_Deferribacterales
+o_FW602-bin16	0	0	25.5701	232.4312	0	0	31.8326	0	0	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_FW602-bin16
+o_Unclassified_c_UBA9042	14.7849	159.9504	26.5525	0	0	0	32.6314	0	20.3138	28.0008	0	0.5551	3.7151	0	0	d_Bacteria;p_Myxococcota;c_UBA9042;o_Unclassified_c_UBA9042
+o_Sphaerochaetales	0	120.4692	0	0	24.1105	0	0	0	0	0	0	0	0	115.413	22.5676	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Sphaerochaetales
+o_Puniceispirillales	0	0	0	0	0	55.6046	211.0772	0	0	0	0	11.6114	0	0	1.0141	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Puniceispirillales
+o_Spirochaetales A	0	0	0	30.2033	0	26.1525	0	0	0	0	0	0	0	214.7612	0	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Spirochaetales A
+o_GCA-2729495	23.7003	0	185.7148	0	0	0	28.8999	4.7368	11.9421	0	0	15.2911	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_GCA-2729495
+o_UMGS1840	0	0	0	0	35.6976	57.764	0	0	30.2031	0	0	0	0	142.3054	0	d_Bacteria;p_Firmicutes A;c_Clostridia;o_UMGS1840
+o_DTOW01	0	0	80.8108	30.6069	32.7559	0	33.5342	0	0	0	0	0	0	87.0524	0	d_Bacteria;p_Spirochaetota;c_Brevinematia;o_DTOW01
+o_GCA-2716485	0	0	0	0	36.7685	0	150.5684	0	62.2185	0	0	0	0	0	0	d_Bacteria;p_Margulisbacteria;c_Marinamargulisbacteria;o_GCA-2716485
+o_NMUJ01	0	0	53.5163	30.4037	0	78.9782	0	0	0	0	0	0	0	86.4747	0	d_Bacteria;p_WOR-3;c_UBA3073;o_NMUJ01
+o_CAIXZC01	0	0	71.1452	0	0	0	177.1393	0	0	0	0	0	0	0	0	d_Bacteria;p_Myxococcota;c_UBA9042;o_CAIXZC01
+o_JAEULF01	0	0	0	63.9186	0	0	70.0318	0	57.8776	0	0	0	0	45.4495	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_JAEULF01
+o_SLAD01	0	0	0	0	0	0	0	0	0	0	0	0	0	235.8671	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_SLAD01
+o_GBS-1	14.9159	122.0701	20.0908	0	0	0	50.0227	0	20.6706	7.0926	0	0.8401	0	0	0	d_Bacteria;p_Synergistota;c_GBS-1;o_GBS-1
+o_UBA3505	0	82.7547	0	0	0	0	152.6031	0	0	0	0	0	0	0	0	d_Bacteria;p_Myxococcota;c_UBA9042;o_UBA3505
+o_Silvanigrellales	0	0	0	0	0	22.5795	25.7823	0	0	0	11.8811	2.9234	14.6725	151.5753	2.1902	d_Bacteria;p_Bdellovibrionota;c_Oligoflexia;o_Silvanigrellales
+o_Abditibacteriales	0	0	0	0	0	227.7393	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Armatimonadota;c_Abditibacteria;o_Abditibacteriales
+o_GCA-2401425	0	0	0	0	0	0	31.4339	0	0	0	0	0	0	183.6007	0	d_Bacteria;p_Patescibacteria;c_Gracilibacteria;o_GCA-2401425
+o_Thiotrichales	0	0	0	0	0	0	0	0	148.848	61.288	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Thiotrichales
+o_UBA5377	80.4122	16.7433	49.978	0	0	0	20.5835	0	37.1454	2.9185	0	0	0	0	0	d_Bacteria;p_Armatimonadota;c_UBA5377;o_UBA5377
+o_IMCC26256	162.5224	0	0	0	0	0	0	0	0	38.6401	0	4.5768	0	0	0	d_Bacteria;p_Actinobacteriota;c_Acidimicrobiia;o_IMCC26256
+o_JADFXK01	0	0	26.7581	121.615	0	52.6521	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Desulfobacterota;c_JADFXK01;o_JADFXK01
+o_Thermobaculales	0	0	68.4604	0	13.8749	44.9033	0	0	70.436	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Chloroflexia;o_Thermobaculales
+o_WYAZ01	0	0	0	0	87.753	0	71.8704	5.0477	0	0	0	1.207	0	23.3213	0.3162	d_Bacteria;p_Myxococcota;c_WYAZ01;o_WYAZ01
+o_Ch115	0	0	0	0	0	0	0	0	0	0	6.132	182.2596	0	0	0	d_Bacteria;p_Firmicutes G;c_SHA-98;o_Ch115
+o_Rokubacteriales	0	0	28.4581	0	0	0	35.4279	0	43.9189	70.3249	0	0	0	0	8.2815	d_Bacteria;p_Methylomirabilota;c_Methylomirabilia;o_Rokubacteriales
+o_MPNO01	0	182.1219	0	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_MPNO01
+o_4572-78	0	0	0	0	0	0	0	0	181.6597	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_4572-78
+o_Unclassified_p_Firmicutes B	0	0	0	0	0	0	0	115.9914	0	0	9.6521	2.0058	34.9981	17.3564	0.3321	d_Bacteria;p_Firmicutes B;c_Unclassified_p_Firmicutes B;o_Unclassified_p_Firmicutes B
+o_MWEM01	0	0	0	0	0	0	0	0	0	0	176.1167	3.2912	0	0	0	d_Bacteria;p_Thermotogota;c_Thermotogae;o_MWEM01
+o_JAAYEA01	102.9743	0	0	0	0	54.5843	0	19.4034	0	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_JAAYEA01
+o_Tistrellales	0	0	0	0	0	0	0	0	0	0	0	0.5145	3.443	0	164.0632	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Tistrellales
+o_UBA4664	0	0	0	0	149.139	0	0	0	0	0	0	2.367	0	15.2444	0.4134	d_Bacteria;p_Patescibacteria;c_Saccharimonadia;o_UBA4664
+o_UBA1406	0	0	0	0	0	159.3667	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Patescibacteria;c_Microgenomatia;o_UBA1406
+o_Acidoferrales	0	158.0348	0	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_Acidobacteriae;o_Acidoferrales
+o_UBA7976	0	0	79.5702	0	0	78.2854	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Myxococcota;c_Bradymonadia;o_UBA7976
+o_2-01-FULL-45-10	0	157.5267	0	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Omnitrophota;c_Koll11;o_2-01-FULL-45-10
+o_2-12-FULL-45-22	0	0	59.5797	0	0	0	0	0	0	0	0	0	0	96.2723	0	d_Bacteria;p_Nitrospinota B;c_2-12-FULL-45-22;o_2-12-FULL-45-22
+o_CAIMUX01	0	0	150.5561	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Eisenbacteria;c_RBG-16-71-46;o_CAIMUX01
+o_Syntrophobacterales	0	0	0	0	0	0	0	0	148.5814	0	0	0	0	0	0	d_Bacteria;p_Desulfobacterota;c_Syntrophobacteria;o_Syntrophobacterales
+o_Unclassified_c_Thermoleophilia	0	0	0	0	77.0021	0	0	0	0	0	0	0	17.7196	51.1604	0	d_Bacteria;p_Actinobacteriota;c_Thermoleophilia;o_Unclassified_c_Thermoleophilia
+o_JAFGHX01	0	0	0	71.3278	0	0	52.0998	0	21.5289	0	0	0	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_JAFGHX01
+o_16-39-46	23.1427	0	0	0	113.717	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_16-39-46
+o_Propionisporales	4.2678	0	18.5217	0	0	0	0	78.4067	0	4.0587	19.3746	0.7745	9.6515	0	0.9586	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Propionisporales
+o_UBA6911	0	0	0	0	0	50.4211	0	0	0	0	0	0	0	82.8105	0	d_Bacteria;p_Acidobacteriota;c_UBA6911;o_UBA6911
+o_Ferrovibrionales	0	0	0	0	0	0	45.7655	0	0	0	0	0	0	29.701	54.9215	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Ferrovibrionales
+o_DY22613	0	0	0	0	57.2272	0	0	0	72.6286	0	0	0	0	0	0	d_Bacteria;p_Firmicutes F;c_Halanaerobiia;o_DY22613
+o_Thermotogales	0	0	0	0	0	0	0	0	0	0	116.3125	10.9042	0	0	0	d_Bacteria;p_Thermotogota;c_Thermotogae;o_Thermotogales
+o_RBG-16-71-46	0	0	0	0	36.9533	0	0	0	0	85.8237	0	0	0	0	0.3329	d_Bacteria;p_Eisenbacteria;c_RBG-16-71-46;o_RBG-16-71-46
+o_Geothermincolales	0	0	0	0	0	0	0	0	21.235	0	0	0	0	100.0509	0	d_Bacteria;p_Actinobacteriota;c_Geothermincolia;o_Geothermincolales
+o_UBA6186	0	0	0	0	0	0	0	0	118.286	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_UBA6186
+o_Alicyclobacillales	0	0	0	0	0	0	0	0	0	0	57.0662	0	57.8312	0	0	d_Bacteria;p_Firmicutes;c_Bacilli;o_Alicyclobacillales
+o_UBA8248	0	0	0	0	0	0	0	0	114.7472	0	0	0	0	0	0	d_Bacteria;p_UBA8248;c_UBA8248;o_UBA8248
+o_UBA2968	9.5525	0	0	0	62.5847	0	0	0	0	0	0	0	0	41.5814	0	d_Bacteria;p_Latescibacterota;c_UBA2968;o_UBA2968
+o_Ch128b	0	0	0	0	0	0	55.9734	14.1233	0	0	2.5736	1.6886	0	36.3258	0.2212	d_Bacteria;p_Bacteroidota;c_Ignavibacteria;o_Ch128b
+o_KS3-K002	43.4836	0	0	0	35.6111	0	0	0	0	0	0	0	0	23.6601	0	d_Bacteria;p_Gemmatimonadota;c_Gemmatimonadetes;o_KS3-K002
+o_Acidiferrobacterales	25.2229	0	0	0	41.3129	33.4252	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Acidiferrobacterales
+o_CACIAM-22H2	0	0	0	0	0	0	0	0	0	0	0	61.6375	0	0	35.6912	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_CACIAM-22H2
+o_Tepidiformales	0	0	0	0	16.8277	0	0	0	0	19.5411	0	0	0	59.9487	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_Tepidiformales
+o_D8A-2	0	0	0	0	0	0	0	2.1256	0	0	0	0	9.8326	0	84.2726	d_Bacteria;p_Firmicutes E;c_DTU015;o_D8A-2
+o_Dormibacterales	0	0	0	0	54.6743	0	0	0	0	0	0	3.341	0	0	37.8585	d_Bacteria;p_Dormibacterota;c_Dormibacteria;o_Dormibacterales
+o_DG-27	0	0	0	0	0	0	0	0	0	0	0	0	0	90.8989	0	d_Bacteria;p_Zixibacteria;c_MSB-5A5;o_DG-27
+o_Aneurinibacillales	0	0	0	0	0	0	0	86.3253	0	0	0	1.5482	0	0	0	d_Bacteria;p_Firmicutes;c_Bacilli;o_Aneurinibacillales
+o_Palsa-1439	0	0	0	0	0	0	0	0	87.6316	0	0	0	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Palsa-1439
+o_DTU010	0	0	0	0	0	0	0	20.2389	0	61.288	0	0	0	0	0	d_Bacteria;p_Firmicutes G;c_Limnochordia;o_DTU010
+o_DSM-27196	0	0	0	0	81.4063	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_DSM-27196
+o_UBA8260	0	0	0	0	0	0	58.5869	0	0	0	0	0	0	0	21.0035	d_Bacteria;p_Dormibacterota;c_Dormibacteria;o_UBA8260
+o_ATCC43930	0	0	0	0	0	0	23.7116	0	0	6.724	0	44.021	0	0	0.4999	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_ATCC43930
+o_UBA10025	36.8007	0	0	0	0	0	0	0	0	0	4.212	0	27.7414	0	1.0861	d_Bacteria;p_Patescibacteria;c_ABY1;o_UBA10025
+o_NPL-UPA2	0	0	0	0	0	37.5375	0	0	0	0	0	0	0	30.8254	0	d_Bacteria;p_NPL-UPA2;c_NPL-UPA2;o_NPL-UPA2
+o_Proteinivoracales	0	0	0	0	0	22.0768	0	0	46.1733	0	0	0	0	0	0	d_Bacteria;p_Firmicutes D;c_Proteinivoracia;o_Proteinivoracales
+o_Desulfobaccales	0	0	67.568	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Desulfobacterota;c_Desulfobaccia;o_Desulfobaccales
+o_Gp22-AA2	0	0	32.866	0	0	0	0	0	33.8144	0	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_Mor1;o_Gp22-AA2
+o_UBA1369	0	0	0	0	0	0	0	0	0	0	0	2.8735	57.6895	0	6.0229	d_Bacteria;p_Patescibacteria;c_Gracilibacteria;o_UBA1369
+o_UBA2242	0	0	0	0	0	0	66.3297	0	0	0	0	0	0	0	0	d_Bacteria;p_Marinisomatota;c_UBA2242;o_UBA2242
+o_UBA2241	0	0	0	0	0	0	0	0	47.9834	0	0	0	0	0	9.5376	d_Bacteria;p_Actinobacteriota;c_Thermoleophilia;o_UBA2241
+o_CPR3	0	36.5058	0	0	0	0	0	0	0	19.0897	0	0	0	0	0	d_Bacteria;p_Patescibacteria;c_CPR3;o_CPR3
+o_J045	0	0	0	0	0	0	0	0	0	55.451	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_Mor1;o_J045
+o_Unclassified_c_Negativicutes	0	0	0	0	0	0	22.676	1.5926	0	0	15.4777	4.9508	2.5485	7.3582	0	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Unclassified_c_Negativicutes
+o_Kiritimatiellales	7.3122	0	0	0	23.9534	0	0	0	0	0	0	18.9447	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_Kiritimatiellales
+o_JACPTQ01	10.564	0	0	0	0	0	0	0	0	0	0	0	31.8536	0	7.1708	d_Bacteria;p_Myxococcota;c_JACPTQ01;o_JACPTQ01
+o_Aerophobales	0	0	0	0	48.3796	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Aerophobota;c_Aerophobia;o_Aerophobales
+o_Dongiales	0	0	0	0	0	0	0	0	0	0	0	46.6626	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Dongiales
+o_UBA4971	10.6391	0	0	0	0	0	35.6797	0	0	0	0	0	0	0	0	d_Bacteria;p_Firmicutes G;c_SHA-98;o_UBA4971
+o_UBA1565	0	0	0	0	0	0	0	0	0	0	0	0	0	0	44.1074	d_Bacteria;p_Elusimicrobiota;c_Elusimicrobia;o_UBA1565
+o_JADFCT01	0	0	0	0	13.6432	0	27.9348	0	0	0	0	0	0	0	0	d_Bacteria;p_Sumerlaeota;c_Sumerlaeia;o_JADFCT01
+o_Unclassified_c_Marinisomatia	35.3518	0	0	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Marinisomatota;c_Marinisomatia;o_Unclassified_c_Marinisomatia
+o_JAFGEY01	0	0	0	0	0	0	0	10.8907	0	0	14.2886	1.5625	6.9711	0	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_JAFGEY01
+o_Acidaminococcales	0	0	0	0	0	0	0	0	0	0	0	0	26.6492	0	6.7817	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Acidaminococcales
+o_Granulosicoccales	0	0	0	0	0	0	0	0	0	0	0	32.2611	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Granulosicoccales
+o_Caldicellulosiruptorales	0	0	0	0	0	0	0	0	0	0	24.1043	3.7742	0	0	4.0459	d_Bacteria;p_Firmicutes A;c_Thermoanaerobacteria;o_Caldicellulosiruptorales
+o_Acidothermales	0	0	0	0	0	0	0	0	10.6538	0	0	4.33	5.7953	0	10.2101	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Acidothermales
+o_Chrysiogenales	0	0	0	0	0	0	26.4619	0	0	0	0	0	0	0	3.2602	d_Bacteria;p_Chrysiogenota;c_Chrysiogenetes;o_Chrysiogenales
+o_UBA6615	0	0	0	0	0	0	0	0	0	0	0	1.6538	12.6877	0	13.4301	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_UBA6615
+o_SHWA01	0	0	0	0	0	0	26.6022	0	0	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_SHWA01
+o_J137	0	0	0	0	0	0	0	0	0	0	0	25.3254	0	0	0.6032	d_Bacteria;p_Patescibacteria;c_Dojkabacteria;o_J137
+o_Petrotogales	0	0	0	0	0	0	0	0	0	0	0	1.0625	14.2204	0	5.5535	d_Bacteria;p_Thermotogota;c_Thermotogae;o_Petrotogales
+o_Endomicrobiales	0	0	0	0	0	0	0	3.8407	0	0	14.6195	0	0	0	0	d_Bacteria;p_Elusimicrobiota;c_Endomicrobia;o_Endomicrobiales
+o_UBA5794	0	0	0	0	0	0	0	0	0	0	0	0.4835	0	0	16.1665	d_Bacteria;p_Actinobacteriota;c_Acidimicrobiia;o_UBA5794
+o_Leptospirillales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16.0987	d_Bacteria;p_Nitrospirota A;c_Leptospirillia;o_Leptospirillales
+o_UBA6077	0	0	0	0	0	0	0	0	0	0	0	0	4.5736	0	8.774	d_Bacteria;p_Chloroflexota;c_UBA6077;o_UBA6077
+o_UBA2963	0	0	0	0	0	0	0	0	12.8285	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_UBA2963
+o_21-64-14	0	0	0	0	0	0	0	0	0	0	0	11.9895	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_21-64-14
+o_Thermoanaerobaculales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10.9659	d_Bacteria;p_Acidobacteriota;c_Thermoanaerobaculia;o_Thermoanaerobaculales
+o_Veillonellales	0	0	0	0	0	0	0	0	0	0	0	1.9013	0	0	8.5964	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Veillonellales
+o_UBA4068	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9.2139	d_Bacteria;p_Firmicutes B;c_Dehalobacteriia;o_UBA4068
+o_Sporomusales	0	0	0	0	0	0	0	0	0	0	0	8.0459	0	0	0	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Sporomusales
+o_DRI-13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7.0249	d_Bacteria;p_Firmicutes B;c_Peptococcia;o_DRI-13
+o_Thermosediminibacterales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.6255	d_Bacteria;p_Firmicutes A;c_Thermosediminibacteria;o_Thermosediminibacterales
+o_Baltobacterales	0	0	0	0	0	0	0	0	0	0	0	6.4289	0	0	0	d_Bacteria;p_Eremiobacterota;c_Eremiobacteria;o_Baltobacterales
+o_Unclassified_c_Elusimicrobia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6.3349	d_Bacteria;p_Elusimicrobiota;c_Elusimicrobia;o_Unclassified_c_Elusimicrobia
+o_Gp7-AA8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5.2535	d_Bacteria;p_Acidobacteriota;c_Thermoanaerobaculia;o_Gp7-AA8
+o_UBA11654	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4.7864	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_UBA11654
+o_Piscirickettsiales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4.5052	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Piscirickettsiales
+o_SMXS01	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4.4917	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_SMXS01
+o_Izemoplasmatales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4.4844	d_Bacteria;p_Firmicutes;c_Bacilli;o_Izemoplasmatales
+o_Bin65	0	0	0	0	0	0	0	0	0	0	0	3.1315	0	0	0.4102	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Bin65
+o_DSM-16000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3.3016	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_DSM-16000
+o_Unclassified_p_Desulfobacterota	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3.292	d_Bacteria;p_Desulfobacterota;c_Unclassified_p_Desulfobacterota;o_Unclassified_p_Desulfobacterota
+o_Unclassified_c_Halanaerobiia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3.2842	d_Bacteria;p_Firmicutes F;c_Halanaerobiia;o_Unclassified_c_Halanaerobiia
+o_Ch29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3.2672	d_Bacteria;p_Firmicutes A;c_Ch29;o_Ch29
+o_Caldicoprobacterales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3.1021	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Caldicoprobacterales
+o_TC1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.9665	d_Bacteria;p_Firmicutes B;c_TC1;o_TC1
+o_DUMP01	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.2207	d_Bacteria;p_DTU030;c_DTU030;o_DUMP01
