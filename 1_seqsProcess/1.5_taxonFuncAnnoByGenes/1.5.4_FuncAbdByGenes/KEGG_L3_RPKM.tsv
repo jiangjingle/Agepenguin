@@ -1,0 +1,403 @@
+KEGG_L3	S149	S150	S152	S153	S157	S113	S114	S130	S146	S802	S20	S27	S32	S45	S107	description
+ko00010	290.5031	224.7545	184.3094	164.001	276.2951	125.3192	154.7659	327.3193	162.1536	517.4904	270.726	277.6733	353.398	194.3119	284.4528	Metabolism; Carbohydrate metabolism; Glycolysis / Gluconeogenesis
+ko00020	335.5544	281.7659	87.459	47.5007	380.9029	95.4772	125.9407	87.942	175.943	249.9283	181.9174	245	158.6339	175.1207	282.4898	Metabolism; Carbohydrate metabolism; Citrate cycle (TCA cycle)
+ko00030	186.8615	124.9191	86.5516	52.3911	159.8054	76.1669	126.8988	276.3229	131.6609	439.8519	236.4164	253.0679	267.7108	151.4338	213.4901	Metabolism; Carbohydrate metabolism; Pentose phosphate pathway
+ko00040	71.7682	38.0229	17.7678	25.0363	89.6525	18.9095	36.5721	104.0468	33.5212	33.9764	203.292	50.3777	126.7246	32.6691	76.4825	Metabolism; Carbohydrate metabolism; Pentose and glucuronate interconversions
+ko00051	132.3962	107.6455	68.1347	38.0907	150.4149	33.4697	75.2998	294.1887	77.1242	288.9329	266.3579	138.7519	260.2728	102.8858	127.8688	Metabolism; Carbohydrate metabolism; Fructose and mannose metabolism
+ko00052	162.1233	169.0357	44.7237	0	93.5055	18.4181	79.859	350.0164	87.5235	344.025	343.7587	145.0884	334.9429	69.124	140.5273	Metabolism; Carbohydrate metabolism; Galactose metabolism
+ko00053	65.0995	65.4497	63.0891	81.9286	0	0	50.5919	130.4183	43.5517	31.4519	164.837	65.206	108.4696	52.5159	63.5098	Metabolism; Carbohydrate metabolism; Ascorbate and aldarate metabolism
+ko00061	262.3935	101.9637	110.884	114.8017	527.2496	120.999	171.3114	430.736	143.05	326.388	258.7973	486.3361	331.1999	186.8489	324.2904	Metabolism; Lipid metabolism; Fatty acid biosynthesis
+ko00062	19.2383	28.483	88.3992	153.4666	17.0326	133.1316	63.4484	0	64.8921	0	0	0	0	142.4928	0	Metabolism; Lipid metabolism; Fatty acid elongation
+ko00071	169.0532	187.0485	174.4542	273.8842	46.1202	149.643	108.3961	100.1064	96.3681	159.7052	148.2205	213.7344	130.1872	90.216	226.8515	Metabolism; Lipid metabolism; Fatty acid degradation
+ko00100	11.2698	68.3892	50.0423	23.9876	34.0206	14.0319	83.7807	0.7495	22.121	7.5161	0.3166	0	0.4376	15.4479	0.1565	Metabolism; Lipid metabolism; Steroid biosynthesis
+ko00120	40.3019	82.9352	91.1502	47.8833	158.3669	85.4903	222.9207	0	20.7117	109.9928	8.4598	0	0	117.0655	0	Metabolism; Lipid metabolism; Primary bile acid biosynthesis
+ko00121	32.7214	6.0453	71.5973	2.2052	190.2293	5.4149	71.3705	160.3368	4.455	103.8988	135.9446	197.2867	217.1712	86.1739	91.5148	Metabolism; Lipid metabolism; Secondary bile acid biosynthesis
+ko00130	142.6178	77.9587	53.2076	24.131	263.2705	16.956	133.6028	18.7115	76.1902	112.975	217.6922	108.5054	79.5681	174.171	126.3182	Metabolism; Metabolism of cofactors and vitamins; Ubiquinone and other terpenoid-quinone biosynthesis
+ko00140	14.1353	83.6747	26.4386	32.5662	25.5682	29.2367	64.871	0	22.2023	26.1014	0.0885	0.3924	0.6981	47.9731	3.8499	Metabolism; Lipid metabolism; Steroid hormone biosynthesis
+ko00190	151.1375	100.6541	51.4113	23.6873	164.2815	37.0178	80.8881	82.0801	75.3857	156.3312	80.9009	159.959	116.0545	80.8944	132.903	Metabolism; Energy metabolism; Oxidative phosphorylation
+ko00195	0	124.3178	0	0	0	0	0	0	65.6137	0	0	0	0	0	0	Metabolism; Energy metabolism; Photosynthesis
+ko00220	207.7877	111.4554	21.7478	44.175	266.3178	15.7053	90.4321	141.3268	108.3733	147.0673	218.5818	198.9701	140.8651	139.6029	192.4609	Metabolism; Amino acid metabolism; Arginine biosynthesis
+ko00230	223.1923	154.9948	83.2994	38.8308	243.3709	45.0238	114.9252	240.0886	123.3608	275.0041	235.2988	199.8478	233.6026	133.56	177.1983	Metabolism; Nucleotide metabolism; Purine metabolism
+ko00240	249.565	180.2275	108.4231	69.1795	361.0328	51.9313	141.0747	339.3453	152.0771	292.45	336.6353	269.7547	411.116	196.7456	246.0543	Metabolism; Nucleotide metabolism; Pyrimidine metabolism
+ko00250	333.1457	258.8395	151.0814	95.6142	467.1022	99.9733	234.2015	311.5125	203.7354	329.0219	343.2132	282.5241	321.3011	275.0086	285.1971	Metabolism; Amino acid metabolism; Alanine, aspartate and glutamate metabolism
+ko00260	227.1157	180.4185	232.3012	169.8986	193.4277	153.5553	182.6419	134.6143	130.7526	184.011	242.3904	231.2956	188.9215	168.1929	238.1557	Metabolism; Amino acid metabolism; Glycine, serine and threonine metabolism
+ko00261	0	0	0	0	0	0	0	0	0	0	0	0	0	0	221.6419	Metabolism; Biosynthesis of other secondary metabolites; Monobactam biosynthesis
+ko00270	178.2442	97.7416	117.7359	105.0262	145.0325	87.5752	115.9599	190.2234	95.2042	185.7689	242.9397	211.5045	187.8999	101.1749	201.4025	Metabolism; Amino acid metabolism; Cysteine and methionine metabolism
+ko00280	221.8173	226.8377	198.4693	251.7205	74.471	198.802	218.1932	91.8342	108.2864	185.6416	112.1275	335.9949	132.6454	157.4074	283.31	Metabolism; Amino acid metabolism; Valine, leucine and isoleucine degradation
+ko00281	110.6145	243.007	8.8797	158.5954	45.7591	47.4709	154.7838	13.7606	59.1487	84.3029	0	235.5583	81.1494	11.922	195.7971	Metabolism; Metabolism of terpenoids and polyketides; Geraniol degradation
+ko00290	609.2988	392.797	102.0664	0	278.1734	0	163.0054	230.0364	212.801	495.3409	603.5664	480.9102	378.2068	165.7728	533.1906	Metabolism; Amino acid metabolism; Valine, leucine and isoleucine biosynthesis
+ko00300	254.397	133.915	25.1563	2.658	381.1064	27.2492	72.2232	195.7372	108.1691	183.9739	246.6715	248.2511	202.7687	189.1241	244.9668	Metabolism; Amino acid metabolism; Lysine biosynthesis
+ko00310	125.8823	142.4056	79.6974	127.8264	38.4988	74.6226	73.9347	47.8157	74.2074	107.6468	92.3179	126.1738	79.4266	84.5968	144.1509	Metabolism; Amino acid metabolism; Lysine degradation
+ko00311	43.2066	14.4106	15.5194	0	0	0	0	212.7051	0.796	22.5519	63.609	40.3224	156.4094	9.3883	46.7523	Metabolism; Biosynthesis of other secondary metabolites; Penicillin and cephalosporin biosynthesis
+ko00330	85.5991	79.6095	76.8293	84.9101	113.6648	86.9927	79.1456	115.7668	37.9465	52.5702	152.0973	121.3479	89.9581	82.3655	160.0322	Metabolism; Amino acid metabolism; Arginine and proline metabolism
+ko00340	267.299	213.0055	112.8481	83.4138	34.1214	98.1506	107.8431	155.5143	144.0355	199.5098	130.0261	244.3243	162.4962	77.3772	260.0261	Metabolism; Amino acid metabolism; Histidine metabolism
+ko00350	104.5439	65.9765	76.6617	73.8345	50.3177	62.8223	51.596	44.8048	53.5303	66.0567	81.4797	103.9641	68.6378	49.0541	106.915	Metabolism; Amino acid metabolism; Tyrosine metabolism
+ko00360	134.8597	80.7942	39.9392	0	48.285	25.2775	41.2599	57.4826	43.4443	91.8951	132.7692	171.8808	106.8573	31.2274	167.0944	Metabolism; Amino acid metabolism; Phenylalanine metabolism
+ko00361	15.1815	1.2889	7.1241	0	2.9332	0	1.8174	7.8915	1.9319	4.0727	37.6901	46.0434	22.1649	3.3767	32.0892	Metabolism; Xenobiotics biodegradation and metabolism; Chlorocyclohexane and chlorobenzene degradation
+ko00362	89.0023	50.2703	0	0	4.064	0	15.554	29.8595	33.3936	116.7918	56.8399	117.8526	58.5217	5.8604	91.565	Metabolism; Xenobiotics biodegradation and metabolism; Benzoate degradation
+ko00363	0	0	0	0	0	0	0	0	0	0	0	82.9555	0	0	0.1368	Metabolism; Xenobiotics biodegradation and metabolism; Bisphenol degradation
+ko00364	0	0	0	0	0	0	0	0	0	0	0	67.76	0	0	25.5688	Metabolism; Xenobiotics biodegradation and metabolism; Fluorobenzoate degradation
+ko00365	0	0	0	0	0	0	0	0	0	0	0	2.2551	0	0	15.3233	Metabolism; Xenobiotics biodegradation and metabolism; Furfural degradation
+ko00380	153.0112	155.6098	98.5159	114.605	63.7157	94.3639	89.236	85.1151	75.8671	117.7329	62.2928	177.1943	67.6826	82.2078	179.2959	Metabolism; Amino acid metabolism; Tryptophan metabolism
+ko00400	219.5153	143.4955	56.8857	29.526	164.0785	23.875	64.5488	155.8162	84.4094	192.5363	229.0814	222.9159	222.8431	103.7173	213.1601	Metabolism; Amino acid metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis
+ko00410	151.418	314.814	136.2388	195.9689	120.7136	166.7943	154.7003	130.0588	103.6076	140.0854	164.795	157.772	132.3356	146.7641	192.9733	Metabolism; Metabolism of other amino acids; beta-Alanine metabolism
+ko00430	113.7212	118.5839	82.3471	80.1107	133.2785	90.5802	88.0907	209.0243	67.5192	160.6983	0	142.2416	168.673	153.5806	117.9443	Metabolism; Metabolism of other amino acids; Taurine and hypotaurine metabolism
+ko00440	16.7716	11.2759	5.8438	0	67.6976	2.1552	2.7837	22.3752	9.2051	23.1116	71.4389	40.2088	33.7645	5.1287	73.0544	Metabolism; Metabolism of other amino acids; Phosphonate and phosphinate metabolism
+ko00450	209.3597	119.8729	43.0958	11.1532	318.8507	26.9212	53.9199	324.8452	101.4435	242.2435	270.7084	244.1072	276.2759	136.5569	199.4223	Metabolism; Metabolism of other amino acids; Selenocompound metabolism
+ko00470	143.7238	0	0	0	188.5256	25.1894	55.2024	197.6675	58.5527	130.5406	198.1834	171.0662	225.7905	104.7647	200.9824	Metabolism; Metabolism of other amino acids; D-Amino acid metabolism
+ko00480	100.0798	72.0941	36.576	48.958	46.6302	49.3415	65.5763	91.7543	48.5818	179.611	205.1195	254.1455	118.1856	50.2002	176.7715	Metabolism; Metabolism of other amino acids; Glutathione metabolism
+ko00500	166.2902	165.6167	59.5359	5.5403	79.4037	20.689	81.9329	375.5708	72.8549	265.7002	224.0708	106.4156	293.4699	60.0668	118.6215	Metabolism; Carbohydrate metabolism; Starch and sucrose metabolism
+ko00510	3.7552	2.6726	0.6598	0	1.623	2.6262	0	0.5804	14.8588	11.8927	6.5613	5.1794	3.2675	0	10.6717	Metabolism; Glycan biosynthesis and metabolism; N-Glycan biosynthesis
+ko00511	76.2926	247.7508	54.0076	10.7091	37.6881	71.7333	72.9771	321.6507	31.4839	51.01	136.4741	24.4408	189.3482	95.7453	81.8352	Metabolism; Glycan biosynthesis and metabolism; Other glycan degradation
+ko00512	0	0	44.4657	0	0	69.9964	11.0712	0	0	0	0	0	0	14.37	0	Metabolism; Glycan biosynthesis and metabolism; Mucin type O-glycan biosynthesis
+ko00513	5.5915	3.9174	2.7941	0	2.7414	22.6648	21.1972	0	8.7289	0	0	0	0	17.0473	0	Metabolism; Glycan biosynthesis and metabolism; Various types of N-glycan biosynthesis
+ko00514	0	3.7069	40.1827	7.6073	21.6315	50.6996	37.6767	0	34.2396	0	0	0	0	24.3082	0	Metabolism; Glycan biosynthesis and metabolism; Other types of O-glycan biosynthesis
+ko00515	0	0	0	0	3.3935	5.4912	0	0	11.4847	0	0	0	0	0	0	Metabolism; Glycan biosynthesis and metabolism; Mannose type O-glycan biosynthesis
+ko00520	189.3167	139.5925	58.7759	6.3135	273.7471	12.1341	90.7572	339.2634	88.2052	294.2985	226.899	164.9645	290.3048	138.2731	149.8147	Metabolism; Carbohydrate metabolism; Amino sugar and nucleotide sugar metabolism
+ko00521	354.2021	193.1995	46.1677	3.9919	130.1094	0	115.4119	302.7042	190.2601	474.3102	188.6956	281.4845	291.6026	85.2175	281.4315	Metabolism; Biosynthesis of other secondary metabolites; Streptomycin biosynthesis
+ko00523	40.0434	31.9406	8.8547	0	18.8371	5.3841	19.1585	70.3219	31.3114	52.7768	48.0636	49.1301	56.5557	7.515	37.1692	Metabolism; Metabolism of terpenoids and polyketides; Polyketide sugar unit biosynthesis
+ko00525	55.1581	0	0	0	0	0	0	72.9704	0	0	51.954	49.7399	0	0	39.0643	Metabolism; Biosynthesis of other secondary metabolites; Acarbose and validamycin biosynthesis
+ko00531	48.6104	47.7518	44.1444	113.6114	25.6044	76.595	107.956	262.6021	75.9011	43.3355	0	53.3188	0	40.3852	106.4149	Metabolism; Glycan biosynthesis and metabolism; Glycosaminoglycan degradation
+ko00532	0	0	28.0053	18.5889	4.263	25.2934	31.9547	0	12.0229	0	0	0	0	15.1059	0	Metabolism; Glycan biosynthesis and metabolism; Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+ko00533	0	3.0723	1.517	0	8.0996	8.629	11.3309	0	18.8278	1.6066	0	0	0	2.4512	0	Metabolism; Glycan biosynthesis and metabolism; Glycosaminoglycan biosynthesis - keratan sulfate
+ko00534	6.406	5.8601	11.935	20.4255	1.8254	22.0169	27.8819	0	11.6164	0	0.0941	0.4068	0.1425	12.1129	6.1189	Metabolism; Glycan biosynthesis and metabolism; Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+ko00540	0	0	0	0	0	0	0	63.1278	0	0	323.8365	178.9095	100.3073	0	96.2608	Metabolism; Glycan biosynthesis and metabolism; Lipopolysaccharide biosynthesis
+ko00541	136.6299	0	38.2798	0	0	0	48.417	0	73.2546	0	154.0843	123.9338	172.3879	139.8827	97.5694	Metabolism; Glycan biosynthesis and metabolism; O-Antigen nucleotide sugar biosynthesis
+ko00543	27.02	13.1034	0	0	0	0	8.3683	22.9458	14.0372	44.2155	113.7537	27.2391	56.9425	1.4942	24.4865	Metabolism; Glycan biosynthesis and metabolism; Exopolysaccharide biosynthesis
+ko00550	229.1866	137.1311	69.5352	0	312.5947	0	97.5978	340.3872	85.2447	322.7288	319.8672	327.0281	426.9964	189.368	282.4221	Metabolism; Glycan biosynthesis and metabolism; Peptidoglycan biosynthesis
+ko00552	29.2933	45.6122	47.6409	0	20.1911	6.0119	47.3074	139.4941	27.0754	323.256	92.9055	113.853	229.2808	44.8462	64.4672	Metabolism; Glycan biosynthesis and metabolism; Teichoic acid biosynthesis
+ko00561	87.6116	131.6883	70.538	68.9465	80.2804	78.3052	84.4292	154.1327	65.5689	126.6362	136.7153	88.211	143.6833	79.6473	99.876	Metabolism; Lipid metabolism; Glycerolipid metabolism
+ko00562	76.2351	20.8705	12.8673	13.8303	35.3493	22.3012	47.2091	54.3519	32.623	119.3719	36.8514	57.5917	48.1641	31.9226	77.6202	Metabolism; Carbohydrate metabolism; Inositol phosphate metabolism
+ko00564	113.7338	89.6493	45.3861	29.3788	121.1222	38.6755	65.3746	152.452	58.6157	166.1876	207.0891	142.9667	160.7707	87.1207	118.0391	Metabolism; Lipid metabolism; Glycerophospholipid metabolism
+ko00565	16.6178	43.9552	89.8248	66.0782	11.2425	115.7278	80.8408	58.9137	30.3562	32.256	0	18.9726	46.8569	43.6246	21.1611	Metabolism; Lipid metabolism; Ether lipid metabolism
+ko00571	136.6877	203.6421	0	0	7.1689	0	0	20.3272	110.3842	289.7648	4.4076	20.2856	50.4	0	87.4086	Metabolism; Glycan biosynthesis and metabolism; Lipoarabinomannan (LAM) biosynthesis
+ko00572	189.502	293.5463	0	0	11.8319	0	22.3796	34.8007	127.4823	363.6974	54.0499	44.1371	59.4042	0	86.6723	Metabolism; Glycan biosynthesis and metabolism; Arabinogalactan biosynthesis - Mycobacterium
+ko00590	16.1828	39.1482	163.7156	186.2257	35.5464	131.5485	116.0438	1.8553	26.5537	10.8567	25.9238	23.3544	11.453	107.2065	17.2279	Metabolism; Lipid metabolism; Arachidonic acid metabolism
+ko00600	28.963	51.8212	37.9469	23.4529	21.3503	46.8351	36.199	96.1686	43.7337	29.8341	76.0376	17.8111	68.4513	32.565	25.708	Metabolism; Lipid metabolism; Sphingolipid metabolism
+ko00601	0	0	0	0	2.6663	4.3145	0	0	9.0237	0	0	0	0	0	0	Metabolism; Glycan biosynthesis and metabolism; Glycosphingolipid biosynthesis - lacto and neolacto series
+ko00603	23.8611	15.5176	6.9261	23.5317	3.976	50.255	69.6596	120.6927	22.4939	3.4569	0	27.4464	66.305	10.1116	43.9606	Metabolism; Glycan biosynthesis and metabolism; Glycosphingolipid biosynthesis - globo and isoglobo series
+ko00604	20.7685	14.5503	1.6075	23.1876	0.7138	0	10.9743	0	9.8622	2.5025	13.6493	0	27.5478	1.9992	34.433	Metabolism; Glycan biosynthesis and metabolism; Glycosphingolipid biosynthesis - ganglio series
+ko00620	217.6073	124.2246	111.7222	109.9206	254.633	102.3517	100.0643	205.039	106.4105	289.6679	224.6196	247.1155	219.8964	160.9133	243.9797	Metabolism; Carbohydrate metabolism; Pyruvate metabolism
+ko00621	0	2.4733	0	0	0	0	0	0	2.062	106.376	63.5632	0	0	0	14.5022	Metabolism; Xenobiotics biodegradation and metabolism; Dioxin degradation
+ko00622	0	0	0	0	0	0	0	0	0	0	0	66.5144	0	0	32.9264	Metabolism; Xenobiotics biodegradation and metabolism; Xylene degradation
+ko00623	0	0	0	0	0	0	0	0	0	0	0	28.7048	0	0	15.3502	Metabolism; Xenobiotics biodegradation and metabolism; Toluene degradation
+ko00624	17.386	0	0	0	0	0	0	0.8065	0	0	0	22.2996	1.0423	0	10.047	Metabolism; Xenobiotics biodegradation and metabolism; Polycyclic aromatic hydrocarbon degradation
+ko00627	33.961	42.6585	0	11.7135	14.986	0	10.7432	27.3465	18.5985	29.7527	34.7002	39.0251	31.706	0	55.134	Metabolism; Xenobiotics biodegradation and metabolism; Aminobenzoate degradation
+ko00630	259.0345	111.1502	133.3924	123.7978	165.4978	121.7523	81.3624	116.1879	104.2072	188.1466	258.3544	311.5291	179.3323	114.2561	243.4456	Metabolism; Carbohydrate metabolism; Glyoxylate and dicarboxylate metabolism
+ko00633	33.662	0	0	0	231.1732	0	15.1423	91.3587	3.8515	14.6335	195.9483	43.7279	74.6705	0	14.5474	Metabolism; Xenobiotics biodegradation and metabolism; Nitrotoluene degradation
+ko00640	190.5267	135.6391	61.7346	91.5002	189.7432	62.0988	86.8074	190.4722	84.1402	199.798	242.2139	212.0439	192.3637	120.4974	208.729	Metabolism; Carbohydrate metabolism; Propanoate metabolism
+ko00642	0	0	0	0	0	0	0	0	0	0	0	22.0384	0	0	21.5817	Metabolism; Xenobiotics biodegradation and metabolism; Ethylbenzene degradation
+ko00643	0	0	0	0	0	0	0	0	0	16.7938	0	85.026	0	0	101.9972	Metabolism; Xenobiotics biodegradation and metabolism; Styrene degradation
+ko00650	179.1298	137.0454	55.943	71.4241	115.4843	28.1947	68.3588	143.3799	105.4942	158.2346	177.5767	204.0295	152.1131	85.7367	182.3909	Metabolism; Carbohydrate metabolism; Butanoate metabolism
+ko00660	298.8778	134.5158	9.3351	5.6273	18.0026	1.2374	32.4285	45.5608	119.5347	248.6879	290.0287	232.5144	151.1269	7.3136	231.959	Metabolism; Carbohydrate metabolism; C5-Branched dibasic acid metabolism
+ko00670	309.3664	172.8865	155.866	75.8889	304.4943	112.9817	78.5678	222.4607	159.9459	241.0289	227.4075	247.3553	245.7373	156.8974	256.8312	Metabolism; Metabolism of cofactors and vitamins; One carbon pool by folate
+ko00680	96.786	77.7944	87.5856	90.4278	139.1764	74.2174	70.1636	105.6334	60.808	130.4925	111.8187	115.2636	101.6082	91.9962	88.0004	Metabolism; Energy metabolism; Methane metabolism
+ko00710	295.4903	179.5493	194.5684	89.157	460.0308	169.9109	216.192	266.7975	204.2086	421.3326	272.9114	360.1677	290.3295	302.834	283.8463	Metabolism; Energy metabolism; Carbon fixation in photosynthetic organisms
+ko00720	186.8959	0	0	0	0	0	66.1691	148.8963	0	0	162.5202	210.9443	147.8394	0	174.6808	Metabolism; Energy metabolism; Carbon fixation pathways in prokaryotes
+ko00730	230.1735	183.8967	48.6243	11.3458	223.1016	73.2012	121.6487	433.6943	113.9738	273.6462	404.5276	241.6116	403.5319	119.5006	200.1408	Metabolism; Metabolism of cofactors and vitamins; Thiamine metabolism
+ko00740	93.408	50.4976	44.5465	28.3368	119.4246	19.0385	61.1151	173.7651	48.1061	74.0141	207.2697	101.757	172.5131	71.062	135.823	Metabolism; Metabolism of cofactors and vitamins; Riboflavin metabolism
+ko00750	167.2717	94.193	85.041	26.5143	226.3631	67.5551	114.8957	75.44	100.5779	103.6606	249.8203	190.8182	133.8644	143.9595	186.2806	Metabolism; Metabolism of cofactors and vitamins; Vitamin B6 metabolism
+ko00760	157.5184	108.8251	75.3313	33.9468	123.8716	57.6577	66.3001	94.7954	71.8788	142.9454	138.5071	143.1458	155.3608	83.4013	155.0323	Metabolism; Metabolism of cofactors and vitamins; Nicotinate and nicotinamide metabolism
+ko00770	339.9862	319.0067	58.4505	12.7814	358.3792	33.9062	115.3476	209.0906	124.246	242.5619	388.7298	309.1176	287.0861	188.2163	309.1128	Metabolism; Metabolism of cofactors and vitamins; Pantothenate and CoA biosynthesis
+ko00780	308.607	154.0046	51.0136	5.6368	560.8525	5.777	143.6854	456.7677	155.9723	243.2144	374.116	511.0677	381.0536	177.0748	340.778	Metabolism; Metabolism of cofactors and vitamins; Biotin metabolism
+ko00785	209.3124	69.8676	0	3.743	12.9318	1.6881	30.9427	30.1064	60.1981	146.8312	75.4365	128.8013	77.95	3.9922	159.0434	Metabolism; Metabolism of cofactors and vitamins; Lipoic acid metabolism
+ko00790	180.8272	106.8065	39.6039	15.3279	276.2999	41.002	58.1724	160.9239	90.3374	153.5295	231.0898	186.0691	174.0338	152.857	151.0346	Metabolism; Metabolism of cofactors and vitamins; Folate biosynthesis
+ko00791	0	0	0	0	0	0	0	0	0	0	1.5823	2.7974	0	0	29.5519	Metabolism; Xenobiotics biodegradation and metabolism; Atrazine degradation
+ko00830	38.3003	45.7637	171.853	136.4994	35.6805	123.5901	90.7611	7.3941	50.668	19.748	10.479	19.2519	8.1974	84.9413	40.7008	Metabolism; Metabolism of cofactors and vitamins; Retinol metabolism
+ko00860	115.3897	65.8424	47.7271	38.2905	146.5313	33.9397	52.7915	160.9059	52.558	90.7192	187.2263	151.0753	157.3995	87.4838	127.9594	Metabolism; Metabolism of cofactors and vitamins; Porphyrin metabolism
+ko00900	215.1408	143.9648	67.71	23.0167	241.2354	9.5689	66.1011	173.0556	116.9253	279.1939	180.6669	228.7856	224.7122	125.6073	200.3253	Metabolism; Metabolism of terpenoids and polyketides; Terpenoid backbone biosynthesis
+ko00903	176.3718	0	0	0	0	0	0	0	0	0	0	276.5732	0	0	342.5562	Metabolism; Metabolism of terpenoids and polyketides; Limonene and pinene degradation
+ko00906	6.7864	4.4844	0	0	0.6981	0	0.3285	2.3973	2.6248	16.1537	0.2302	24.4598	2.8606	0.7049	13.7403	Metabolism; Metabolism of terpenoids and polyketides; Carotenoid biosynthesis
+ko00909	0.2667	0	0	0	0	0	0	0	0	0	0	0.0376	0	0	1.0902	Metabolism; Metabolism of terpenoids and polyketides; Sesquiterpenoid and triterpenoid biosynthesis
+ko00910	132.2295	53.2239	49.3874	25.4034	159.2992	7.8415	55.3899	155.0256	40.6618	75.7096	211.2184	163.6225	123.5044	76.7206	106.715	Metabolism; Energy metabolism; Nitrogen metabolism
+ko00920	106.7099	49.9339	17.081	13.6957	38.3495	8.5481	29.2155	66.2077	38.9178	79.4343	212.3009	146.2182	114.5692	21.253	120.3729	Metabolism; Energy metabolism; Sulfur metabolism
+ko00930	71.2253	153.2511	0	90.1627	0	0	0	5.4744	47.6615	60.7735	3.38	115.3217	19.5048	0	108.4367	Metabolism; Xenobiotics biodegradation and metabolism; Caprolactam degradation
+ko00940	0	0	0	0	0	0	0	4.5889	0	0	0	0	0	0	0	Metabolism; Biosynthesis of other secondary metabolites; Phenylpropanoid biosynthesis
+ko00960	76.2095	41.6728	0	0	0	0	0	38.6173	19.8873	30.467	0	77.3563	50.1126	0	70.9208	Metabolism; Biosynthesis of other secondary metabolites; Tropane, piperidine and pyridine alkaloid biosynthesis
+ko00965	108.5612	0	0	0	0	0	0	1.9049	30.2619	0	0.3129	19.332	14.0815	0	10.1069	Metabolism; Biosynthesis of other secondary metabolites; Betalain biosynthesis
+ko00970	291.332	0	0	0	595.872	0	0	468.5634	132.4088	559.5484	300.551	376.7616	480.5278	0	295.7965	Genetic Information Processing; Translation; Aminoacyl-tRNA biosynthesis
+ko00980	59.3451	68.0486	108.3412	95.0509	34.1377	118.3367	69.3123	0	33.9932	0	0	128.553	0	36.9325	113.6409	Metabolism; Xenobiotics biodegradation and metabolism; Metabolism of xenobiotics by cytochrome P450
+ko00981	0	0	41.1329	0	13.4176	0	0	0	0	0	0	0	0	0	0	Metabolism; Metabolism of terpenoids and polyketides; Insect hormone biosynthesis
+ko00983	317.9085	287.6975	162.663	200.1017	293.1452	99.3747	236.4333	421.3199	221.5754	432.1794	370.3016	339.2252	496.4418	189.6985	332.8055	Metabolism; Xenobiotics biodegradation and metabolism; Drug metabolism - other enzymes
+ko00984	10.2867	19.1017	0	0	1.5651	0	0	2.1071	11.7697	38.947	0.5898	111.7524	5.5371	1.3928	2.1243	Metabolism; Xenobiotics biodegradation and metabolism; Steroid degradation
+ko00997	13.0938	0	0	0	0	0	0	0.3246	0	0.1809	0.0435	0	0.1881	0	0.0719	Metabolism; Biosynthesis of other secondary metabolites; Biosynthesis of various other secondary metabolites
+ko00998	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14.1675	Metabolism; Biosynthesis of other secondary metabolites; Biosynthesis of various antibiotics
+ko01040	58.0357	37.4002	64.5226	72.8129	7.5042	94.8243	80.4648	0	52.4485	0	0	0	0	81.8809	67.9412	Metabolism; Lipid metabolism; Biosynthesis of unsaturated fatty acids
+ko01053	73.0452	33.4541	0	0	3.3586	0	0	5.6715	38.9501	64.042	59.358	36.9483	28.4997	0	28.7527	Metabolism; Metabolism of terpenoids and polyketides; Biosynthesis of siderophore group nonribosomal peptides
+ko01501	34.5456	0	0	0	0	0	0	0	0	0	57.512	51.6769	73.9414	0	72.0078	Human Diseases; Drug resistance: antimicrobial; beta-Lactam resistance
+ko01502	215.3784	0	0	0	0	0	0	0	0	0	0	224.1045	388.3863	0	279.984	Human Diseases; Drug resistance: antimicrobial; Vancomycin resistance
+ko01503	36.9742	0	20.1311	0	0	0	39.4056	82.5662	0	0	229.1272	97.0918	157.4019	0	54.1218	Human Diseases; Drug resistance: antimicrobial; Cationic antimicrobial peptide (CAMP) resistance
+ko01521	13.4414	93.6337	45.5727	14.5379	24.292	5.9789	78.4819	0	17.2055	12.6652	0	0.3469	0	25.9817	0.061	Human Diseases; Drug resistance: antineoplastic; EGFR tyrosine kinase inhibitor resistance
+ko01522	22.545	24.0775	24.2626	23.6364	30.216	22.5308	26.6273	23.4978	16.8392	30.0114	27.1503	25.9966	25.8284	27.2477	22.4649	Human Diseases; Drug resistance: antineoplastic; Endocrine resistance
+ko01523	166.7665	98.8042	116.619	91.5539	172.4337	60.9939	165.2714	145.2461	80.2907	138.3	100.8537	122.9725	162.0434	130.504	135.7846	Human Diseases; Drug resistance: antineoplastic; Antifolate resistance
+ko01524	37.3258	45.7735	33.1468	13.918	77.1871	45.2021	88.759	18.5535	19.0488	42.7233	23.4962	0	22.6954	43.0919	70.1547	Human Diseases; Drug resistance: antineoplastic; Platinum drug resistance
+ko02010	108.5402	50.4586	19.7831	0	71.5434	7.3154	35.3441	139.3421	0	83.2759	221.3143	149.1827	154.5762	38.731	180.2706	Environmental Information Processing; Membrane transport; ABC transporters
+ko02020	63.8614	32.5079	11.6352	3.9817	65.1149	5.0759	28.9494	68.1438	25.0615	72.7935	176.4095	123.698	101.4884	30.967	90.7811	Environmental Information Processing; Signal transduction; Two-component system
+ko02024	125.7451	69.0397	0	0	78.3568	0	34.0115	149.8431	44.1261	161.3889	142.1589	213.6554	148.4282	40.1755	288.3501	Cellular Processes; Cellular community - prokaryotes; Quorum sensing
+ko02026	82.2025	0	0	0	0	0	0	120.6404	39.7257	0	254.7009	127.8284	119.9437	0	97.9309	Cellular Processes; Cellular community - prokaryotes; Biofilm formation - Escherichia coli
+ko02030	65.3394	0	0	0	334.3152	0	0	190.8603	29.5889	19.9874	442.753	390.6214	165.0428	173.3314	189.007	Cellular Processes; Cell motility; Bacterial chemotaxis
+ko02040	71.2428	0	0	0	786.4989	0	100.1791	116.1608	25.4844	23.5285	470.7597	310.5402	191.1809	295.8267	91.8098	Cellular Processes; Cell motility; Flagellar assembly
+ko02060	112.8865	0	0	0	0	0	96.363	563.9174	66.271	297.1962	401.8474	139.7174	388.9704	0	80.2918	Environmental Information Processing; Membrane transport; Phosphotransferase system (PTS)
+ko03008	20.917	8.6832	19.2163	33.6039	30.1355	23.6517	18.3592	0	15.5496	15.3145	0	20.1781	0	21.8745	0	Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes
+ko03010	609.6309	354.8388	102.4338	54.4158	369.706	55.6135	265.568	373.5699	309.1232	909.3578	148.4285	467.7082	388.9608	234.4198	293.2686	Genetic Information Processing; Translation; Ribosome
+ko03013	2.0273	7.4981	34.5402	31.953	17.4498	27.1562	25.6954	0.1375	26.8151	2.8684	0.0928	0.0657	0	27.6773	0.0718	Genetic Information Processing; Translation; Nucleocytoplasmic transport
+ko03015	5.7244	22.2861	61.1472	60.8857	8.749	55.55	16.9524	0	33.858	0	0.1119	0.132	0	21.8466	0	Genetic Information Processing; Translation; mRNA surveillance pathway
+ko03018	175.2286	136.9489	101.261	41.339	247.9979	34.3983	83.2763	187.852	85.8995	355.7215	129.709	190.8556	212.2571	114.6296	125.627	Genetic Information Processing; Folding, sorting and degradation; RNA degradation
+ko03022	3.3564	2.4403	0.2865	0	1.2081	0	0.5073	3.581	3.7044	12.363	0	0	0	0.3245	6.6857	Genetic Information Processing; Transcription; Basal transcription factors
+ko03030	236.1712	184.1034	69.9294	4.5803	297.601	15.3836	94.3731	297.0903	140.7022	350.6216	231.8196	269.8464	340.9202	156.5783	248.9973	Genetic Information Processing; Replication and repair; DNA replication
+ko03040	0.742	10.0056	35.412	40.6019	8.8766	29.8793	18.971	0	25.1573	4.2676	0	0	0	24.7672	0	Genetic Information Processing; Transcription; Spliceosome
+ko03050	11.6589	18.582	65.455	59.0291	20.3653	70.6892	60.2546	1.9876	30.8446	19.5979	0	0	0	31.3463	0	Genetic Information Processing; Folding, sorting and degradation; Proteasome
+ko03060	408.3401	234.6316	84.8015	3.4845	558.7644	23.1445	133.7699	461.9648	188.2361	659.5906	323.112	400.3074	468.5774	239.3904	338.9894	Genetic Information Processing; Folding, sorting and degradation; Protein export
+ko03070	201.0146	0	0	0	0	0	0	195.2179	0	348.2608	450.9241	354.7925	279.4496	0	226.0391	Environmental Information Processing; Membrane transport; Bacterial secretion system
+ko03250	21.6798	19.7127	15.324	20.5278	4.817	16.6263	6.5576	0	27.724	25.3478	0	0	0	3.2816	0	Genetic Information Processing; Information processing in viruses; Viral life cycle - HIV-1
+ko03320	94.7772	140.7872	109.4418	143.6695	54.6297	145.2745	136.6264	0	99.7187	115.0254	0	68.8259	0	109.0029	81.2019	Organismal Systems; Endocrine system; PPAR signaling pathway
+ko03410	299.0295	143.8486	83.2957	26.4704	258.4044	45.944	95.952	327.6133	121.5709	372.3729	281.9339	300.4845	337.4202	182.5468	232.6148	Genetic Information Processing; Replication and repair; Base excision repair
+ko03420	128.5313	64.4197	46.0835	1.1039	301.8564	6.662	39.3323	254.0106	41.3123	142.0913	187.3985	145.8127	247.4725	159.7392	128.5563	Genetic Information Processing; Replication and repair; Nucleotide excision repair
+ko03430	323.9273	239.4272	108.6761	3.3259	413.9124	16.7412	108.8323	517.9741	197.7665	455.3402	388.9777	401.8668	510.4006	234.2257	332.158	Genetic Information Processing; Replication and repair; Mismatch repair
+ko03440	267.4549	183.6386	77.4192	1.6198	352.7299	16.8826	98.2292	345.8923	157.6173	450.9989	258.3308	327.637	347.6998	181.9847	262.6576	Genetic Information Processing; Replication and repair; Homologous recombination
+ko03450	31.349	3.0279	0	0	0	0	0	5.2216	0	0.1802	0	0	0	0	20.9315	Genetic Information Processing; Replication and repair; Non-homologous end-joining
+ko03460	0	0	19.6822	12.3823	1.2847	4.1577	13.0516	0	9.8776	0	0	0	0	11.9499	0	Genetic Information Processing; Replication and repair; Fanconi anemia pathway
+ko04010	4.3068	35.2245	50.0431	40.2864	8.5578	34.7984	39.864	0	13.8395	1.761	0	0.0555	0	19.5253	0.0394	Environmental Information Processing; Signal transduction; MAPK signaling pathway
+ko04011	17.1467	0	0	0	34.274	0	3.1536	0	8.1475	0	0	0	0	0	0	Environmental Information Processing; Signal transduction; MAPK signaling pathway - yeast
+ko04012	8.985	60.7426	10.7795	1.9342	12.0901	1.7113	24.0469	0	2.7067	11.7587	0	0	0	7.1735	0.0475	Environmental Information Processing; Signal transduction; ErbB signaling pathway
+ko04013	17.5549	23.7246	12.4861	18.319	29.5853	12.4207	24.9101	0	15.0217	15.9411	0	0	18.7976	22.1163	14.3179	Environmental Information Processing; Signal transduction; MAPK signaling pathway - fly
+ko04014	3.9133	36.4467	32.7708	26.7155	5.7913	27.7524	36.5224	0.2193	7.7947	0.9377	0.0122	0.0271	0	15.4662	0.0507	Environmental Information Processing; Signal transduction; Ras signaling pathway
+ko04015	0.7853	10.4713	31.3793	36.0263	9.7757	37.7645	28.1392	0.0993	12.551	2.2909	0.0276	0.0305	0	25.7045	0.0501	Environmental Information Processing; Signal transduction; Rap1 signaling pathway
+ko04020	5.873	34.077	66.7912	72.0503	12.7751	84.2626	67.4295	0	37.4333	2.8953	0.0768	0.1291	0	34.9613	0.0179	Environmental Information Processing; Signal transduction; Calcium signaling pathway
+ko04022	17.9909	107.4451	399.1623	417.5845	86.6818	402.3523	294.8323	0.5563	133.8764	13.5778	0.3275	0.3709	0	258.2267	0.0743	Environmental Information Processing; Signal transduction; cGMP-PKG signaling pathway
+ko04024	9.218	48.0835	80.0335	106.9801	22.1128	98.551	83.6295	0.3919	45.418	6.3398	0.1013	0	0	49.4785	2.2602	Environmental Information Processing; Signal transduction; cAMP signaling pathway
+ko04060	0	0	19.9319	0	5.5618	20.5882	15.245	0	13.6849	0	0	0	0	13.2801	0	Environmental Information Processing; Signaling molecules and interaction; Cytokine-cytokine receptor interaction
+ko04062	0.9833	11.4205	26.7474	33.5531	3.464	23.8347	48.1005	0	9.5687	0.4374	0	0.07	0	19.9052	0.0091	Organismal Systems; Immune system; Chemokine signaling pathway
+ko04064	2.3707	10.7555	51.7375	45.2519	10.4837	29.4347	66.826	0	5.528	1.6913	0	0	0	21.4272	0	Environmental Information Processing; Signal transduction; NF-kappa B signaling pathway
+ko04066	95.3062	105.8782	117.5695	118.4506	105.543	90.208	109.8429	120.704	91.2165	257.3287	73.1123	104.4834	0	113.2113	95.9062	Environmental Information Processing; Signal transduction; HIF-1 signaling pathway
+ko04068	42.4475	31.0437	32.1115	27.9853	53.2531	31.5687	41.7038	8.9787	26.4662	32.4862	17.6993	21.1922	0	33.1656	0	Environmental Information Processing; Signal transduction; FoxO signaling pathway
+ko04070	47.7011	15.2812	9.3743	10.3163	30.0861	5.1517	52.528	44.5131	26.7183	46.0277	32.239	52.5667	27.1098	17.9226	46.928	Environmental Information Processing; Signal transduction; Phosphatidylinositol signaling system
+ko04071	4.3199	10.0616	70.1299	47.7165	4.3308	50.0833	30.19	0.4096	24.9806	6.273	0	0.1331	0.5719	34.8177	0.3631	Environmental Information Processing; Signal transduction; Sphingolipid signaling pathway
+ko04072	12.8832	122.9013	58.2819	71.7732	26.2209	55.9969	41.0825	0	23.6154	9.6668	9.077	5.6986	0	63.6829	0	Environmental Information Processing; Signal transduction; Phospholipase D signaling pathway
+ko04080	5.2197	35.6131	22.7232	23.4433	10.2033	18.7909	15.8683	3.3802	7.2983	2.858	1.6483	0.6568	1.796	18.528	0.8465	Environmental Information Processing; Signaling molecules and interaction; Neuroactive ligand-receptor interaction
+ko04110	0.9908	0.8026	14.9913	24.3604	0.763	23.3354	8.406	0	9.8142	0.8122	0	0	0	9.9332	0.0144	Cellular Processes; Cell growth and death; Cell cycle
+ko04111	0.6538	0.7134	0	0	0.2142	0	0	0	0	0	0	0	0	1.2559	0.0128	Cellular Processes; Cell growth and death; Cell cycle - yeast
+ko04112	315.1346	0	0	0	418.6171	0	0	0	0	397.9437	288.0251	387.5987	403.4114	0	342.31	Cellular Processes; Cell growth and death; Cell cycle - Caulobacter
+ko04113	0	0	0	0	1.1928	0	0	0	17.9499	0	0	0	0	0	0	Cellular Processes; Cell growth and death; Meiosis - yeast
+ko04114	0	0	8.9904	14.049	0.6834	19.978	1.3993	0	13.8116	0	0	0	0	11.0002	0	Cellular Processes; Cell growth and death; Oocyte meiosis
+ko04115	3.6397	30.9994	57.4789	52.7894	46.5072	61.5532	64.1899	1.5094	21.9662	4.5769	0.2817	18.9165	2.9673	47.0612	10.2845	Cellular Processes; Cell growth and death; p53 signaling pathway
+ko04120	8.1718	1.3034	346.6655	510.3217	93.3967	466.0074	254.5507	0.234	168.3681	0.3621	0	0	0	294.4333	0.1355	Genetic Information Processing; Folding, sorting and degradation; Ubiquitin mediated proteolysis
+ko04122	271.3187	84.4152	69.7588	0	449.1395	0	140.3065	272.4301	137.7907	207.7497	403.5748	265.7951	329.4204	195.326	204.4775	Genetic Information Processing; Folding, sorting and degradation; Sulfur relay system
+ko04136	0	0	0	0	0	2.0446	64.6772	0	4.2762	0	0	0	0	0	0	Cellular Processes; Transport and catabolism; Autophagy - other
+ko04137	8.3166	88.1341	2.4233	0	2.305	5.3653	12.705	0	3.7623	1.8562	0	0	0	4.5444	0	Cellular Processes; Transport and catabolism; Mitophagy - animal
+ko04138	12.4047	3.921	3.9885	7.0453	0.1292	3.5182	21.6911	0	8.6413	0	0	0	0	2.8773	0	Cellular Processes; Transport and catabolism; Autophagy - yeast
+ko04139	0	0	0	0	0	0	3.753	0	2.0795	0	0	0	0	7.3068	0	Cellular Processes; Transport and catabolism; Mitophagy - yeast
+ko04140	4.6876	50.4883	6.2964	0	2.0311	3.6315	20.3835	0	4.7154	2.0379	0	0	0	2.6329	0.0478	Cellular Processes; Transport and catabolism; Autophagy - animal
+ko04141	2.8543	12.0684	68.7069	79.5963	26.3358	57.1567	52.5172	14.4413	24.3477	22.663	10.8315	13.8252	6.8387	42.8232	4.0902	Genetic Information Processing; Folding, sorting and degradation; Protein processing in endoplasmic reticulum
+ko04142	12.72	28.4798	27.6939	30.1403	22.718	39.5737	32.2326	52.9688	22.9585	3.2546	18.7243	2.208	38.6177	33.7318	13.1041	Cellular Processes; Transport and catabolism; Lysosome
+ko04144	3.3068	3.7135	37.8667	37.7079	10.6546	24.7699	32.6333	0.301	19.0066	1.3806	0.1227	0.1568	0	26.8459	0.018	Cellular Processes; Transport and catabolism; Endocytosis
+ko04145	3.3071	49.2611	111.5058	130.357	36.592	105.945	100.9571	0	35.5075	5.5553	0	0	0	88.6634	0	Cellular Processes; Transport and catabolism; Phagosome
+ko04146	111.7691	109.395	56.0467	141.2857	107.1455	99.0465	117.1416	24.6694	62.162	100.4179	52.8519	107.8809	57.7702	97.4716	103.5018	Cellular Processes; Transport and catabolism; Peroxisome
+ko04150	3.65	27.1593	45.4416	35.1971	13.6082	17.5015	54.2221	0.16	20.4746	0.5492	0.0665	0.1992	0	22.4643	0.0265	Environmental Information Processing; Signal transduction; mTOR signaling pathway
+ko04151	33.072	204.8906	61.4682	53.6375	54.9299	38.5376	119.5717	7.0298	30.1638	20.0178	0	0	0	53.2461	0	Environmental Information Processing; Signal transduction; PI3K-Akt signaling pathway
+ko04152	35.3007	70.5393	18.3647	10.344	35.3545	13.0722	23.1223	0	17.2615	82.3781	27.9484	32.7094	39.6127	29.2849	20.335	Environmental Information Processing; Signal transduction; AMPK signaling pathway
+ko04210	2.0927	9.2545	65.6948	58.9939	30.2073	68.2553	73.3705	0.8977	11.8332	2.2301	0.0852	17.2624	0	38.5562	6.4538	Cellular Processes; Cell growth and death; Apoptosis
+ko04211	41.0643	20.2107	21.0001	25.2619	76.4294	1.1459	8.1775	0	28.9864	31.0228	26.0383	0	0	50.4282	32.8333	Organismal Systems; Aging; Longevity regulating pathway
+ko04212	175.5006	116.5097	98.8259	43.3501	207.4209	75.6047	90.9205	0	88.4791	177.9565	83.8773	159.8489	115.6323	106.8019	126.5246	Organismal Systems; Aging; Longevity regulating pathway - worm
+ko04213	71.2142	36.6234	36.3166	31.5868	118.1799	13.4709	24.5713	0	49.9611	51.4135	46.5534	0	0	66.4629	52.4585	Organismal Systems; Aging; Longevity regulating pathway - multiple species
+ko04214	12.454	9.9193	15.6767	29.522	77.076	21.3323	29.2736	30.0412	10.3472	12.9324	18.5295	0	39.6872	34.8479	28.7003	Cellular Processes; Cell growth and death; Apoptosis - fly
+ko04215	1.3156	0	8.0875	5.1663	26.8542	11.8803	16.9814	0	0.7286	0	0	0	0	13.9341	0	Cellular Processes; Cell growth and death; Apoptosis - multiple species
+ko04216	59.5789	116.9267	70.1421	161.8483	24.192	111.1825	62.3617	0	58.5361	84.499	20.2584	0	0	42.6425	86.1173	Cellular Processes; Cell growth and death; Ferroptosis
+ko04217	48.401	112.4307	84.2345	61.1799	44.159	70.4581	103.0904	0	42.5625	41.2764	0	0	0	39.9858	0	Cellular Processes; Cell growth and death; Necroptosis
+ko04218	5.0072	54.4595	26.6219	28.8112	2.8315	33.2425	32.4453	0.4415	20.4487	1.5815	0	0	0	13.3896	0	Cellular Processes; Cell growth and death; Cellular senescence
+ko04260	50.4105	173.2576	523.6389	681.5908	186.7443	689.9473	465.7266	0	191.5585	23.8147	0	0	0	461.2199	0	Organismal Systems; Circulatory system; Cardiac muscle contraction
+ko04261	30.2056	130.937	422.3937	504.1454	89.6552	559.1231	366.9054	0.6493	156.2753	16.7367	0.4139	0	0	325.3742	0.0859	Organismal Systems; Circulatory system; Adrenergic signaling in cardiomyocytes
+ko04270	39.3186	287.5381	1015.9953	1150.0738	258.8496	1010.865	750.7343	0	230.1635	40.0018	0.8851	0	0	767.9132	0.9013	Organismal Systems; Circulatory system; Vascular smooth muscle contraction
+ko04310	3.1131	7.5934	29.5439	41.6179	10.206	30.9034	14.0135	0.0065	17.8588	2.1912	0	0.1557	0	17.4479	0.0261	Environmental Information Processing; Signal transduction; Wnt signaling pathway
+ko04320	0	0	62.313	103.3699	6.3904	33.7799	27.999	0	5.9435	0	0	0	0	52.7964	0	Organismal Systems; Development and regeneration; Dorso-ventral axis formation
+ko04330	7.6506	10.9575	290.7331	312.1213	40.4189	223.2929	96.5133	0.473	80.5532	2.9906	0	0.0747	0	182.3291	0.068	Environmental Information Processing; Signal transduction; Notch signaling pathway
+ko04340	39.2304	198.7608	149.8123	114.6302	120.9027	138.7579	156.8224	0	60.874	31.3989	0.4421	0.724	2.359	74.167	0.1032	Environmental Information Processing; Signal transduction; Hedgehog signaling pathway
+ko04341	5.3715	20.1318	31.3881	49.9589	15.0004	35.7426	42.6914	0.3182	11.5464	6.0893	0	0	0	12.9807	0	Environmental Information Processing; Signal transduction; Hedgehog signaling pathway - fly
+ko04350	3.4114	22.1394	88.8122	120.4222	29.24	112.2268	65.8883	0.3454	37.8032	5.6104	0.1321	0.1191	0.3262	66.7739	0.0383	Environmental Information Processing; Signal transduction; TGF-beta signaling pathway
+ko04360	4.849	23.0625	71.7261	98.5812	20.2342	89.3667	84.1876	0	47.3505	4.0223	0.0937	0.2388	1.301	63.4175	0.0115	Organismal Systems; Development and regeneration; Axon guidance
+ko04361	5.905	16.8205	63.5057	117.5789	35.6961	59.6955	48.1234	22.0902	16.8023	0.9413	15.9608	9.9525	0	78.9925	6.9774	Organismal Systems; Development and regeneration; Axon regeneration
+ko04370	0	0	22.7724	11.5	1.5384	27.3835	0	0	0	0	0	0	0	6.1328	0	Environmental Information Processing; Signal transduction; VEGF signaling pathway
+ko04371	11.9646	65.5565	96.9699	112.3668	10.5426	131.4998	115.112	0	67.5957	2.1139	0	0	0	57.6117	0	Environmental Information Processing; Signal transduction; Apelin signaling pathway
+ko04380	0.9607	10.8297	42.3685	39.0053	0.8283	25.4495	56.3233	0	6.2075	2.2729	0	0.0385	0	19.2007	0	Organismal Systems; Development and regeneration; Osteoclast differentiation
+ko04390	4.1916	15.0164	53.402	44.3032	34.6782	69.1255	59.636	0	27.9817	4.6174	0.0458	0.0837	0.7185	34.4982	0.0283	Environmental Information Processing; Signal transduction; Hippo signaling pathway
+ko04391	0.3484	0	69.0036	57.8997	14.6813	79.58	51.0803	0	28.5438	0	0	0	0.1345	41.0271	0	Environmental Information Processing; Signal transduction; Hippo signaling pathway - fly
+ko04392	0.3944	0	38.7814	62.9196	6.416	56.7072	37.5178	0	18.7153	0	0	0	0	32.0836	0	Environmental Information Processing; Signal transduction; Hippo signaling pathway - multiple species
+ko04510	13.531	134.5963	132.7467	140.1255	51.1012	131.7696	100.398	0.8703	50.9985	7.0336	1.7302	0.355	0	113.9223	0.2239	Cellular Processes; Cellular community - eukaryotes; Focal adhesion
+ko04512	29.1555	328.8048	155.863	175.8887	76.9874	123.3712	159.868	1.7463	51.3918	30.5673	0.716	0.2193	1.1963	158.4506	0.3577	Environmental Information Processing; Signaling molecules and interaction; ECM-receptor interaction
+ko04514	7.1302	21.5877	177.7198	229.0423	34.3611	208.1092	136.3637	0.1048	92.4919	7.7116	0.0595	0.087	0.4181	147.5389	0.0264	Environmental Information Processing; Signaling molecules and interaction; Cell adhesion molecules
+ko04520	4.8624	8.3588	72.1853	88.6572	44.6201	118.3662	61.1435	1.4769	36.3096	2.1668	0	0.1738	0.993	40.6501	0.0353	Cellular Processes; Cellular community - eukaryotes; Adherens junction
+ko04530	37.7812	229.8408	1022.2372	1135.019	228.6871	1012.7277	744.8296	1.4168	256.8999	35.3656	0.7157	0.5439	5.57	786.0378	0.2001	Cellular Processes; Cellular community - eukaryotes; Tight junction
+ko04540	2.7659	10.1641	132.9935	90.7319	26.3353	93.8397	87.6449	0.0923	67.6844	2.1126	0.0997	0	0	80.3862	0.0728	Cellular Processes; Cellular community - eukaryotes; Gap junction
+ko04550	3.3274	17.3546	21.4598	31.7693	10.5247	21.4223	35.4958	0	20.7656	2.9961	0.0115	0.0562	0	11.0823	0.01	Cellular Processes; Cellular community - eukaryotes; Signaling pathways regulating pluripotency of stem cells
+ko04610	2.61	15.4663	54.428	62.2502	13.5775	55.9464	62.7586	0.1691	14.7146	2.8345	0.1856	0.12	0	58.624	0.0234	Organismal Systems; Immune system; Complement and coagulation cascades
+ko04611	5.4879	279.2296	157.7743	145.4281	57.0161	121.4538	88.8932	0.0615	86.2822	2.6159	0.3433	0.3188	0	119.3287	0.0589	Organismal Systems; Immune system; Platelet activation
+ko04612	8.2584	36.0736	150.3473	111.4053	63.1039	105.5074	72.6715	0	51.334	6.0888	0	6.9349	0	72.0063	6.8894	Organismal Systems; Immune system; Antigen processing and presentation
+ko04613	5.6004	37.4078	62.3384	80.278	16.9984	54.7091	59.6619	1.2262	23.6384	7.2774	0	0	0	39.3609	0.0259	Organismal Systems; Immune system; Neutrophil extracellular trap formation
+ko04614	18.2818	19.7161	42.4952	14.9321	21.9782	8.6196	9.5721	2.0543	12.776	16.9971	0	0	2.1615	13.7891	0	Organismal Systems; Endocrine system; Renin-angiotensin system
+ko04620	0.3622	0.9564	29.4273	48.3808	2.0974	26.9335	67.9452	0	4.7072	0	0	0	0	21.8327	0	Organismal Systems; Immune system; Toll-like receptor signaling pathway
+ko04621	24.1654	24.7278	49.7353	56.7197	51.4036	45.8165	72.2117	32.5849	18.0418	33.9162	21.3229	26.8867	25.2948	38.448	15.4503	Organismal Systems; Immune system; NOD-like receptor signaling pathway
+ko04622	4.9877	5.9561	91.1098	75.9292	3.4829	49.3946	95.1785	4.3524	10.5556	8.3579	2.0244	0.6063	3.7588	44.0388	4.0838	Organismal Systems; Immune system; RIG-I-like receptor signaling pathway
+ko04623	1.1141	0	30.8028	62.378	0	42.5449	129.0049	0	3.5719	0	0	0	0.5516	23.8057	0	Organismal Systems; Immune system; Cytosolic DNA-sensing pathway
+ko04624	0	0	42.4952	128.7437	9.8412	106.9389	93.2037	0	15.3444	0	0.2414	0	0.828	92.1277	0	Organismal Systems; Immune system; Toll and Imd signaling pathway
+ko04625	7.0434	70.7583	47.3122	74.3549	6.9331	37.8463	79.3154	0	9.0738	1.4035	0	0	0	30.6966	0.072	Organismal Systems; Immune system; C-type lectin receptor signaling pathway
+ko04626	46.3714	46.0728	0	0	0	0	0	0	27.739	0	0	46.8716	0	0	0	Organismal Systems; Environmental adaptation; Plant-pathogen interaction
+ko04630	10.0266	65.5279	25.5176	15.1661	22.0002	32.0488	46.8515	0	9.0474	4.0994	0	0	0	10.1862	0	Environmental Information Processing; Signal transduction; JAK-STAT signaling pathway
+ko04640	0.688	12.326	33.2502	27.9054	11.4314	23.2253	20.1423	0	5.369	1.1216	0	0	0	15.5344	0	Organismal Systems; Immune system; Hematopoietic cell lineage
+ko04650	1.2443	0	3.7168	0	3.0105	0.2217	8.3212	0	0.1159	0	0	0	0	0.5526	0	Organismal Systems; Immune system; Natural killer cell mediated cytotoxicity
+ko04657	1.5811	0.9797	63.5268	77.5166	34.2737	63.6706	76.8594	0	12.2778	0	0	0	0	51.2909	0	Organismal Systems; Immune system; IL-17 signaling pathway
+ko04658	1.61	18.2393	93.0375	154.576	18.1296	88.5397	130.1531	0	22.8883	0	0	0	0	69.4618	0	Organismal Systems; Immune system; Th1 and Th2 cell differentiation
+ko04659	2.0433	15.0069	32.2425	63.4209	27.1411	29.1838	82.3533	0	10.9985	0.264	0	0	0	35.1237	0	Organismal Systems; Immune system; Th17 cell differentiation
+ko04660	0	0	47.0622	83.8273	8.9302	41.5053	66.3106	0	12.0468	0	0	0.0574	0	34.5503	0	Organismal Systems; Immune system; T cell receptor signaling pathway
+ko04662	2.0167	16.9199	47.2996	89.8073	15.011	42.3408	109.5105	0.2752	11.1233	1.5471	0	0	0.4945	32.1807	0	Organismal Systems; Immune system; B cell receptor signaling pathway
+ko04664	5.4893	47.6378	31.9007	51.4465	10.7152	37.3693	39.2676	0	2.531	7.5573	0	0	0	29.8573	0	Organismal Systems; Immune system; Fc epsilon RI signaling pathway
+ko04666	1.8276	15.3337	36.2431	23.8858	9.1939	44.0532	19.9273	0	4.1383	1.4021	0	0	0	10.5997	0	Organismal Systems; Immune system; Fc gamma R-mediated phagocytosis
+ko04668	0.4412	0	67.5567	76.2155	12.3829	63.8846	88.6158	0	9.7938	0	0	0	0	35.7992	0	Environmental Information Processing; Signal transduction; TNF signaling pathway
+ko04670	13.4532	40.1311	235.4869	252.3511	65.7303	291.759	196.5526	1.6023	141.3449	8.1345	2.9291	0	2.7628	207.5232	0.0849	Organismal Systems; Immune system; Leukocyte transendothelial migration
+ko04672	0	16.9339	15.6256	0	6.8396	8.1305	17.7671	0	3.8161	2.3614	0	0	0	3.3912	0	Organismal Systems; Immune system; Intestinal immune network for IgA production
+ko04710	0	0	0	0	0	8.7624	0	0	0	0	0	0	0	0	0	Organismal Systems; Environmental adaptation; Circadian rhythm
+ko04711	0	0	0	0	0	20.4457	0	0	0	0	0	0	0	0	0	Organismal Systems; Environmental adaptation; Circadian rhythm - fly
+ko04713	8.0982	20.8097	141.1294	117.2188	27.1017	137.8691	121.8519	0.0692	102.4334	2.6043	0	0	0	114.9665	0.013	Organismal Systems; Environmental adaptation; Circadian entrainment
+ko04714	24.9205	55.7365	92.2666	91.982	55.8665	77.9173	93.0858	0	47.9245	20.245	0	0	0	57.384	0	Organismal Systems; Environmental adaptation; Thermogenesis
+ko04720	2.9746	23.9757	26.5969	27.9925	13.6715	23.4872	28.5867	0	29.3326	3.9217	0.3247	0	0	6.2274	0	Organismal Systems; Nervous system; Long-term potentiation
+ko04721	9.2798	77.5254	105.6695	129.4977	51.4227	108.2752	116.6129	3.4177	41.7549	5.1274	0	0	0	77.6405	0	Organismal Systems; Nervous system; Synaptic vesicle cycle
+ko04722	0.2689	0	27.0003	62.2687	9.0974	30.8251	38.3587	0.1774	16.0812	0	0	0.0548	0.3187	32.5236	0.0151	Organismal Systems; Nervous system; Neurotrophin signaling pathway
+ko04723	8.9795	48.5354	33.932	59.9472	15.5501	39.0469	44.8786	0	33.1745	4.0744	0.3255	0	0	37.916	0.0361	Organismal Systems; Nervous system; Retrograde endocannabinoid signaling
+ko04724	28.7897	42.4448	83.0148	87.6912	44.5588	88.4545	93.8586	31.6834	35.0686	25.0807	24.1021	17.1757	20.1461	61.0677	29.2001	Organismal Systems; Nervous system; Glutamatergic synapse
+ko04725	3.4065	40.3146	52.9999	40.3611	20.8045	36.6	64.714	0	17.7934	2.2565	0	0	0	46.5878	0.0091	Organismal Systems; Nervous system; Cholinergic synapse
+ko04726	10.1033	40.4977	66.2671	71.6407	12.5749	70.2245	60.789	0	18.0022	6.6156	0	0	0	59.386	0	Organismal Systems; Nervous system; Serotonergic synapse
+ko04727	46.6907	106.1258	48.9469	33.8075	47.084	37.8442	79.9039	68.5513	46.1301	34.3818	36.4026	22.6988	0	42.66	37.0695	Organismal Systems; Nervous system; GABAergic synapse
+ko04728	7.2428	20.1865	30.1645	13.7108	8.6917	27.1473	39.0265	0.1768	23.2648	2.8563	0.2052	0	0	19.3415	2.4029	Organismal Systems; Nervous system; Dopaminergic synapse
+ko04730	3.6077	23.5974	210.0048	145.0069	48.4512	154.7266	133.7896	1.4595	84.8024	2.7555	0.13	0	0	149.3409	0.0226	Organismal Systems; Nervous system; Long-term depression
+ko04740	47.1928	283.9729	318.1999	294.5184	106.0857	179.2805	254.8542	0.71	123.9943	23.7407	0.593	0.3085	0	159.6777	0.0421	Organismal Systems; Sensory system; Olfactory transduction
+ko04742	15.5091	67.2527	9.4678	10.5238	30.2949	1.0631	37.9929	0	16.1552	5.4907	0.6754	0	0	2.4943	0	Organismal Systems; Sensory system; Taste transduction
+ko04744	2.3531	0	111.3943	85.5188	3.6477	7.5122	45.9137	0	3.9279	0	0	0.5301	3.0698	6.169	0	Organismal Systems; Sensory system; Phototransduction
+ko04745	0	0	0	8.2537	8.8333	21.4403	0	0	18.6842	0	0	0	0	17.6066	0	Organismal Systems; Sensory system; Phototransduction - fly
+ko04750	8.5821	82.9196	25.8317	16.0446	14.7595	27.7145	6.8778	0.98	17.1213	5.3375	0.2114	0.2317	0	12.5511	1.0223	Organismal Systems; Sensory system; Inflammatory mediator regulation of TRP channels
+ko04810	24.303	171.7969	597.4867	653.1651	145.3554	605.8346	433.7947	0.9644	133.2835	22.0596	1.7561	0.4319	3.5822	454.3208	0.1554	Cellular Processes; Cell motility; Regulation of actin cytoskeleton
+ko04910	40.9779	87.6199	60.7024	33.7021	37.2932	62.7044	70.9584	8.4444	49.7466	23.8183	9.6954	10.9437	9.7253	42.267	14.5555	Organismal Systems; Endocrine system; Insulin signaling pathway
+ko04911	7.9355	27.1417	65.3258	135.0664	10.599	101.5068	69.76	0	56.6184	6.0335	0.2101	0	0	49.1364	0.0133	Organismal Systems; Endocrine system; Insulin secretion
+ko04912	1.2658	16.4833	32.0612	23.1523	10.3013	30.1358	24.8665	0.2457	2.291	1.2748	0.2232	0	0	16.4787	0	Organismal Systems; Endocrine system; GnRH signaling pathway
+ko04913	4.4563	37.6926	99.8439	134.6083	14.1718	160.3332	88.2412	0	38.1149	6.8255	0.1062	0	0	145.6724	0.0227	Organismal Systems; Endocrine system; Ovarian steroidogenesis
+ko04914	3.8215	11.8193	57.3502	63.9334	26.1501	67.0565	50.0174	0	27.4756	1.4257	22.7743	0	0	60.1029	4.8261	Organismal Systems; Endocrine system; Progesterone-mediated oocyte maturation
+ko04915	6.8676	21.421	102.1183	138.2758	39.1388	152.4053	121.1096	17.8797	53.6226	1.2063	0	0	0	94.8327	4.0819	Organismal Systems; Endocrine system; Estrogen signaling pathway
+ko04916	1.6771	8.9683	37.3551	54.0455	1.8801	52.3146	44.0775	0	22.1269	2.3799	0	0	0	22.0122	0.534	Organismal Systems; Endocrine system; Melanogenesis
+ko04917	9.2149	28.5023	18.9981	3.2532	6.5868	7.1531	44.9155	0	5.2202	6.8686	0	0	0	21.0785	0	Organismal Systems; Endocrine system; Prolactin signaling pathway
+ko04918	8.5323	53.1121	121.33	186.0573	50.4706	154.065	96.1755	9.5554	40.9082	11.0133	30.4459	18.6624	21.3399	77.42	16.4527	Organismal Systems; Endocrine system; Thyroid hormone synthesis
+ko04919	29.4769	143.6322	383.7816	454.1155	73.7029	405.2296	284.6066	37.5875	108.7721	78.0663	21.8718	0	0	277.4645	9.7286	Organismal Systems; Endocrine system; Thyroid hormone signaling pathway
+ko04920	61.1095	60.6643	145.2997	198.9824	26.2369	120.3153	156.3001	0	49.2316	53.9225	0	29.9452	0	58.8965	0	Organismal Systems; Endocrine system; Adipocytokine signaling pathway
+ko04921	10.6938	47.3003	96.5811	105.6382	38.31	136.583	84.7884	0.1697	75.1956	5.4441	0	0	0	77.0742	0.0231	Organismal Systems; Endocrine system; Oxytocin signaling pathway
+ko04922	160.4159	183.4389	140.5723	124.4838	53.7299	131.8254	127.6476	174.5236	101.9118	383.9698	93.833	134.917	164.989	66.8524	113.1791	Organismal Systems; Endocrine system; Glucagon signaling pathway
+ko04923	2.4779	12.7051	159.8626	127.4608	16.0116	102.7352	93.9138	0	90.3934	1.4764	0	0	0	83.6553	0	Organismal Systems; Endocrine system; Regulation of lipolysis in adipocytes
+ko04924	5.749	35.0835	156.3435	108.8783	38.5015	101.5801	109.927	0	78.4348	6.3484	0.4429	1.8582	0	95.2667	0.5229	Organismal Systems; Endocrine system; Renin secretion
+ko04925	6.0321	36.1162	74.2824	70.4389	20.0611	111.9824	64.1699	0	13.7783	11.0906	0.2165	0	0	40.141	0.0137	Organismal Systems; Endocrine system; Aldosterone synthesis and secretion
+ko04926	2.1894	258.2583	43.2036	82.438	16.1409	85.7233	73.6283	0	20.9082	2.3052	0	0	0	59.5688	0	Organismal Systems; Endocrine system; Relaxin signaling pathway
+ko04927	4.1481	33.9822	32.4403	24.0616	13.7696	24.0811	41.5554	0	20.8796	11.5834	0.2646	0	0	40.9016	0	Organismal Systems; Endocrine system; Cortisol synthesis and secretion
+ko04928	6.0656	18.1636	81.6096	88.514	23.5673	101.2629	57.5435	0.2658	38.7129	3.3751	0	0	0.3212	76.9406	0.5546	Organismal Systems; Endocrine system; Parathyroid hormone synthesis, secretion and action
+ko04929	1.5579	30.7941	4.4447	7.2737	9.3923	0	15.2341	0	9.8874	5.8424	0	0	0	12.1712	0	Organismal Systems; Endocrine system; GnRH secretion
+ko04930	44.27	49.7353	20.3237	46.6167	19.4441	27.7904	47.807	62.0459	19.4932	119.9213	29.6124	0	0	16.5611	26.0986	Human Diseases; Endocrine and metabolic disease; Type II diabetes mellitus
+ko04931	62.0767	92.7101	72.1079	112.1228	41.9107	105.9766	82.436	24.4012	68.9988	73.8849	25.5821	21.7347	35.5764	67.3636	27.9204	Human Diseases; Endocrine and metabolic disease; Insulin resistance
+ko04932	14.4995	66.5223	33.4258	16.525	69.7348	23.0298	47.3742	0	19.8414	9.8661	0	0	0	41.929	0	Human Diseases; Endocrine and metabolic disease; Non-alcoholic fatty liver disease
+ko04933	4.7604	342.6501	22.2372	23.1003	17.7815	43.286	44.6662	0.2069	11.7455	3.7517	0	0	0	26.7271	0	Human Diseases; Endocrine and metabolic disease; AGE-RAGE signaling pathway in diabetic complications
+ko04934	10.1778	26.3689	32.1726	21.7437	9.5567	24.7133	38.6084	0	19.376	12.0378	0	0	0	29.521	7.6861	Human Diseases; Endocrine and metabolic disease; Cushing syndrome
+ko04935	2.9227	31.5766	31.2624	24.1878	10.5593	31.9321	48.1339	0	17.4456	2.6459	0	0.0753	0	15.3936	0.0089	Organismal Systems; Endocrine system; Growth hormone synthesis, secretion and action
+ko04936	17.7828	29.3531	72.6124	97.563	18.3639	62.9914	76.063	0	12.6878	11.3799	0	0	0	42.0978	0	Human Diseases; Endocrine and metabolic disease; Alcoholic liver disease
+ko04940	127.6319	142.8286	93.77	56.6168	117.2647	46.4513	106.337	0	79.899	72.4866	55.0938	34.7244	102.1487	86.2225	32.5154	Human Diseases; Endocrine and metabolic disease; Type I diabetes mellitus
+ko04960	1.5166	9.3978	47.522	117.9147	0	71.0605	45.7895	0	7.9594	4.0953	0	0	0	59.6066	0.0348	Organismal Systems; Excretory system; Aldosterone-regulated sodium reabsorption
+ko04961	5.1212	16.1363	215.3946	243.6178	27.6113	271.8375	138.1647	0	43.0721	3.1317	0.6137	0	0	111.8481	0.0266	Organismal Systems; Excretory system; Endocrine and other factor-regulated calcium reabsorption
+ko04962	1.1496	11.1124	58.1715	89.2665	14.6337	107.8498	49.6188	0	29.5793	1.937	0.1701	0	0	87.8551	0.0056	Organismal Systems; Excretory system; Vasopressin-regulated water reabsorption
+ko04964	158.5101	94.5211	174.5785	229.46	12.4022	282.4112	106.9364	151.9661	86.8666	117.6343	138.3933	66.207	0	96.3936	96.7386	Organismal Systems; Excretory system; Proximal tubule bicarbonate reclamation
+ko04966	2.3202	108.4239	0	0	54.2784	6.1495	20.5522	2.186	34.5703	0	0	0	0	10.0999	0.0685	Organismal Systems; Excretory system; Collecting duct acid secretion
+ko04970	4.7687	8.5724	193.5763	147.9286	32.2877	182.3834	103.9413	0.0865	63.9223	3.8174	8.5044	2.3313	3.8807	102.2333	0.4208	Organismal Systems; Digestive system; Salivary secretion
+ko04971	3.6169	17.0837	61.2515	82.1353	4.5675	76.299	47.4492	0	45.5689	3.5469	0	0	0	48.1653	0.0181	Organismal Systems; Digestive system; Gastric acid secretion
+ko04972	9.2922	10.7296	155.579	202.251	20.5614	195.6832	151.0033	0	73.8657	1.5211	7.7453	2.2255	0	93.2576	0.3719	Organismal Systems; Digestive system; Pancreatic secretion
+ko04973	6.1289	77.5608	41.3608	133.9687	2.2358	75.9416	61.7509	0	10.0792	7.4362	24.3786	5.857	8.0334	53.2136	1.1538	Organismal Systems; Digestive system; Carbohydrate digestion and absorption
+ko04974	36.8921	453.0739	258.0607	299.926	67.3773	240.2128	209.5017	1.1164	79.7172	13.2624	0.6922	1.293	1.3113	167.8606	1.9707	Organismal Systems; Digestive system; Protein digestion and absorption
+ko04975	73.5399	215.6291	69.7914	116.6856	10.9194	61.3967	84.6359	29.9014	78.0572	109.9037	63.7897	136.7638	0	86.7728	0	Organismal Systems; Digestive system; Fat digestion and absorption
+ko04976	8.7658	42.5252	76.5383	129.5819	7.7916	87.2227	41.6113	0	24.9657	13.3962	0.0696	0.1089	0	69.703	0	Organismal Systems; Digestive system; Bile secretion
+ko04977	2.1225	60.194	18.0264	0	26.5658	1.5994	33.796	0.6409	5.6562	1.2939	0.1744	0	0	1.6585	0	Organismal Systems; Digestive system; Vitamin digestion and absorption
+ko04978	176.5988	1288.7874	322.4934	245.3013	451.9881	305.4699	748.3145	33.0076	144.6948	174.9074	17.8159	51.6604	0	219.9543	33.7776	Organismal Systems; Digestive system; Mineral absorption
+ko04979	8.2836	30.9451	172.6791	213.2985	43.5013	268.9229	113.7061	0	86.9	3.3638	0	0	0	108.5838	0	Organismal Systems; Digestive system; Cholesterol metabolism
+ko05010	12.5789	44.3225	80.4446	58.8199	56.1779	82.7647	94.0639	0	33.6549	9.4291	0	0	0	46.1407	0	Human Diseases; Neurodegenerative disease; Alzheimer disease
+ko05012	28.7157	63.0734	84.4854	60.7215	58.4928	83.7833	93.2046	16.0713	41.2174	29.2255	0	0	0	50.3691	0	Human Diseases; Neurodegenerative disease; Parkinson disease
+ko05014	16.8726	57.5169	65.9098	44.6792	54.7933	57.9012	66.6656	0	26.413	14.2727	4.7323	0	0	48.1787	0	Human Diseases; Neurodegenerative disease; Amyotrophic lateral sclerosis
+ko05016	16.6342	43.9298	94.2727	66.468	61.3039	79.8758	91.0799	5.8811	32.7081	13.4067	0	0	13.2392	50.2472	16.1418	Human Diseases; Neurodegenerative disease; Huntington disease
+ko05017	2.8617	7.5616	76.908	75.9531	19.7602	75.9412	82.2643	1.9805	22.1314	1.0799	0.0406	11.0826	0	51.1596	5.9825	Human Diseases; Neurodegenerative disease; Spinocerebellar ataxia
+ko05020	16.392	60.6958	99.9033	86.1313	63.2254	102.585	109.7402	0	53.4727	9.6171	0	0	0	66.1553	9.6255	Human Diseases; Neurodegenerative disease; Prion disease
+ko05022	13.2778	37.815	62.5097	45.9012	43.1715	60.1798	68.6468	0	30.3999	8.0803	0	0	0	37.1802	9.6456	Human Diseases; Neurodegenerative disease; Pathways of neurodegeneration - multiple diseases
+ko05030	13.7165	16.0183	53.036	18.0897	4.6758	49.741	59.0501	0	31.0228	3.9586	0.0736	6.8728	0.1254	44.2386	5.046	Human Diseases; Substance dependence; Cocaine addiction
+ko05031	12.0655	23.6048	20.5023	0	14.3637	10.7638	34.0216	0.3228	22.2771	3.6753	0.3746	5.9764	0.1091	21.514	4.3879	Human Diseases; Substance dependence; Amphetamine addiction
+ko05032	15.9125	80.2119	58.6693	44.1661	22.1428	39.5279	63.8716	0.2457	24.0762	6.3647	0	0	0	32.0502	0.0505	Human Diseases; Substance dependence; Morphine addiction
+ko05033	32.0807	148.5527	50.7346	81.0554	36.4184	22.9807	63.2083	0	21.8352	12.0169	0.5028	0.2643	0	38.1136	0.1154	Human Diseases; Substance dependence; Nicotine addiction
+ko05034	6.3798	10.209	39.6853	17.6539	2.8106	30.3091	37.1584	0	22.848	1.8412	0.0342	0	0	27.6159	2.347	Human Diseases; Substance dependence; Alcoholism
+ko05100	12.3096	23.4794	65.3202	64.1779	54.0233	71.1498	81.0801	1.917	33.0791	5.4882	0.4025	0.4119	1.3981	53.4837	0.0724	Human Diseases; Infectious disease: bacterial; Bacterial invasion of epithelial cells
+ko05110	0.8353	39.0326	1.3146	17.9088	23.5195	9.9324	23.7649	0.787	19.8479	0	0	0	0	9.9743	0	Human Diseases; Infectious disease: bacterial; Vibrio cholerae infection
+ko05111	54.6903	0	6.3201	1.4266	78.2191	0	33.0418	44.6085	18.5877	22.6628	228.5647	139.5119	94.3507	33.3112	51.6905	Cellular Processes; Cellular community - prokaryotes; Biofilm formation - Vibrio cholerae
+ko05120	0	0	13.9842	29.4749	11.0375	13.5679	53.6519	0	8.4642	0	0	0	0	23.8563	0	Human Diseases; Infectious disease: bacterial; Epithelial cell signaling in Helicobacter pylori infection
+ko05130	34.0588	170.3959	703.2814	784.2736	190.738	689.2149	529.8461	0	181.3389	32.8352	0	0	0	546.5432	0	Human Diseases; Infectious disease: bacterial; Pathogenic Escherichia coli infection
+ko05131	2.0207	8.1231	57.6901	58.9091	33.2116	58.2766	51.7708	0	12.3983	0.4788	0	0	0	44.2261	0	Human Diseases; Infectious disease: bacterial; Shigellosis
+ko05132	23.029	24.9211	64.2666	62.3024	61.5585	62.0713	72.5013	0	26.4562	27.5218	0	0	0	58.4752	0	Human Diseases; Infectious disease: bacterial; Salmonella infection
+ko05133	2.6662	0	59.9054	64.3368	8.5869	61.9153	40.1716	0	19.8013	0	10.1339	9.1633	9.3618	34.8991	5.9849	Human Diseases; Infectious disease: bacterial; Pertussis
+ko05134	69.5726	62.5716	78.7084	104.1356	128.651	52.108	84.3739	16.7337	57.4417	40.1564	33.4766	54.0749	40.7372	78.1895	43.6064	Human Diseases; Infectious disease: bacterial; Legionellosis
+ko05135	1.612	10.3415	57.1044	59.6677	6.7377	44.9832	49.1604	0	9.8902	1.8395	0	0	0	32.7553	0.0122	Human Diseases; Infectious disease: bacterial; Yersinia infection
+ko05140	2.8969	51.0402	46.0513	74.2916	22.9786	36.4379	82.3815	0	15.5308	9.9954	0	0	0	36.3387	0	Human Diseases; Infectious disease: parasitic; Leishmaniasis
+ko05142	2.0373	7.0912	66.1122	84.4656	9.7257	73.7	103.0413	0	18.3069	1.9126	0	0	0	40.7768	0	Human Diseases; Infectious disease: parasitic; Chagas disease
+ko05143	0	162.2506	10.5196	0	23.6623	1.4101	7.9512	0	5.4121	10.7781	0	0.3368	0	4.0689	0	Human Diseases; Infectious disease: parasitic; African trypanosomiasis
+ko05144	0	0	59.2175	0	15.4951	0	63.7431	0	23.2159	0	0	0	0	0	0	Human Diseases; Infectious disease: parasitic; Malaria
+ko05145	4.1202	35.1796	64.4034	91.5693	19.9433	59.7728	112.406	0	28.542	3.5822	0	0	0	56.6506	0	Human Diseases; Infectious disease: parasitic; Toxoplasmosis
+ko05146	6.3168	289.1434	14.7015	11.7853	14.3482	28.3984	23.0542	0	6.3255	4.6845	0	0	0	17.4239	0	Human Diseases; Infectious disease: parasitic; Amoebiasis
+ko05150	4.2765	17.1576	90.3386	0	0	0	123.5877	0	27.0315	77.8774	7.1896	21.9328	44.3156	0	3.6584	Human Diseases; Infectious disease: bacterial; Staphylococcus aureus infection
+ko05152	46.1707	59.2286	66.6824	68.1076	63.5322	44.8102	80.3974	0	37.5032	49.7752	35.396	33.107	0	54.2461	21.4156	Human Diseases; Infectious disease: bacterial; Tuberculosis
+ko05160	4.943	8.0917	130.3245	136.3746	26.2819	116.0052	128.2583	0	68.181	2.4318	0	0	1.9071	101.4764	0	Human Diseases; Infectious disease: viral; Hepatitis C
+ko05161	1.6067	12.4047	26.8732	44.6262	13.2885	30.5979	55.784	0	6.0084	4.2456	0	0	0	19.2992	0	Human Diseases; Infectious disease: viral; Hepatitis B
+ko05162	1.2997	1.8802	32.6714	53.3372	12.5956	34.9856	61.4781	0	13.1194	0	0	0	0	26.8897	0	Human Diseases; Infectious disease: viral; Measles
+ko05163	1.6344	6.1287	59.714	53.4509	9.7354	50.8116	49.2452	0.4508	11.9891	1.0348	0.0174	0	0	31.295	0	Human Diseases; Infectious disease: viral; Human cytomegalovirus infection
+ko05164	2.6263	15.6289	59.0627	62.8881	17.9309	56.5436	102.6079	0.6762	24.2263	1.0772	0	10.068	0	43.5259	5.4225	Human Diseases; Infectious disease: viral; Influenza A
+ko05165	11.9745	88.7851	80.3843	90.6303	26.0725	67.8364	71.3671	10.6253	24.0835	23.3913	5.0214	0	0	62.5517	4.3969	Human Diseases; Infectious disease: viral; Human papillomavirus infection
+ko05166	2.0826	2.804	46.9958	58.9423	4.8571	45.3002	57.5136	5.083	15.37	1.1702	2.6961	1.0599	3.5975	22.1873	1.4451	Human Diseases; Infectious disease: viral; Human T-cell leukemia virus 1 infection
+ko05167	1.3399	10.5883	39.6463	50.8884	10.0588	31.1963	60.6261	0	7.5509	0	0	0	0	19.9577	0	Human Diseases; Infectious disease: viral; Kaposi sarcoma-associated herpesvirus infection
+ko05168	3.3491	14.4933	80.2641	63.4118	17.7951	62.0974	85.97	0	14.4683	1.242	0	0	0	37.9317	4.6897	Human Diseases; Infectious disease: viral; Herpes simplex virus 1 infection
+ko05169	2.8667	9.6811	77.4991	68.1533	20.9396	65.1975	78.8201	0	15.5869	1.7203	0	0	0	39.3625	0	Human Diseases; Infectious disease: viral; Epstein-Barr virus infection
+ko05170	1.9135	7.1751	68.6256	59.9014	14.8281	68.1075	60.9693	0	16.0534	1.5074	0	0	0	35.2925	0	Human Diseases; Infectious disease: viral; Human immunodeficiency virus 1 infection
+ko05171	3.5926	11.7912	48.557	79.3594	16.5206	62.4788	87.8671	0	15.7319	0	0	0	0	47.8919	0	Human Diseases; Infectious disease: viral; Coronavirus disease - COVID-19
+ko05200	7.9093	15.7058	50.6394	65.1371	21.1512	55.556	52.7399	4.1698	18.5974	4.6998	6.1133	14.44	5.6698	37.712	10.2076	Human Diseases; Cancer: overview; Pathways in cancer
+ko05202	0.9696	8.416	5.8431	16.3357	8.9114	14.2203	6.1911	0	1.7186	1.0732	0	0	0	7.2149	0	Human Diseases; Cancer: overview; Transcriptional misregulation in cancer
+ko05203	9.7228	4.93	62.379	65.4602	7.4109	38.829	42.377	13.5503	14.7717	27.0157	0	0	10.9873	25.6796	5.7034	Human Diseases; Cancer: overview; Viral carcinogenesis
+ko05205	15.308	140.0352	81.1556	95.5771	48.9902	85.5095	80.5663	3.8051	32.0803	11.1858	1.7918	0	2.4668	71.8453	4.9326	Human Diseases; Cancer: overview; Proteoglycans in cancer
+ko05206	0	14.2507	34.6355	43.2044	11.6601	34.6406	20.1214	8.5802	10.9149	6.9666	0	2.3814	0	24.4114	7.319	Human Diseases; Cancer: overview; MicroRNAs in cancer
+ko05207	7.5055	28.3517	32.9634	36.8259	23.9909	41.4732	48.2472	0	19.057	2.718	0	0	0	29.4788	0	Human Diseases; Cancer: overview; Chemical carcinogenesis - receptor activation
+ko05208	33.8695	69.4723	79.6688	70.135	80.2762	74.7904	109.6243	0	39.8982	24.7338	0	0	0	64.3895	0	Human Diseases; Cancer: overview; Chemical carcinogenesis - reactive oxygen species
+ko05210	0.8014	4.3638	32.1291	31.6101	18.9195	20.8071	10.505	0	8.5867	0	0	0	0	31.6104	0	Human Diseases; Cancer: specific types; Colorectal cancer
+ko05211	16.7741	5.6347	37.4049	45.7775	1.231	28.5034	8.5631	0	14.1899	12.7417	0	0	0	5.6212	0	Human Diseases; Cancer: specific types; Renal cell carcinoma
+ko05212	0	0	25.3502	11.847	3.3926	8.9732	52.0961	0	2.7514	0	0	0	0	15.2323	0	Human Diseases; Cancer: specific types; Pancreatic cancer
+ko05213	5.955	13.6369	37.4267	16.2582	51.6763	46.4613	72.2637	0	16.0406	4.2909	0	0	0	29.3263	0	Human Diseases; Cancer: specific types; Endometrial cancer
+ko05214	0	0	15.7103	4.8017	4.0208	6.3761	10.2689	0	3.2609	0	0	0	0	14.3789	0.0616	Human Diseases; Cancer: specific types; Glioma
+ko05215	2.7538	0.9797	33.9725	64.9968	25.179	36.8957	70.7895	0	9.4895	1.3926	18.3305	0	0	31.3814	3.9053	Human Diseases; Cancer: specific types; Prostate cancer
+ko05216	0.7725	0	19.4526	73.5764	10.9594	52.0317	34.1159	0	8.1204	0	0	0	0	59.1535	0	Human Diseases; Cancer: specific types; Thyroid cancer
+ko05217	1.3606	7.5069	24.4251	31.8967	9.8721	24.4395	41.4876	0	10.7643	5.5721	0	0	0	20.9637	0.001	Human Diseases; Cancer: specific types; Basal cell carcinoma
+ko05218	0	0	16.9671	5.1858	4.3425	6.8862	11.0904	0	3.5218	0	0	0	0	15.5292	0	Human Diseases; Cancer: specific types; Melanoma
+ko05219	19.3065	29.449	99.6033	142.4017	31.2874	102.1801	78.3043	0	19.8783	18.879	0	0	0	62.649	0	Human Diseases; Cancer: specific types; Bladder cancer
+ko05220	1.8104	0	28.6136	49.1923	4.0492	26.0805	71.3443	0	4.3991	0	0	0	0	27.416	0	Human Diseases; Cancer: specific types; Chronic myeloid leukemia
+ko05221	0	0	17.9976	8.602	1.4127	26.9706	49.3709	0	3.6402	0	0	0	0	11.4431	0	Human Diseases; Cancer: specific types; Acute myeloid leukemia
+ko05222	3.0972	11.352	82.1189	88.4899	19.0791	72.4951	88.0402	0	10.9797	2.3845	0.1314	17.3241	0	53.5256	9.6204	Human Diseases; Cancer: specific types; Small cell lung cancer
+ko05223	0	0	14.1393	4.3215	3.6188	5.7385	9.242	0	2.9348	0	0	0	0	12.941	0	Human Diseases; Cancer: specific types; Non-small cell lung cancer
+ko05224	3.9152	15.1144	52.2529	62.705	13.5755	40.0314	33.2026	0	20.4185	1.6638	0	0	0	34.7137	0.0553	Human Diseases; Cancer: specific types; Breast cancer
+ko05225	11.3268	17.758	40.6746	48.8605	12.9614	47.0725	33.9489	0	33.488	7.0702	4.7932	0	0	38.51	19.7749	Human Diseases; Cancer: specific types; Hepatocellular carcinoma
+ko05226	5.0781	15.7657	25.3922	14.3399	28.8016	23.6215	40.486	0	16.2534	2.4642	0	0	0	14.087	0	Human Diseases; Cancer: specific types; Gastric cancer
+ko05230	160.5202	125.5187	145.793	118.1223	35.1441	94.687	119.1614	235.7284	90.9437	458.5279	147.8747	182.7996	0	50.865	152.3047	Human Diseases; Cancer: overview; Central carbon metabolism in cancer
+ko05231	5.1911	15.9652	59.3639	45.5019	38.1809	38.9675	34.5138	22.484	7.4473	0.3863	22.6518	0	0	57.1493	9.1479	Human Diseases; Cancer: overview; Choline metabolism in cancer
+ko05235	1.3237	17.7427	33.0303	63.1711	11.698	32.7384	96.5504	0	9.7896	1.0273	0	0	0	27.7376	0	Human Diseases; Cancer: overview; PD-L1 expression and PD-1 checkpoint pathway in cancer
+ko05310	2.752	32.1743	29.6887	13.3099	12.9952	15.448	33.7575	0	7.2506	0	0	0	0	6.4434	0	Human Diseases; Immune disease; Asthma
+ko05320	2.1169	24.7495	22.8374	10.2384	10.5092	15.0394	35.0051	0	7.2278	3.4512	0	0	0	10.8218	0	Human Diseases; Immune disease; Autoimmune thyroid disease
+ko05321	0	0	9.819	4.9296	0.7587	5.3356	10.0612	0	2.4836	0	0	0	0	1.7526	0	Human Diseases; Immune disease; Inflammatory bowel disease
+ko05322	1.1965	19.1463	40.6586	46.7717	10.3873	36.8583	36.4714	0	7.3465	3.168	0.1134	0	0	17.5613	0	Human Diseases; Immune disease; Systemic lupus erythematosus
+ko05323	1.4236	38.1635	16.7079	3.9147	18.1899	9.3102	15.369	0	14.5659	0	0	0	0	4.5686	0	Human Diseases; Immune disease; Rheumatoid arthritis
+ko05330	0	29.2494	26.9897	12.0999	12.4199	14.0436	31.9296	0	6.5915	4.0787	0	0	0	6.663	0	Human Diseases; Immune disease; Allograft rejection
+ko05332	0	0	0	12.0999	2.4683	0	25.9366	0	0	0	0	0	0	5.1072	0	Human Diseases; Immune disease; Graft-versus-host disease
+ko05340	92.5621	68.441	1223.7821	1722.8252	392.3277	1598.4619	882.9391	0	578.9679	78.7723	0	0	0	1036.2385	0	Human Diseases; Immune disease; Primary immunodeficiency
+ko05410	33.4585	142.6434	464.3673	574.4606	105.608	594.5928	391.861	0.7792	164.5858	17.8673	0.4966	1.2407	1.5645	386.9459	0.3947	Human Diseases; Cardiovascular disease; Hypertrophic cardiomyopathy
+ko05412	10.9621	23.3808	94.7804	142.1866	54.5931	156.5244	125.5878	1.3901	68.3029	1.9014	0.2101	0.1211	0.9346	85.021	0.0237	Human Diseases; Cardiovascular disease; Arrhythmogenic right ventricular cardiomyopathy
+ko05414	30.5822	136.9881	422.8742	522.2369	98.4952	540.7757	357.7356	0	149.7473	17.2626	0.4515	0	0	352.1579	0.0735	Human Diseases; Cardiovascular disease; Dilated cardiomyopathy
+ko05415	47.6646	229.4684	99.2686	100.1152	101.6694	114.2625	120.4176	0	70.9726	75.8914	0	0	0	77.1991	0	Human Diseases; Cardiovascular disease; Diabetic cardiomyopathy
+ko05416	42.3456	280.5473	750.9322	765.9927	181.588	811.5154	565.2573	0	211.8547	34.6121	0	0	0	553.3117	0	Human Diseases; Cardiovascular disease; Viral myocarditis
+ko05417	30.8979	51.2571	69.0068	76.9656	57.6201	51.1679	74.1252	0	33.1285	20.645	0	0	0	54.6561	0	Human Diseases; Cardiovascular disease; Lipid and atherosclerosis
+ko05418	61.2845	57.2105	70.3689	88.0556	68.6083	67.8841	98.6356	0	60.8724	62.8193	0	72.7605	0	70.2941	49.8619	Human Diseases; Cardiovascular disease; Fluid shear stress and atherosclerosis

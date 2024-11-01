@@ -1,0 +1,515 @@
+order	S149	S150	S152	S153	S157	S113	S114	S130	S146	S802	S20	S27	S32	S45	S107	taxonomy
+o_Actinomycetales	95097	6096	2697	2429	2662	2697	2579	9814	28203	35363	5261	55974	20425	2873	2105744	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales
+o_Rhizobiales A	1043	37	4	0	57	3	8	70	298	124	176	7665	1830	3	1989208	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales A
+o_Enterobacterales	14668	960	39405	41628	15297	49224	26860	5583	83211	823	1233158	26592	51718	36184	10758	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales
+o_Burkholderiales	4309	103	341	347	383	280	315	355	814	260	619	753071	2872	291	182705	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Burkholderiales
+o_Propionibacteriales	16519	273	72	67	204	93	50	2039	1797	1447	536	31513	1707	67	861629	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Propionibacteriales
+o_Clostridiales	1004	17	1365	23	150	20	1994	224563	64	20	436490	17209	92953	1068	34565	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Clostridiales
+o_Mycobacteriales	41047	22295	3108	519	11507	966	7956	11541	21052	98461	9080	38764	17834	2243	433875	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Mycobacteriales
+o_Lactobacillales	312	584	5082	397	2653	892	3603	53384	1901	80472	25898	273209	60843	2866	91747	d_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales
+o_Xanthomonadales	5623	82	121	94	68	88	66	1089	155	146	166	73142	4469	99	488289	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales
+o_Peptostreptococcales	7074	48	737	18	79	35	994	55355	92	360	146728	421	10724	395	203325	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Peptostreptococcales
+o_Rhodobacterales	8613	188	3339	3281	833	3364	1466	584	2890	3664	228	258852	1736	2687	55025	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales
+o_Unclassified_c_Alphaproteobacteria	997	59	174	130	146	178	126	77	213	164	63	33888	372	130	230616	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Unclassified_c_Alphaproteobacteria
+o_Unclassified_c_Actinomycetia	10217	2206	568	233	1570	263	1217	1181	2223	5443	686	8149	2746	394	218008	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Unclassified_c_Actinomycetia
+o_Rhizobiales	687	68	1679	1662	430	1751	782	81	979	169	165	37997	459	1390	187727	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhizobiales
+o_Pseudomonadales	1173	109	2678	2790	751	3131	1661	449	2150	175	712	13749	1800	2280	197696	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales
+o_Caulobacterales	720	26	94	84	79	117	59	329	158	85	84	154649	663	89	29803	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales
+o_Campylobacterales	2545	88	1414	296	86486	342	1921	2206	168	60	1170	27708	75	28210	16675	d_Bacteria;p_Campylobacterota;c_Campylobacteria;o_Campylobacterales
+o_Fusobacteriales	44	20	381	45	660	17	164	88387	12	430	23330	3720	13275	2215	1380	d_Bacteria;p_Fusobacteriota;c_Fusobacteriia;o_Fusobacteriales
+o_Unclassified_p_Proteobacteria	716	70	3266	3173	906	3369	1832	192	1127	106	3883	23313	442	3079	85215	d_Bacteria;p_Proteobacteria;c_Unclassified_p_Proteobacteria;o_Unclassified_p_Proteobacteria
+o_Unclassified_c_Gammaproteobacteria	324	55	384	287	170	346	384	118	473	63	22348	23067	957	341	25451	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Unclassified_c_Gammaproteobacteria
+o_Flavobacteriales	311	45	760	676	189	852	370	527	177	18	352	62275	89	480	1219	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Flavobacteriales
+o_Unclassified_c_Clostridia	458	16	112	87	31	109	173	8488	64	62	17944	593	2770	117	17118	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Unclassified_c_Clostridia
+o_Sphingomonadales	1201	244	79	84	145	93	112	131	136	179	50	31664	55	69	4872	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Sphingomonadales
+o_Lachnospirales	462	568	2106	2328	913	2682	1389	840	1613	276	2170	129	295	2555	2973	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Lachnospirales
+o_Chitinophagales	1841	2653	1376	965	2157	968	1806	390	1495	1832	1419	336	202	1085	1104	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Chitinophagales
+o_Unclassified_p_Actinobacteriota	487	65	29	34	35	22	29	60	197	165	42	548	139	15	17009	d_Bacteria;p_Actinobacteriota;c_Unclassified_p_Actinobacteriota;o_Unclassified_p_Actinobacteriota
+o_Unclassified_c_Bacilli	60	6	180	64	84	77	77	840	115	912	1684	5199	1934	134	6677	d_Bacteria;p_Firmicutes;c_Bacilli;o_Unclassified_c_Bacilli
+o_Streptomycetales	1408	1754	793	469	1723	513	1305	169	927	1125	115	294	94	550	3343	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Streptomycetales
+o_Bacteroidales	199	95	1413	1510	449	1574	764	260	744	126	880	588	142	1374	1434	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales
+o_Tissierellales	71	22	100	67	84	107	89	369	85	43	943	492	429	70	6520	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Tissierellales
+o_UBA1444	67	1	1072	1378	457	1457	625	2	978	0	22	17	17	1123	54	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_UBA1444
+o_Unclassified_c_Bacteroidia	26	30	140	153	48	170	89	201	108	14	131	5344	46	121	577	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Unclassified_c_Bacteroidia
+o_Babeliales	0	0	17	14	10	42	9	0	0	0	5	11	1	14	6088	d_Bacteria;p_Dependentiae;c_Babeliae;o_Babeliales
+o_Paenibacillales	511	762	233	103	731	101	560	73	250	398	558	629	72	196	591	d_Bacteria;p_Firmicutes;c_Bacilli;o_Paenibacillales
+o_Chromatiales	42	5	742	675	210	927	404	1	436	24	13	7	8	707	428	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Chromatiales
+o_Oscillospirales	101	62	96	106	91	111	73	205	78	77	1576	259	171	91	1221	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Oscillospirales
+o_Aquificales	30	4	590	738	171	771	469	126	299	1	7	3	1	741	12	d_Bacteria;p_Aquificota;c_Aquificae;o_Aquificales
+o_PS1	54	74	493	475	160	461	260	6	330	31	8	6	0	363	191	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_PS1
+o_Erysipelotrichales	5	0	4	5	1	10	3	60	0	2	221	12	24	1	2192	d_Bacteria;p_Firmicutes;c_Bacilli;o_Erysipelotrichales
+o_RFN20	0	0	4	6	3	6	8	970	0	0	898	22	378	1	212	d_Bacteria;p_Firmicutes;c_Bacilli;o_RFN20
+o_Cyanobacteriales	76	25	325	414	83	391	216	10	208	16	3	189	7	323	113	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Cyanobacteriales
+o_Acetobacterales	8	6	8	33	25	47	28	1	14	21	1	484	1	63	1208	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Acetobacterales
+o_Unclassified_c_Campylobacteria	53	0	17	1	971	4	29	45	5	1	17	255	0	312	226	d_Bacteria;p_Campylobacterota;c_Campylobacteria;o_Unclassified_c_Campylobacteria
+o_Unclassified_p_Firmicutes A	16	0	0	0	0	0	6	279	0	3	617	3	59	0	928	d_Bacteria;p_Firmicutes A;c_Unclassified_p_Firmicutes A;o_Unclassified_p_Firmicutes A
+o_Bacillales A	4	0	36	42	12	59	19	8	18	4	538	6	24	46	1065	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales A
+o_Rhodospirillales	5	0	25	21	12	36	18	0	29	6	5	41	3	13	1567	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodospirillales
+o_SAR324	526	3	34	22	40	31	18	0	724	0	2	32	1	323	9	d_Bacteria;p_SAR324;c_SAR324;o_SAR324
+o_Christensenellales	3	6	15	9	2	13	4	12	1	8	1143	130	163	3	192	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Christensenellales
+o_Nanopelagicales	141	6	24	17	4	15	8	7	57	2	1	4	8	41	1347	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Nanopelagicales
+o_Pedosphaerales	28	21	244	213	74	266	147	0	211	18	4	151	5	245	12	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Pedosphaerales
+o_Coriobacteriales	14	3	2	2	3	0	2	18	2	2	524	31	3	0	986	d_Bacteria;p_Actinobacteriota;c_Coriobacteriia;o_Coriobacteriales
+o_Bacillales B	12	11	102	191	33	46	278	136	17	1	113	23	35	58	386	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales B
+o_Cytophagales	46	25	159	177	69	167	78	20	157	28	2	94	11	123	273	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Cytophagales
+o_Tistrellales	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1373	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Tistrellales
+o_Streptosporangiales	74	31	13	22	22	25	22	7	30	22	2	37	11	22	863	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Streptosporangiales
+o_Gaiellales	7	0	0	0	0	1	0	8	0	0	0	42	2	6	1121	d_Bacteria;p_Actinobacteriota;c_Thermoleophilia;o_Gaiellales
+o_Myxococcales	11	25	105	77	37	64	38	3	63	56	45	575	0	61	10	d_Bacteria;p_Myxococcota;c_Myxococcia;o_Myxococcales
+o_Bacillales D	4	0	33	33	11	24	15	2	5	15	35	11	4	35	812	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales D
+o_Methylococcales	5	4	105	165	34	127	74	4	109	2	6	76	4	77	238	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Methylococcales
+o_Unclassified_p_Myxococcota	20	20	183	152	41	202	108	2	98	27	1	1	3	152	2	d_Bacteria;p_Myxococcota;c_Unclassified_p_Myxococcota;o_Unclassified_p_Myxococcota
+o_Acidimicrobiales	24	13	46	25	19	45	28	5	73	24	0	31	1	40	593	d_Bacteria;p_Actinobacteriota;c_Acidimicrobiia;o_Acidimicrobiales
+o_Saccharimonadales	436	6	8	15	2	3	22	72	87	29	24	1	3	14	181	d_Bacteria;p_Patescibacteria;c_Saccharimonadia;o_Saccharimonadales
+o_UBA796	23	16	141	168	40	191	73	1	64	19	6	0	1	152	1	d_Bacteria;p_Myxococcota A;c_UBA796;o_UBA796
+o_Staphylococcales	27	13	31	16	13	42	11	0	44	12	10	1	16	24	581	d_Bacteria;p_Firmicutes;c_Bacilli;o_Staphylococcales
+o_Fibrobacterales	5	0	168	140	35	147	74	0	101	0	3	0	0	134	1	d_Bacteria;p_Fibrobacterota;c_Fibrobacteria;o_Fibrobacterales
+o_Bacillales H	0	1	49	14	13	35	34	9	13	39	280	182	31	32	70	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales H
+o_CR04bin15	0	0	0	0	0	0	0	2	0	0	703	26	63	0	3	d_Bacteria;p_KSB1;c_UBA2214;o_CR04bin15
+o_Bacteriovoracales	18	36	142	124	51	125	64	2	69	20	0	1	3	131	0	d_Bacteria;p_Bdellovibrionota;c_Bacteriovoracia;o_Bacteriovoracales
+o_Bacillales	14	3	3	0	13	1	7	49	38	6	42	2	5	1	511	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales
+o_Unclassified_p_Bacteroidota	2	2	26	17	8	22	16	2	13	0	0	419	0	35	118	d_Bacteria;p_Bacteroidota;c_Unclassified_p_Bacteroidota;o_Unclassified_p_Bacteroidota
+o_Opitutales	11	34	59	56	45	46	26	57	50	19	8	142	7	44	72	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Opitutales
+o_Exiguobacterales	0	0	0	0	1	0	0	8	0	0	610	5	2	0	43	d_Bacteria;p_Firmicutes;c_Bacilli;o_Exiguobacterales
+o_D8A-2	0	0	0	0	0	0	0	1	0	0	0	0	3	0	654	d_Bacteria;p_Firmicutes E;c_DTU015;o_D8A-2
+o_Polyangiales	22	8	97	88	32	101	76	0	48	29	1	0	2	93	34	d_Bacteria;p_Myxococcota;c_Polyangia;o_Polyangiales
+o_JACIZP01	2	0	135	114	31	114	90	0	50	0	0	0	0	77	0	d_Bacteria;p_KSB1;c_UBA2214;o_JACIZP01
+o_Ktedonobacterales	13	0	42	12	32	15	16	0	1	0	0	9	0	22	446	d_Bacteria;p_Chloroflexota;c_Ktedonobacteria;o_Ktedonobacterales
+o_Deinococcales	147	1	9	4	11	0	0	20	10	9	1	54	5	6	249	d_Bacteria;p_Deinococcota;c_Deinococci;o_Deinococcales
+o_JACQBZ01	1	0	108	101	16	80	51	0	77	0	0	0	1	58	6	d_Bacteria;p_Nitrospirota;c_Nitrospiria;o_JACQBZ01
+o_Haloplasmatales A	19	43	19	34	5	32	17	18	17	33	73	0	1	22	157	d_Bacteria;p_Firmicutes;c_Bacilli;o_Haloplasmatales A
+o_Vicinamibacterales	9	2	5	11	6	15	19	2	5	1	0	2	0	6	395	d_Bacteria;p_Acidobacteriota;c_Vicinamibacteria;o_Vicinamibacterales
+o_Leptolyngbyales	5	0	93	80	30	78	55	2	34	5	1	1	3	73	5	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Leptolyngbyales
+o_Anaerolineales	18	7	81	77	11	72	50	3	42	1	3	1	0	87	1	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Anaerolineales
+o_Jiangellales	59	0	1	0	0	0	0	10	0	0	1	10	0	0	373	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Jiangellales
+o_Magnetococcales	7	5	37	100	28	87	65	1	25	0	0	16	2	71	0	d_Bacteria;p_Proteobacteria;c_Magnetococcia;o_Magnetococcales
+o_Sphingobacteriales	12	3	39	35	21	37	25	1	29	1	5	159	0	56	18	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Sphingobacteriales
+o_Nitrosococcales	3	0	14	21	1	36	7	1	67	0	0	36	12	18	219	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nitrosococcales
+o_Bryobacterales	31	72	41	14	27	15	49	5	20	30	2	11	0	28	86	d_Bacteria;p_Acidobacteriota;c_Acidobacteriae;o_Bryobacterales
+o_Chlamydiales	8	5	71	31	37	61	49	0	78	19	5	11	1	40	6	d_Bacteria;p_Chlamydiota;c_Chlamydiia;o_Chlamydiales
+o_Reyranellales	6	0	0	0	0	0	1	0	3	3	0	40	1	0	365	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Reyranellales
+o_Chloroflexales	18	17	10	8	9	26	11	1	2	8	0	7	2	7	287	d_Bacteria;p_Chloroflexota;c_Chloroflexia;o_Chloroflexales
+o_Desulfobacterales	18	22	33	18	24	41	15	9	13	6	1	32	4	21	147	d_Bacteria;p_Desulfobacterota;c_Desulfobacteria;o_Desulfobacterales
+o_Azospirillales	4	2	19	33	10	31	16	1	36	18	2	195	2	17	9	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Azospirillales
+o_Treponematales	7	2	17	48	16	30	17	42	27	3	1	6	6	38	129	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales
+o_Gemmatimonadales	38	31	43	40	5	29	27	0	20	24	0	16	0	30	70	d_Bacteria;p_Gemmatimonadota;c_Gemmatimonadetes;o_Gemmatimonadales
+o_Bacillales G	8	14	32	50	15	52	19	0	52	18	0	0	0	34	74	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales G
+o_Dormibacterales	0	0	0	0	2	0	0	0	0	0	0	8	0	0	346	d_Bacteria;p_Dormibacterota;c_Dormibacteria;o_Dormibacterales
+o_Verrucomicrobiales	6	4	22	57	17	63	39	0	39	9	4	38	0	41	13	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Verrucomicrobiales
+o_Euzebyales	14	2	4	2	6	0	5	1	1	3	2	5	5	4	297	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Euzebyales
+o_TANB77	0	0	5	0	2	0	0	87	0	0	25	1	7	1	201	d_Bacteria;p_Firmicutes A;c_Clostridia;o_TANB77
+o_Sulfobacillales	7	0	78	50	7	61	21	0	65	0	0	0	0	39	1	d_Bacteria;p_Firmicutes E;c_Sulfobacillia;o_Sulfobacillales
+o_Unclassified_c_Cyanobacteriia	12	17	32	44	14	54	34	0	70	11	1	1	3	22	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Unclassified_c_Cyanobacteriia
+o_Desulfovibrionales	1	2	12	7	7	17	13	122	16	3	15	38	13	14	35	d_Bacteria;p_Desulfobacterota I;c_Desulfovibrionia;o_Desulfovibrionales
+o_RF39	0	0	12	9	2	12	8	33	6	0	87	5	11	10	118	d_Bacteria;p_Firmicutes;c_Bacilli;o_RF39
+o_Ignavibacteriales	0	0	55	44	19	75	20	0	38	3	0	0	0	52	0	d_Bacteria;p_Bacteroidota;c_Ignavibacteria;o_Ignavibacteriales
+o_Aggregatilineales	2	0	54	25	16	45	20	0	31	2	0	7	3	39	60	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Aggregatilineales
+o_Synergistales	3	1	24	36	16	56	30	12	9	1	32	2	1	37	33	d_Bacteria;p_Synergistota;c_Synergistia;o_Synergistales
+o_Beggiatoales	2	1	8	9	14	25	13	0	5	0	0	204	0	11	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Beggiatoales
+o_Selenomonadales	0	0	1	8	2	0	0	3	12	0	6	252	3	4	0	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Selenomonadales
+o_UBA2200	1	0	1	2	0	0	3	0	1	0	0	282	0	0	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_UBA2200
+o_Nevskiales	1	3	22	5	0	7	11	0	3	1	0	85	0	2	143	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Nevskiales
+o_Cardiobacteriales	0	2	5	0	1	0	16	15	15	1	116	55	10	4	41	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Cardiobacteriales
+o_Geobacterales	4	3	7	7	7	10	8	0	2	2	0	3	0	17	206	d_Bacteria;p_Desulfobacterota;c_Desulfuromonadia;o_Geobacterales
+o_Kapabacteriales	0	1	31	43	9	47	22	0	16	0	4	2	7	50	34	d_Bacteria;p_Bacteroidota;c_Kapabacteria;o_Kapabacteriales
+o_Unclassified_c_Polyangia	26	29	26	41	12	32	36	0	30	9	1	0	0	16	1	d_Bacteria;p_Myxococcota;c_Polyangia;o_Unclassified_c_Polyangia
+o_CACIAM-22H2	0	0	0	0	0	0	0	0	0	0	0	122	0	0	136	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_CACIAM-22H2
+o_Saccharofermentanales	1	1	0	11	2	2	3	1	4	1	1	2	7	5	211	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Saccharofermentanales
+o_UBA1018	7	1	10	22	9	8	12	0	2	2	0	127	0	10	38	d_Bacteria;p_Bdellovibrionota;c_Bdellovibrionia A;o_UBA1018
+o_Rickettsiales	15	34	18	2	22	3	47	13	22	19	21	1	2	6	21	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rickettsiales
+o_PHBI01	2	1	40	26	13	38	19	0	18	3	2	0	0	81	1	d_Bacteria;p_Myxococcota;c_UBA9042;o_PHBI01
+o_Nannocystales	3	4	54	27	8	57	25	0	18	12	2	0	0	31	1	d_Bacteria;p_Myxococcota;c_Polyangia;o_Nannocystales
+o_Acidobacteriales	33	15	5	20	20	20	16	24	9	23	4	1	2	29	17	d_Bacteria;p_Acidobacteriota;c_Acidobacteriae;o_Acidobacteriales
+o_Thermotogales	0	0	0	0	0	0	0	0	0	0	202	22	0	0	0	d_Bacteria;p_Thermotogota;c_Thermotogae;o_Thermotogales
+o_Promineofilales	6	7	20	31	15	12	4	0	5	4	2	0	7	13	95	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Promineofilales
+o_Pelagibacterales	0	0	21	23	65	29	21	1	14	0	1	12	1	22	4	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Pelagibacterales
+o_Holophagales	11	16	13	23	13	40	9	7	21	20	1	11	1	25	3	d_Bacteria;p_Acidobacteriota;c_Holophagae;o_Holophagales
+o_Ferrovibrionales	0	0	0	0	0	0	1	0	0	0	0	0	0	1	206	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Ferrovibrionales
+o_RF32	9	5	27	16	5	31	7	0	47	5	20	3	0	32	1	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_RF32
+o_Brachyspirales	69	0	12	0	51	11	3	1	0	0	1	23	2	4	26	d_Bacteria;p_Spirochaetota;c_Brachyspirae;o_Brachyspirales
+o_Paceibacterales	0	0	51	46	6	36	20	1	5	0	1	1	0	30	3	d_Bacteria;p_Patescibacteria;c_Paceibacteria;o_Paceibacterales
+o_Chitinivibrionales	1	0	48	18	7	30	24	0	16	0	3	1	1	36	9	d_Bacteria;p_Fibrobacterota;c_Chitinivibrionia;o_Chitinivibrionales
+o_UBA5070	2	0	27	43	10	42	19	0	21	0	0	1	0	27	0	d_Bacteria;p_Fibrobacterota;c_Fibrobacteria;o_UBA5070
+o_Rubrobacterales	1	0	5	7	4	1	1	0	2	0	0	3	0	11	156	d_Bacteria;p_Actinobacteriota;c_Rubrobacteria;o_Rubrobacterales
+o_Competibacterales	2	0	17	9	2	17	10	0	3	0	0	70	1	12	47	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Competibacterales
+o_Mycoplasmatales	0	0	1	0	7	0	2	31	0	4	56	50	13	0	16	d_Bacteria;p_Firmicutes;c_Bacilli;o_Mycoplasmatales
+o_Solirubrobacterales	1	3	0	0	0	2	0	0	4	0	0	98	0	11	56	d_Bacteria;p_Actinobacteriota;c_Thermoleophilia;o_Solirubrobacterales
+o_UBA9983 A	0	0	0	16	3	3	0	0	2	0	0	0	0	13	138	d_Bacteria;p_Patescibacteria;c_Paceibacteria;o_UBA9983 A
+o_MWEM01	0	0	0	0	0	0	0	0	0	0	158	3	0	0	0	d_Bacteria;p_Thermotogota;c_Thermotogae;o_MWEM01
+o_Longimicrobiales	3	0	32	0	1	26	11	0	13	0	0	17	0	9	48	d_Bacteria;p_Gemmatimonadota;c_Gemmatimonadetes;o_Longimicrobiales
+o_Ch115	0	0	0	0	0	0	0	0	0	0	5	151	0	0	0	d_Bacteria;p_Firmicutes G;c_SHA-98;o_Ch115
+o_Caldilineales	8	9	8	22	7	39	12	0	15	12	0	0	0	23	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Caldilineales
+o_Desulfitobacteriales	0	0	1	1	3	2	0	7	0	0	117	0	4	1	17	d_Bacteria;p_Firmicutes B;c_Desulfitobacteriia;o_Desulfitobacteriales
+o_Coxiellales	0	0	30	41	9	27	14	0	5	0	0	0	0	25	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Coxiellales
+o_UBA9042	6	15	21	22	17	30	8	3	5	4	0	0	0	17	1	d_Bacteria;p_Myxococcota;c_UBA9042;o_UBA9042
+o_Nitrospinales	1	0	28	21	6	13	13	3	30	3	0	0	0	30	1	d_Bacteria;p_Nitrospinota;c_Nitrospinia;o_Nitrospinales
+o_Thalassobaculales	0	0	23	8	7	10	6	27	4	0	0	8	0	11	44	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Thalassobaculales
+o_UBA1400	4	11	17	22	5	20	17	0	5	9	0	0	0	35	0	d_Bacteria;p_Patescibacteria;c_Microgenomatia;o_UBA1400
+o_Unclassified_p_Chloroflexota	6	2	40	11	4	24	15	0	8	0	0	0	1	31	0	d_Bacteria;p_Chloroflexota;c_Unclassified_p_Chloroflexota;o_Unclassified_p_Chloroflexota
+o_UBA994	1	0	22	18	4	23	12	2	50	0	1	0	1	5	1	d_Bacteria;p_Firmicutes H;c_UBA994;o_UBA994
+o_Humimicrobiales	2	6	18	8	1	17	25	21	21	4	0	0	2	12	1	d_Bacteria;p_Actinobacteriota;c_Humimicrobiia;o_Humimicrobiales
+o_XYA12-FULL-58-9	10	11	8	31	22	11	7	0	9	12	0	2	0	12	0	d_Bacteria;p_Myxococcota;c_XYA12-FULL-58-9;o_XYA12-FULL-58-9
+o_ATCC43930	0	0	0	0	0	0	1	0	0	1	0	122	0	0	4	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_ATCC43930
+o_Chthoniobacterales	1	0	15	7	1	8	11	0	2	0	0	0	0	27	56	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Chthoniobacterales
+o_Unclassified_c_Dehalococcoidia	0	0	15	20	2	32	9	0	14	0	2	0	0	33	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_Unclassified_c_Dehalococcoidia
+o_Thermomicrobiales	0	0	0	4	0	1	0	0	0	0	0	1	0	0	121	d_Bacteria;p_Chloroflexota;c_Chloroflexia;o_Thermomicrobiales
+o_UBA1565	0	0	0	0	0	0	0	0	0	0	0	0	0	0	125	d_Bacteria;p_Elusimicrobiota;c_Elusimicrobia;o_UBA1565
+o_Sphaerochaetales	0	6	0	0	4	0	0	0	0	0	0	0	0	3	110	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Sphaerochaetales
+o_Arenicellales	1	0	6	27	3	13	8	0	14	7	0	0	0	8	35	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Arenicellales
+o_Leptospirales	0	0	19	30	4	15	13	0	14	0	0	0	0	26	0	d_Bacteria;p_Spirochaetota;c_Leptospirae;o_Leptospirales
+o_UBA9160	9	5	9	0	1	19	2	0	66	0	0	2	0	7	0	d_Bacteria;p_Myxococcota A;c_UBA9160;o_UBA9160
+o_UBA1407	1	2	15	27	4	14	24	9	2	0	0	0	1	17	0	d_Bacteria;p_Verrucomicrobiota;c_Lentisphaeria;o_UBA1407
+o_Legionellales	1	0	8	6	21	11	3	0	7	0	0	0	0	10	48	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Legionellales
+o_Eubacteriales	0	0	11	0	3	7	3	0	1	0	0	0	2	3	85	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Eubacteriales
+o_Micropepsales	2	0	5	13	1	4	2	0	0	0	0	36	0	2	50	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Micropepsales
+o_Elusimicrobiales	0	0	16	31	3	16	13	0	12	0	0	0	0	22	0	d_Bacteria;p_Elusimicrobiota;c_Elusimicrobia;o_Elusimicrobiales
+o_Haliangiales	4	4	17	8	25	20	20	0	3	2	1	0	0	7	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_Haliangiales
+o_AKYH767	1	0	15	4	11	10	10	0	22	0	0	12	0	26	0	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_AKYH767
+o_Palsa-1104 A	0	0	22	13	9	22	9	0	12	9	0	0	0	14	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_Palsa-1104 A
+o_UBA5794	0	0	0	0	0	0	0	0	0	0	0	1	0	0	107	d_Bacteria;p_Actinobacteriota;c_Acidimicrobiia;o_UBA5794
+o_Phormidesmiales	5	4	11	11	10	20	13	0	6	0	0	0	0	28	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Phormidesmiales
+o_Limnocylindrales	2	0	2	5	2	5	14	0	4	5	0	4	1	11	51	d_Bacteria;p_Chloroflexota;c_Limnocylindria;o_Limnocylindrales
+o_UBA6615	0	0	0	0	0	0	0	0	0	0	0	4	4	0	98	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_UBA6615
+o_UBA2565	0	0	33	17	1	19	5	0	12	0	0	0	0	19	0	d_Bacteria;p_Verrucomicrobiota;c_Lentisphaeria;o_UBA2565
+o_AKYH767-A	0	0	2	8	1	2	1	0	4	0	0	75	0	2	11	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_AKYH767-A
+o_Bacillales C	1	2	2	0	10	0	7	5	0	0	73	0	2	1	3	d_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales C
+o_Desulfuromonadales	0	2	18	15	11	14	16	1	7	1	0	0	0	20	0	d_Bacteria;p_Desulfobacterota;c_Desulfuromonadia;o_Desulfuromonadales
+o_Acetivibrionales	0	1	0	0	4	0	0	4	0	3	1	0	5	0	86	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Acetivibrionales
+o_Chlorobiales	1	0	13	9	3	0	0	25	0	0	1	10	3	9	29	d_Bacteria;p_Bacteroidota;c_Chlorobia;o_Chlorobiales
+o_Parvibaculales	7	0	18	12	4	17	8	0	18	0	1	0	0	18	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Parvibaculales
+o_RZYC01	0	3	14	22	1	20	7	0	7	7	0	0	0	22	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_RZYC01
+o_Desulfobulbales	10	5	6	4	5	3	6	0	22	7	0	9	0	12	13	d_Bacteria;p_Desulfobacterota;c_Desulfobulbia;o_Desulfobulbales
+o_Halobacteroidales	2	0	0	0	0	10	0	14	0	0	73	2	0	0	0	d_Bacteria;p_Firmicutes F;c_Halanaerobiia;o_Halobacteroidales
+o_Steroidobacterales	0	0	24	13	0	15	0	0	2	0	0	30	0	0	10	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Steroidobacterales
+o_DSWW01	5	12	1	1	2	0	3	1	4	19	0	41	0	0	3	d_Bacteria;p_Desulfobacterota;c_DSWW01;o_DSWW01
+o_Ectothiorhodospirales	0	0	13	13	2	20	14	0	3	0	0	0	0	23	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Ectothiorhodospirales
+o_Dehalococcoidales	6	5	10	16	2	13	4	2	2	0	0	18	0	9	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_Dehalococcoidales
+o_Brevibacillales	9	0	0	1	1	0	2	0	39	2	5	0	0	2	25	d_Bacteria;p_Firmicutes;c_Bacilli;o_Brevibacillales
+o_DTJE01	2	0	1	0	10	1	8	1	0	2	0	57	0	0	3	d_Bacteria;p_Myxococcota;c_UBA9042;o_DTJE01
+o_Desulfuribacillales	0	0	0	0	0	0	1	76	0	0	2	2	3	1	0	d_Bacteria;p_Firmicutes;c_Bacilli;o_Desulfuribacillales
+o_UBA1177	0	0	19	12	3	10	17	0	11	0	0	0	0	6	0	d_Bacteria;p_UBP6;c_UBA1177;o_UBA1177
+o_Propionisporales	1	0	1	0	0	0	0	39	0	1	25	1	3	0	7	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Propionisporales
+o_SCGC-AAA003-L08	6	8	16	12	11	1	10	1	0	7	0	5	0	1	0	d_Bacteria;p_Marinisomatota;c_Marinisomatia;o_SCGC-AAA003-L08
+o_Desulfarculales	2	0	9	20	3	10	13	0	4	0	0	0	0	16	0	d_Bacteria;p_Desulfobacterota;c_Desulfarculia;o_Desulfarculales
+o_Thermodesulfovibrionales	0	21	0	0	2	0	2	21	0	5	25	0	0	0	0	d_Bacteria;p_Nitrospirota;c_Thermodesulfovibrionia;o_Thermodesulfovibrionales
+o_Unclassified_c_Verrucomicrobiae	1	0	12	11	1	24	8	0	15	0	0	1	0	3	0	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Unclassified_c_Verrucomicrobiae
+o_Balneolales	3	7	8	8	5	0	3	1	2	0	0	25	1	13	0	d_Bacteria;p_Bacteroidota;c_Rhodothermia;o_Balneolales
+o_Thermosynechococcales	0	0	15	10	9	20	6	0	1	0	0	0	0	15	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Thermosynechococcales
+o_PIVX01	0	0	27	14	2	5	8	0	7	0	0	2	0	11	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_PIVX01
+o_CF-121	1	0	16	3	4	26	6	0	11	0	0	0	0	8	0	d_Bacteria;p_Dormibacterota;c_Dormibacteria;o_CF-121
+o_Micavibrionales	2	1	5	13	2	16	7	0	15	0	0	0	0	11	2	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Micavibrionales
+o_D2-FULL-39-29	0	0	7	9	1	30	6	0	5	0	0	0	0	13	0	d_Bacteria;p_Firestonebacteria;c_D2-FULL-39-29;o_D2-FULL-39-29
+o_Bradymonadales	0	3	12	5	4	12	15	0	2	7	0	0	0	10	0	d_Bacteria;p_Myxococcota;c_Bradymonadia;o_Bradymonadales
+o_Fimbriimonadales	0	0	17	0	1	17	3	0	27	0	0	0	0	5	0	d_Bacteria;p_Armatimonadota;c_Fimbriimonadia;o_Fimbriimonadales
+o_BM507	4	0	6	1	4	35	3	0	6	4	0	0	0	6	1	d_Bacteria;p_Patescibacteria;c_ABY1;o_BM507
+o_Unclassified_p_Firmicutes B	0	0	0	0	0	0	0	35	0	0	20	4	7	1	2	d_Bacteria;p_Firmicutes B;c_Unclassified_p_Firmicutes B;o_Unclassified_p_Firmicutes B
+o_Magasanikbacterales	11	18	0	0	1	0	0	0	6	7	0	0	0	0	26	d_Bacteria;p_Patescibacteria;c_ABY1;o_Magasanikbacterales
+o_2-01-FULL-39-33	0	0	14	20	2	15	3	0	10	0	0	0	0	5	0	d_Bacteria;p_Patescibacteria;c_ABY1;o_2-01-FULL-39-33
+o_Obscuribacterales	0	0	3	7	2	23	18	0	5	0	0	0	0	10	0	d_Bacteria;p_Cyanobacteria;c_Vampirovibrionia;o_Obscuribacterales
+o_CADDZG01	0	0	7	11	0	24	4	0	1	0	0	0	0	10	11	d_Bacteria;p_Actinobacteriota;c_UBA4738;o_CADDZG01
+o_Dongiales	0	0	0	0	0	0	0	0	0	0	0	68	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Dongiales
+o_Pyrinomonadales	1	7	10	2	6	4	9	0	4	0	5	5	0	10	4	d_Bacteria;p_Acidobacteriota;c_Blastocatellia;o_Pyrinomonadales
+o_PCC-6307	27	0	4	6	2	4	5	0	3	4	0	1	0	2	8	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_PCC-6307
+o_Gastranaerophilales	0	1	8	3	4	21	13	5	1	3	0	0	0	7	0	d_Bacteria;p_Cyanobacteria;c_Vampirovibrionia;o_Gastranaerophilales
+o_SJA-28	0	0	8	16	3	8	3	0	6	0	0	0	0	22	0	d_Bacteria;p_Bacteroidota;c_Ignavibacteria;o_SJA-28
+o_HGW-17	1	0	3	6	0	26	10	0	1	0	0	0	0	19	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_HGW-17
+o_Bdellovibrionales	1	0	11	4	8	5	3	0	8	1	0	1	0	23	0	d_Bacteria;p_Bdellovibrionota;c_Bdellovibrionia;o_Bdellovibrionales
+o_Fermentibacterales	1	0	3	9	1	23	2	0	12	0	0	0	0	14	0	d_Bacteria;p_Fermentibacterota;c_Fermentibacteria;o_Fermentibacterales
+o_Unclassified_c_Anaerolineae	2	0	6	10	1	11	3	0	13	0	0	0	2	16	1	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Unclassified_c_Anaerolineae
+o_JACCYU01	0	2	17	13	3	25	3	0	1	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_JACCYU01
+o_Unclassified_p_Nitrospinota	0	0	14	10	1	18	6	0	6	0	0	0	0	9	0	d_Bacteria;p_Nitrospinota;c_Unclassified_p_Nitrospinota;o_Unclassified_p_Nitrospinota
+o_RFP12	0	0	2	0	0	19	15	0	1	0	0	21	0	1	4	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_RFP12
+o_Gloeobacterales	0	0	10	17	0	4	1	0	3	0	0	14	0	14	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Gloeobacterales
+o_UBA2400	0	0	1	36	0	2	0	0	23	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_UBA2400
+o_UBA7694	0	0	14	6	2	9	10	0	0	0	2	0	0	18	0	d_Bacteria;p_Cyanobacteria;c_Sericytochromatia;o_UBA7694
+o_Bin18	2	0	3	15	2	23	4	0	4	0	0	0	1	7	0	d_Bacteria;p_Desulfobacterota B;c_Binatia;o_Bin18
+o_UBA11654	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_UBA11654
+o_Thermoanaerobaculales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	60	d_Bacteria;p_Acidobacteriota;c_Thermoanaerobaculia;o_Thermoanaerobaculales
+o_Nitriliruptorales	0	0	2	4	0	5	3	0	1	0	0	0	0	0	44	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Nitriliruptorales
+o_Geminicoccales	5	0	5	1	1	4	2	0	2	0	0	35	0	1	3	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Geminicoccales
+o_Unclassified_c_Negativicutes	0	0	0	0	0	0	2	1	0	0	40	13	1	1	0	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Unclassified_c_Negativicutes
+o_WVXJ01	3	10	0	0	3	1	3	0	3	34	0	0	0	0	0	d_Bacteria;p_Armatimonadota;c_CAIYQO01;o_WVXJ01
+o_JAAYKL01	0	0	18	1	4	8	5	0	6	0	0	0	0	15	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_JAAYKL01
+o_UBA1149	0	0	11	11	2	14	7	0	3	0	0	0	0	9	0	d_Bacteria;p_Desulfobacterota B;c_Binatia;o_UBA1149
+o_Nitrospirales	0	0	8	3	5	17	4	0	16	0	0	0	0	3	0	d_Bacteria;p_Nitrospirota;c_Nitrospiria;o_Nitrospirales
+o_GCA-2863065	0	0	6	7	0	0	0	0	0	0	0	0	0	1	42	d_Bacteria;p_Myxococcota;c_UBA9042;o_GCA-2863065
+o_PWTM01	0	0	10	13	2	10	1	0	10	0	0	0	0	10	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_PWTM01
+o_Immundisolibacterales	9	6	0	0	5	0	0	21	4	10	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Immundisolibacterales
+o_HRBIN30	0	0	12	23	2	4	2	0	0	0	0	0	0	7	5	d_Bacteria;p_Desulfobacterota B;c_Binatia;o_HRBIN30
+o_Caldicellulosiruptorales	0	0	0	0	0	0	0	0	0	0	44	7	0	0	4	d_Bacteria;p_Firmicutes A;c_Thermoanaerobacteria;o_Caldicellulosiruptorales
+o_Victivallales	0	0	0	9	2	9	5	5	1	0	16	5	0	3	0	d_Bacteria;p_Verrucomicrobiota;c_Lentisphaeria;o_Victivallales
+o_Unclassified_p_Verrucomicrobiota	15	3	16	7	0	0	0	0	2	2	0	0	0	9	0	d_Bacteria;p_Verrucomicrobiota;c_Unclassified_p_Verrucomicrobiota;o_Unclassified_p_Verrucomicrobiota
+o_UBA8231	0	0	13	3	0	10	16	0	2	0	0	0	0	9	0	d_Bacteria;p_Latescibacterota;c_UBA2968;o_UBA8231
+o_Eremiobacterales	0	0	0	5	0	0	0	0	0	0	0	1	0	0	47	d_Bacteria;p_Eremiobacterota;c_Eremiobacteria;o_Eremiobacterales
+o_Xenobiales	0	0	1	15	0	3	3	0	6	0	0	0	0	25	0	d_Bacteria;p_Eremiobacterota;c_Xenobia;o_Xenobiales
+o_Moranbacterales	0	0	5	0	2	8	1	12	0	0	25	0	0	0	0	d_Bacteria;p_Patescibacteria;c_Paceibacteria;o_Moranbacterales
+o_CSP1-3	0	0	0	0	0	0	0	0	0	0	0	2	0	7	43	d_Bacteria;p_CSP1-3;c_CSP1-3;o_CSP1-3
+o_Acidothermales	0	0	0	0	0	0	0	0	1	0	0	5	1	0	45	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Acidothermales
+o_Leptospirillales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	d_Bacteria;p_Nitrospirota A;c_Leptospirillia;o_Leptospirillales
+o_Syntrophomonadales	1	0	2	0	4	0	2	1	0	0	0	7	3	1	30	d_Bacteria;p_Firmicutes B;c_Syntrophomonadia;o_Syntrophomonadales
+o_Desulfotomaculales	0	1	6	19	0	1	2	3	3	14	0	0	0	2	0	d_Bacteria;p_Firmicutes B;c_Desulfotomaculia;o_Desulfotomaculales
+o_UBA8477	0	0	2	11	3	8	0	0	19	0	1	0	0	7	0	d_Bacteria;p_Marinisomatota;c_UBA8477;o_UBA8477
+o_SpSt-205	0	0	16	2	1	9	0	0	13	0	0	0	0	10	0	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_SpSt-205
+o_UBA3495	1	0	16	12	1	7	6	0	2	0	0	0	0	6	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_UBA3495
+o_UBA6077	0	0	0	0	0	0	0	0	0	0	0	0	1	0	49	d_Bacteria;p_Chloroflexota;c_UBA6077;o_UBA6077
+o_Dehalobacteriales	0	0	0	0	0	0	0	45	0	0	1	1	2	0	1	d_Bacteria;p_Firmicutes B;c_Dehalobacteriia;o_Dehalobacteriales
+o_Endomicrobiales	0	0	0	0	0	0	0	3	0	0	47	0	0	0	0	d_Bacteria;p_Elusimicrobiota;c_Endomicrobia;o_Endomicrobiales
+o_UBA6777	0	0	15	0	0	11	11	0	6	0	0	0	0	7	0	d_Bacteria;p_Myxococcota;c_UBA6777;o_UBA6777
+o_DTU080	2	0	13	6	4	8	2	0	10	0	0	0	0	2	0	d_Bacteria;p_Firmicutes G;c_Limnochordia;o_DTU080
+o_S15B-MN24	1	0	9	7	2	13	0	0	15	0	0	0	0	0	0	d_Bacteria;p_Cyanobacteria;c_Sericytochromatia;o_S15B-MN24
+o_Ozemobacterales	9	4	4	7	3	5	2	0	5	0	0	0	1	0	5	d_Bacteria;p_Riflebacteria;c_Ozemobacteria;o_Ozemobacterales
+o_P2-11E	6	7	4	0	5	1	9	0	8	3	0	0	0	2	0	d_Bacteria;p_Chloroflexota;c_Limnocylindria;o_P2-11E
+o_Oligoflexales	0	0	11	6	5	2	5	0	4	0	0	0	0	11	0	d_Bacteria;p_Bdellovibrionota;c_Oligoflexia;o_Oligoflexales
+o_JACPHY01	0	0	4	13	0	19	0	0	8	0	0	0	0	0	0	d_Bacteria;p_Patescibacteria;c_ABY1;o_JACPHY01
+o_Diplorickettsiales	0	0	8	13	4	4	4	0	1	0	0	0	0	10	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Diplorickettsiales
+o_Ardenticatenales	0	0	10	16	3	10	0	0	1	0	0	0	0	4	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Ardenticatenales
+o_Aneurinibacillales	0	0	0	0	0	0	0	40	0	0	0	3	0	0	0	d_Bacteria;p_Firmicutes;c_Bacilli;o_Aneurinibacillales
+o_UBA12015	0	8	0	0	0	1	0	0	19	15	0	0	0	0	0	d_Bacteria;p_Desulfobacterota B;c_Binatia;o_UBA12015
+o_UBA6098	0	0	8	14	0	12	3	0	3	0	0	0	0	3	0	d_Bacteria;p_UBP14;c_UBA6098;o_UBA6098
+o_GCA-2729495	4	0	8	0	0	0	1	2	1	0	0	27	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_GCA-2729495
+o_Unclassified_c_Acidobacteriae	0	0	1	6	0	0	1	0	0	0	0	33	0	0	2	d_Bacteria;p_Acidobacteriota;c_Acidobacteriae;o_Unclassified_c_Acidobacteriae
+o_Izemoplasmatales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	42	d_Bacteria;p_Firmicutes;c_Bacilli;o_Izemoplasmatales
+o_Moorellales	0	0	11	10	0	11	1	0	1	0	0	0	0	8	0	d_Bacteria;p_Firmicutes B;c_Moorellia;o_Moorellales
+o_SZUA-6	0	0	9	3	1	3	2	0	6	0	0	0	0	17	0	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_SZUA-6
+o_UBA6257	0	0	2	1	3	7	3	0	0	0	0	1	0	22	2	d_Bacteria;p_Patescibacteria;c_Paceibacteria;o_UBA6257
+o_Hydrogenedentiales	1	1	15	0	1	4	2	0	13	1	0	0	0	2	0	d_Bacteria;p_Hydrogenedentota;c_Hydrogenedentia;o_Hydrogenedentiales
+o_SAR202	0	0	13	2	3	10	7	2	2	0	0	0	0	1	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_SAR202
+o_Rhodothermales	0	0	7	0	7	15	3	0	0	0	0	0	1	7	0	d_Bacteria;p_Bacteroidota;c_Rhodothermia;o_Rhodothermales
+o_Marinisomatales	1	1	8	2	5	8	6	1	6	0	0	1	0	0	0	d_Bacteria;p_Marinisomatota;c_Marinisomatia;o_Marinisomatales
+o_UBA12405	1	6	0	0	8	0	3	0	13	2	0	2	0	1	3	d_Bacteria;p_Patescibacteria;c_Microgenomatia;o_UBA12405
+o_Ammonifexales	0	0	9	14	4	7	1	0	0	0	0	0	0	4	0	d_Bacteria;p_Firmicutes B;c_Desulfotomaculia;o_Ammonifexales
+o_Enterobacterales A	0	0	6	12	1	6	10	0	0	0	0	0	0	4	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales A
+o_Absconditabacterales	0	0	5	0	4	9	3	0	2	0	0	0	0	16	0	d_Bacteria;p_Patescibacteria;c_JAEDAM01;o_Absconditabacterales
+o_UBA8260	0	0	0	0	0	0	1	0	0	0	0	0	0	0	37	d_Bacteria;p_Dormibacterota;c_Dormibacteria;o_UBA8260
+o_UBA101185	5	0	0	0	0	0	0	0	3	5	0	0	0	0	25	d_Bacteria;p_Patescibacteria;c_WWE3;o_UBA101185
+o_Kiloniellales	0	0	10	10	0	10	7	0	0	0	0	0	0	1	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Kiloniellales
+o_Palsa-1104	0	0	0	1	4	6	11	0	5	0	0	0	0	11	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_Palsa-1104
+o_UBA2214	0	0	14	2	0	11	0	0	1	0	0	0	0	8	1	d_Bacteria;p_KSB1;c_UBA2214;o_UBA2214
+o_JAFGEY01	0	0	0	0	0	0	0	5	0	0	27	3	2	0	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_JAFGEY01
+o_J063	0	0	5	6	2	8	7	0	6	0	0	0	0	3	0	d_Bacteria;p_Tectomicrobia;c_Entotheonellia;o_J063
+o_Silvanigrellales	0	0	0	0	0	1	1	0	0	0	16	4	3	7	4	d_Bacteria;p_Bdellovibrionota;c_Oligoflexia;o_Silvanigrellales
+o_UBA4486	0	0	4	5	1	10	9	0	7	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_UBA4486
+o_J137	0	0	0	0	0	0	0	0	0	0	0	33	0	0	3	d_Bacteria;p_Patescibacteria;c_Dojkabacteria;o_J137
+o_SHVW01	0	0	1	10	0	9	4	0	10	0	0	0	0	2	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_SHVW01
+o_Acidithiobacillales	0	0	0	0	2	0	7	0	0	0	1	25	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Acidithiobacillales
+o_UBA3088	0	0	4	12	3	2	6	0	8	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_UBA3088
+o_JAEEML01	0	0	0	18	0	8	6	0	1	0	0	0	0	2	0	d_Bacteria;p_Myxococcota;c_XYA12-FULL-58-9;o_JAEEML01
+o_Methylomirabilales	0	0	1	6	2	5	4	0	6	0	0	0	0	10	1	d_Bacteria;p_Methylomirabilota;c_Methylomirabilia;o_Methylomirabilales
+o_Woeseiales	1	1	3	0	1	0	3	0	3	0	0	0	0	22	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Woeseiales
+o_UBA4473	0	0	23	0	0	5	6	0	0	0	0	0	0	0	0	d_Bacteria;p_Patescibacteria;c_Gracilibacteria;o_UBA4473
+o_Granulosicoccales	0	0	0	0	0	0	0	0	0	0	0	34	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Granulosicoccales
+o_Unclassified_c_Blastocatellia	0	0	3	11	0	15	1	0	0	0	0	0	0	4	0	d_Bacteria;p_Acidobacteriota;c_Blastocatellia;o_Unclassified_c_Blastocatellia
+o_SZUA-21	3	1	4	0	8	0	13	0	0	0	0	1	0	2	1	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_SZUA-21
+o_UBA4248	1	0	0	0	18	9	0	0	0	0	0	1	0	3	1	d_Bacteria;p_Myxococcota;c_Bradymonadia;o_UBA4248
+o_AABM5-25-91	0	0	8	4	3	9	3	0	0	0	0	0	0	6	0	d_Bacteria;p_KSB1;c_UBA2214;o_AABM5-25-91
+o_Rokubacteriales	0	0	1	0	0	0	1	0	3	7	0	0	0	0	20	d_Bacteria;p_Methylomirabilota;c_Methylomirabilia;o_Rokubacteriales
+o_UBA2241	0	0	0	0	0	0	0	0	3	0	0	0	0	0	28	d_Bacteria;p_Actinobacteriota;c_Thermoleophilia;o_UBA2241
+o_GN15	1	0	9	0	2	5	1	0	7	0	0	0	0	6	0	d_Bacteria;p_Zixibacteria;c_MSB-5A5;o_GN15
+o_Unclassified_c_Saccharimonadia	0	0	8	0	1	1	2	0	11	0	0	0	0	8	0	d_Bacteria;p_Patescibacteria;c_Saccharimonadia;o_Unclassified_c_Saccharimonadia
+o_UBA1381	0	0	0	3	1	16	6	0	0	0	1	0	0	0	3	d_Bacteria;p_Firmicutes A;c_Clostridia;o_UBA1381
+o_UBA9968	0	0	15	1	2	0	2	0	2	0	0	0	0	8	0	d_Bacteria;p_Desulfobacterota B;c_Binatia;o_UBA9968
+o_B48-G9	5	3	6	0	3	0	1	0	5	3	0	0	1	1	2	d_Bacteria;p_Ratteibacteria;c_UBA8468;o_B48-G9
+o_Thiohalomonadales	0	4	0	0	2	0	2	0	0	0	0	3	0	0	18	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Thiohalomonadales
+o_Alicyclobacillales	0	0	0	0	0	0	0	0	0	0	26	0	3	0	0	d_Bacteria;p_Firmicutes;c_Bacilli;o_Alicyclobacillales
+o_Thermoflexales	2	1	0	1	8	1	9	0	0	1	1	0	0	2	2	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Thermoflexales
+o_JACPTQ01	1	0	0	0	0	0	0	0	0	0	0	0	4	0	23	d_Bacteria;p_Myxococcota;c_JACPTQ01;o_JACPTQ01
+o_TMED127	0	1	6	1	0	7	2	0	11	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_TMED127
+o_UCB3	0	0	13	1	0	2	0	0	3	0	0	0	0	9	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_UCB3
+o_Entotheonellales	0	0	7	0	4	9	3	0	2	0	0	0	0	3	0	d_Bacteria;p_Tectomicrobia;c_Entotheonellia;o_Entotheonellales
+o_Unclassified_c_Gemmatimonadetes	1	2	2	0	1	1	13	0	0	0	1	4	0	1	1	d_Bacteria;p_Gemmatimonadota;c_Gemmatimonadetes;o_Unclassified_c_Gemmatimonadetes
+o_Methylacidiphilales	0	1	2	13	2	0	6	1	1	0	0	0	0	0	1	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Methylacidiphilales
+o_Monoglobales	0	0	0	9	0	1	0	0	0	0	0	0	0	0	17	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Monoglobales
+o_SZUA-336	0	18	1	0	0	0	0	0	0	8	0	0	0	0	0	d_Bacteria;p_Myxococcota A;c_UBA9160;o_SZUA-336
+o_Hydrogenothermales	1	0	7	4	8	5	0	0	0	0	0	0	0	2	0	d_Bacteria;p_Aquificota;c_Aquificae;o_Hydrogenothermales
+o_UBA6429	2	3	3	0	4	0	4	0	6	2	0	1	0	2	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_UBA6429
+o_UBA6099	0	0	2	8	0	13	2	0	2	0	0	0	0	0	0	d_Bacteria;p_UBP15;c_UBA6099;o_UBA6099
+o_Unclassified_c_Halanaerobiia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	d_Bacteria;p_Firmicutes F;c_Halanaerobiia;o_Unclassified_c_Halanaerobiia
+o_UBA5066	0	0	0	7	0	12	3	0	2	0	0	0	0	2	0	d_Bacteria;p_Acidobacteriota;c_Thermoanaerobaculia;o_UBA5066
+o_SS1-B-03-39	0	0	1	15	2	7	1	0	0	0	0	0	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_SS1-B-03-39
+o_JC444	1	2	5	1	9	1	3	0	0	2	0	0	0	2	0	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_JC444
+o_Kiritimatiellales	1	0	0	0	2	0	0	0	0	0	0	23	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_Kiritimatiellales
+o_JABWCM01	0	0	10	2	1	1	2	0	0	0	0	0	0	10	0	d_Bacteria;p_Myxococcota;c_UBA9042;o_JABWCM01
+o_UBA10030	3	1	3	0	5	0	7	1	0	0	0	0	3	2	1	d_Bacteria;p_Bacteroidota;c_UBA10030;o_UBA10030
+o_UBA1113	2	2	4	0	3	0	14	0	0	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_UBA1113
+o_LBFQ01	1	0	0	22	0	0	1	0	1	0	0	0	0	0	0	d_Bacteria;p_WOR-3;c_Hydrothermia;o_LBFQ01
+o_WFRC01	0	0	5	0	1	13	5	0	0	0	0	0	0	1	0	d_Bacteria;p_WOR-3;c_UBA3072;o_WFRC01
+o_Unclassified_p_Patescibacteria	5	0	0	0	0	0	0	0	12	0	0	0	0	0	7	d_Bacteria;p_Patescibacteria;c_Unclassified_p_Patescibacteria;o_Unclassified_p_Patescibacteria
+o_Unclassified_p_Acidobacteriota	1	0	0	0	0	2	0	0	21	0	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_Unclassified_p_Acidobacteriota;o_Unclassified_p_Acidobacteriota
+o_Unclassified_c_UBA9042	3	6	2	0	0	0	2	0	3	6	0	1	1	0	0	d_Bacteria;p_Myxococcota;c_UBA9042;o_Unclassified_c_UBA9042
+o_Limnochordales	0	0	17	0	2	0	5	0	0	0	0	0	0	0	0	d_Bacteria;p_Firmicutes G;c_Limnochordia;o_Limnochordales
+o_SG8-24	0	0	5	0	1	10	0	0	0	0	0	0	0	8	0	d_Bacteria;p_Patescibacteria;c_ABY1;o_SG8-24
+o_PGYV01	0	0	1	3	2	9	1	0	2	0	0	0	0	6	0	d_Bacteria;p_Goldbacteria;c_PGYV01;o_PGYV01
+o_Veillonellales	0	0	0	0	0	0	0	0	0	0	0	1	0	0	22	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Veillonellales
+o_DSM-22653	1	11	4	0	1	3	0	1	1	1	0	0	0	0	0	d_Bacteria;p_Firmicutes;c_Bacilli;o_DSM-22653
+o_JACPQY01	0	0	0	1	0	2	0	0	0	0	0	0	0	20	0	d_Bacteria;p_JACPQY01;c_JACPQY01;o_JACPQY01
+o_RBC074	4	2	2	1	2	0	2	1	2	6	0	0	0	1	0	d_Bacteria;p_Acidobacteriota;c_Blastocatellia;o_RBC074
+o_UBA10015	1	0	1	2	3	1	4	0	0	0	0	0	0	10	0	d_Bacteria;p_Omnitrophota;c_Koll11;o_UBA10015
+o_UBA1151	0	0	0	12	0	3	0	0	7	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_UBA1151
+o_Bin61	5	7	1	0	4	0	0	0	1	3	0	0	1	0	0	d_Bacteria;p_Acidobacteriota;c_Vicinamibacteria;o_Bin61
+o_Carboxydocellales	1	0	7	6	0	1	0	0	5	0	0	0	0	2	0	d_Bacteria;p_Firmicutes B;c_GCA-003054495;o_Carboxydocellales
+o_Nautiliales	0	0	13	0	2	1	2	0	0	0	0	3	0	0	1	d_Bacteria;p_Campylobacterota;c_Campylobacteria;o_Nautiliales
+o_LD1-PB3	0	0	2	2	2	10	4	0	2	0	0	0	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_LD1-PB3
+o_Petrotogales	0	0	0	0	0	0	0	0	0	0	0	1	2	0	18	d_Bacteria;p_Thermotogota;c_Thermotogae;o_Petrotogales
+o_UBA4068	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	d_Bacteria;p_Firmicutes B;c_Dehalobacteriia;o_UBA4068
+o_UBA5177	0	0	10	0	0	1	1	0	0	0	0	0	0	1	8	d_Bacteria;p_Chloroflexota;c_UBA5177;o_UBA5177
+o_GCA-2747355	0	0	0	18	1	1	0	0	0	0	0	0	0	1	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_GCA-2747355
+o_UBA7540	0	0	4	3	0	9	5	0	0	0	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_Acidobacteriae;o_UBA7540
+o_VBWC01	0	0	5	7	0	6	1	0	1	0	0	0	0	1	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_VBWC01
+o_CACIAM-69d	2	10	0	0	2	0	3	0	0	2	0	0	0	1	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_CACIAM-69d
+o_ML615J-28	0	0	2	3	6	4	0	2	1	0	0	0	0	2	0	d_Bacteria;p_Firmicutes;c_Bacilli;o_ML615J-28
+o_DTU022	3	1	1	0	1	0	3	0	0	2	0	0	0	9	0	d_Bacteria;p_Firmicutes D;c_Dethiobacteria;o_DTU022
+o_Puniceispirillales	0	0	0	0	0	2	6	0	0	0	0	9	0	0	3	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Puniceispirillales
+o_Elainellales	1	1	0	0	6	5	3	3	1	0	0	0	0	0	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_Elainellales
+o_Thiomicrospirales	0	0	0	4	0	0	4	0	0	0	6	0	0	2	3	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Thiomicrospirales
+o_MSB-5A5	1	0	0	0	7	1	0	0	2	7	0	0	0	1	0	d_Bacteria;p_Zixibacteria;c_MSB-5A5;o_MSB-5A5
+o_Acholeplasmatales	0	0	7	2	0	0	0	0	0	0	0	0	0	1	9	d_Bacteria;p_Firmicutes;c_Bacilli;o_Acholeplasmatales
+o_UTPRO1	2	0	12	2	1	2	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Desulfobacterota B;c_Binatia;o_UTPRO1
+o_UBA4664	0	0	0	0	13	0	0	0	0	0	0	3	0	1	2	d_Bacteria;p_Patescibacteria;c_Saccharimonadia;o_UBA4664
+o_NS11-12g	0	0	1	0	0	9	0	0	0	0	0	0	0	8	1	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_NS11-12g
+o_UBA12225	0	0	0	0	1	10	1	0	0	0	0	0	0	6	0	d_Bacteria;p_Chloroflexota;c_UBA2235;o_UBA12225
+o_Thermosediminibacterales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	d_Bacteria;p_Firmicutes A;c_Thermosediminibacteria;o_Thermosediminibacterales
+o_JACPZX01	4	2	0	0	0	0	2	0	1	9	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_Mor1;o_JACPZX01
+o_FACHB-261	1	1	2	3	1	1	5	0	1	2	0	0	0	1	0	d_Bacteria;p_Cyanobacteria;c_Cyanobacteriia;o_FACHB-261
+o_Portnoybacterales	2	1	1	0	6	0	2	0	0	0	0	1	0	4	1	d_Bacteria;p_Patescibacteria;c_Paceibacteria;o_Portnoybacterales
+o_4484-171	0	4	1	0	2	0	4	0	0	2	0	0	0	5	0	d_Bacteria;p_Omnitrophota;c_Koll11;o_4484-171
+o_UBA7879	1	0	0	0	1	7	5	0	3	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_UBA7879
+o_Deferribacterales	0	0	0	0	3	0	0	0	0	0	0	0	0	12	2	d_Bacteria;p_Deferribacterota;c_Deferribacteres;o_Deferribacterales
+o_Piscirickettsiales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Piscirickettsiales
+o_DRLW01	0	0	4	9	0	0	4	0	0	0	0	0	0	0	0	d_Bacteria;p_KSB1;c_UBA2214;o_DRLW01
+o_UBA2466	0	0	12	2	0	0	0	0	3	0	0	0	0	0	0	d_Bacteria;p_Bdellovibrionota;c_FAC87;o_UBA2466
+o_4484-113	0	0	0	9	0	0	0	0	8	0	0	0	0	0	0	d_Bacteria;p_4484-113;c_4484-113;o_4484-113
+o_RBG-13-44-9	0	0	3	0	1	4	0	0	0	0	0	0	0	9	0	d_Bacteria;p_Calditrichota;c_Calditrichia;o_RBG-13-44-9
+o_Unclassified_p_Fibrobacterota	0	1	5	1	4	0	2	2	0	0	2	0	0	0	0	d_Bacteria;p_Fibrobacterota;c_Unclassified_p_Fibrobacterota;o_Unclassified_p_Fibrobacterota
+o_Aminicenantales	0	0	0	7	0	0	1	0	1	0	6	0	0	0	1	d_Bacteria;p_Acidobacteriota;c_Aminicenantia;o_Aminicenantales
+o_Thermotomaculales	2	0	1	0	9	0	2	0	0	0	0	0	0	1	1	d_Bacteria;p_Acidobacteriota;c_Holophagae;o_Thermotomaculales
+o_JACQRZ01	0	0	1	1	0	1	6	0	1	0	0	0	0	6	0	d_Bacteria;p_Patescibacteria;c_ABY1;o_JACQRZ01
+o_JABIPA01	0	0	0	0	0	1	0	0	0	0	0	0	0	15	0	d_Bacteria;p_Margulisbacteria;c_Marinamargulisbacteria;o_JABIPA01
+o_SZUA-229	0	0	1	6	3	2	3	0	1	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_SZUA-229
+o_GWE2-31-10	0	3	1	0	5	0	5	0	0	0	1	0	0	1	0	d_Bacteria;p_Spirochaetota;c_GWE2-31-10;o_GWE2-31-10
+o_UBA4975	0	0	2	0	0	8	1	0	4	0	0	0	0	1	0	d_Bacteria;p_Firmicutes D;c_Proteinivoracia;o_UBA4975
+o_SURF-5	0	0	0	0	0	12	4	0	0	0	0	0	0	0	0	d_Bacteria;p_Abyssubacteria;c_SURF-5;o_SURF-5
+o_UBA727	0	0	0	2	0	4	2	0	0	0	0	0	0	8	0	d_Bacteria;p_Myxococcota;c_UBA727;o_UBA727
+o_UMGS1883	0	0	3	2	0	1	0	0	4	0	0	0	0	5	0	d_Bacteria;p_Firmicutes A;c_Clostridia;o_UMGS1883
+o_DRI-13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	d_Bacteria;p_Firmicutes B;c_Peptococcia;o_DRI-13
+o_Chrysiogenales	0	0	0	0	0	0	1	0	0	0	0	0	0	0	14	d_Bacteria;p_Chrysiogenota;c_Chrysiogenetes;o_Chrysiogenales
+o_Acidaminococcales	0	0	0	0	0	0	0	0	0	0	0	0	2	0	13	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Acidaminococcales
+o_DSM-16000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_DSM-16000
+o_B26-G9	0	0	11	2	0	0	2	0	0	0	0	0	0	0	0	d_Bacteria;p_Omnitrophota;c_Koll11;o_B26-G9
+o_2-02-FULL-39-32	0	0	0	3	0	7	0	0	0	0	2	0	0	3	0	d_Bacteria;p_Elusimicrobiota;c_Elusimicrobia;o_2-02-FULL-39-32
+o_B64-G9	0	0	0	0	0	7	4	0	1	0	0	0	0	3	0	d_Bacteria;p_Myxococcota;c_B64-G9;o_B64-G9
+o_Desulfatiglandales	0	0	0	1	1	2	2	0	0	0	0	0	0	8	0	d_Bacteria;p_Desulfobacterota;c_DSM-4660;o_Desulfatiglandales
+o_Syntrophales	0	0	1	0	0	0	1	0	0	0	0	0	0	5	7	d_Bacteria;p_Desulfobacterota;c_Syntrophia;o_Syntrophales
+o_MWCZ01	0	0	1	10	1	0	1	0	0	0	0	1	0	0	0	d_Bacteria;p_Latescibacterota;c_MWCZ01;o_MWCZ01
+o_UBA5377	6	1	1	0	0	0	2	0	2	1	0	0	0	0	0	d_Bacteria;p_Armatimonadota;c_UBA5377;o_UBA5377
+o_Unclassified_c_Kiritimatiellae	2	2	1	0	1	1	0	2	4	0	0	0	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_Unclassified_c_Kiritimatiellae
+o_JAAYUB01	0	0	1	3	1	6	1	0	1	0	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_UBA6911;o_JAAYUB01
+o_UBA828	1	0	2	0	5	1	3	0	0	0	1	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_UBA828
+o_Tumebacillales	0	0	0	0	0	12	1	0	0	0	0	0	0	0	0	d_Bacteria;p_Firmicutes;c_Bacilli;o_Tumebacillales
+o_SM23-28-2	1	2	0	0	1	6	1	0	0	0	0	0	0	1	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_SM23-28-2
+o_UBA1369	0	0	0	0	0	0	0	0	0	0	0	1	3	0	8	d_Bacteria;p_Patescibacteria;c_Gracilibacteria;o_UBA1369
+o_UBA8366	0	0	0	8	0	0	3	0	1	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_UBA8366
+o_Ch128b	0	0	0	0	0	0	1	4	0	0	3	2	0	1	1	d_Bacteria;p_Bacteroidota;c_Ignavibacteria;o_Ch128b
+o_Thermobaculales	0	0	3	0	1	2	0	0	6	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Chloroflexia;o_Thermobaculales
+o_IMCC26256	8	0	0	0	0	0	0	0	0	2	0	2	0	0	0	d_Bacteria;p_Actinobacteriota;c_Acidimicrobiia;o_IMCC26256
+o_Cloacimonadales	0	0	3	1	0	3	1	0	0	0	0	0	0	1	3	d_Bacteria;p_Cloacimonadota;c_Cloacimonadia;o_Cloacimonadales
+o_Spirochaetales A	0	0	0	1	0	1	0	0	0	0	0	0	0	10	0	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Spirochaetales A
+o_UBA4802	0	0	5	0	1	4	0	0	1	0	0	0	0	1	0	d_Bacteria;p_Spirochaetota;c_UBA4802;o_UBA4802
+o_GBS-1	2	3	1	0	0	0	2	0	2	1	0	1	0	0	0	d_Bacteria;p_Synergistota;c_GBS-1;o_GBS-1
+o_Unclassified_c_Elusimicrobia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	d_Bacteria;p_Elusimicrobiota;c_Elusimicrobia;o_Unclassified_c_Elusimicrobia
+o_Chthonomonadales	0	0	0	0	4	0	2	0	0	0	0	0	0	4	1	d_Bacteria;p_Armatimonadota;c_Chthonomonadetes;o_Chthonomonadales
+o_SBBL01	2	1	0	0	0	0	0	0	2	5	0	1	0	0	0	d_Bacteria;p_Nitrospirota;c_Nitrospiria;o_SBBL01
+o_SHVP01	3	3	1	0	0	0	1	1	1	1	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_SHVP01
+o_DTOW01	0	0	3	1	2	0	1	0	0	0	0	0	0	4	0	d_Bacteria;p_Spirochaetota;c_Brevinematia;o_DTOW01
+o_SZUA-365	0	0	0	10	0	0	0	0	1	0	0	0	0	0	0	d_Bacteria;p_Bacteroidota;c_SZUA-365;o_SZUA-365
+o_WYAZ01	0	0	0	0	5	0	2	1	0	0	0	1	0	1	1	d_Bacteria;p_Myxococcota;c_WYAZ01;o_WYAZ01
+o_Unclassified_c_Desulfobacteria	0	0	0	0	2	9	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Desulfobacterota;c_Desulfobacteria;o_Unclassified_c_Desulfobacteria
+o_21-64-14	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_21-64-14
+o_GWC2-55-46	0	0	3	0	0	0	0	0	1	0	0	1	0	6	0	d_Bacteria;p_Desulfobacterota;c_GWC2-55-46;o_GWC2-55-46
+o_RBG-16-71-46	0	0	0	0	2	0	0	0	0	8	0	0	0	0	1	d_Bacteria;p_Eisenbacteria;c_RBG-16-71-46;o_RBG-16-71-46
+o_JABDJQ01	1	0	1	0	0	0	1	0	0	8	0	0	0	0	0	d_Bacteria;p_JABDJQ01;c_JABDJQ01;o_JABDJQ01
+o_UBA7937	1	0	0	1	0	3	4	0	0	0	0	0	0	2	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_UBA7937
+o_Cryosericales	5	4	0	0	0	0	1	0	0	0	0	0	0	0	0	d_Bacteria;p_Caldisericota;c_Caldisericia;o_Cryosericales
+o_UBA1063	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_WOR-3;c_Hydrothermia;o_UBA1063
+o_JAFGXH01	0	0	0	8	0	0	1	0	1	0	0	0	0	0	0	d_Bacteria;p_UBP6;c_UBA1177;o_JAFGXH01
+o_Miltoncostaeales	0	0	0	6	2	0	0	0	1	0	0	0	0	1	0	d_Bacteria;p_Actinobacteriota;c_Thermoleophilia;o_Miltoncostaeales
+o_AABM5-125-24	0	0	0	0	8	0	0	0	0	1	0	0	0	1	0	d_Bacteria;p_AABM5-125-24;c_AABM5-125-24;o_AABM5-125-24
+o_GCA-2401425	0	0	0	0	0	0	1	0	0	0	0	0	0	9	0	d_Bacteria;p_Patescibacteria;c_Gracilibacteria;o_GCA-2401425
+o_UBA890	0	0	0	0	0	1	0	0	5	0	0	0	0	4	0	d_Bacteria;p_Acidobacteriota;c_UBA890;o_UBA890
+o_FW602-bin16	0	0	1	8	0	0	1	0	0	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_FW602-bin16
+o_NMUJ01	0	0	2	1	0	3	0	0	0	0	0	0	0	4	0	d_Bacteria;p_WOR-3;c_UBA3073;o_NMUJ01
+o_Ch29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	d_Bacteria;p_Firmicutes A;c_Ch29;o_Ch29
+o_UBA8248	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	d_Bacteria;p_UBA8248;c_UBA8248;o_UBA8248
+o_O2-12-FULL-43-9	0	0	0	1	1	0	0	0	6	0	0	0	0	1	0	d_Bacteria;p_Bdellovibrionota E;c_O2-12-FULL-43-9;o_O2-12-FULL-43-9
+o_DRWM01	0	0	1	0	0	8	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Myxococcota;c_Polyangia;o_DRWM01
+o_Gp7-AA8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	d_Bacteria;p_Acidobacteriota;c_Thermoanaerobaculia;o_Gp7-AA8
+o_XYD2-FULL-50-16	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_SAR324;c_SAR324;o_XYD2-FULL-50-16
+o_SpSt-956	0	0	0	0	4	1	3	0	0	0	1	0	0	0	0	d_Bacteria;p_Eremiobacterota;c_SpSt-956;o_SpSt-956
+o_LZORAL124-64-63	0	0	2	0	0	0	0	0	0	0	0	0	0	7	0	d_Bacteria;p_Krumholzibacteriota;c_Krumholzibacteria;o_LZORAL124-64-63
+o_Syntrophobacterales	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	d_Bacteria;p_Desulfobacterota;c_Syntrophobacteria;o_Syntrophobacterales
+o_JAAYEA01	5	0	0	0	0	1	0	2	0	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_JAAYEA01
+o_Thiotrichales	0	0	0	0	0	0	0	0	5	3	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Thiotrichales
+o_UBA995	1	3	0	0	1	0	2	0	1	0	0	0	0	0	0	d_Bacteria;p_Firmicutes E;c_DTU015;o_UBA995
+o_SMXS01	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_SMXS01
+o_UBA6624	0	0	0	5	1	0	1	0	0	0	0	0	0	1	0	d_Bacteria;p_UBP7;c_UBA6624;o_UBA6624
+o_Thermacetogeniales	0	0	0	1	0	0	3	0	0	0	0	0	0	4	0	d_Bacteria;p_Firmicutes B;c_Moorellia;o_Thermacetogeniales
+o_UBA1144	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Desulfobacterota D;c_UBA1144;o_UBA1144
+o_JADFXK01	0	0	1	4	0	2	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Desulfobacterota;c_JADFXK01;o_JADFXK01
+o_KS3-K002	4	0	0	0	2	0	0	0	0	0	0	0	0	1	0	d_Bacteria;p_Gemmatimonadota;c_Gemmatimonadetes;o_KS3-K002
+o_Caldicoprobacterales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Caldicoprobacterales
+o_Unclassified_c_Acidimicrobiia	0	0	0	4	1	0	0	0	0	0	0	0	0	2	0	d_Bacteria;p_Actinobacteriota;c_Acidimicrobiia;o_Unclassified_c_Acidimicrobiia
+o_CG2-30-66-41	0	0	0	1	0	6	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Armatimonadota;c_Abditibacteria;o_CG2-30-66-41
+o_Sporomusales	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Sporomusales
+o_SLAD01	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_SLAD01
+o_JACRHL01	0	0	0	1	0	1	1	0	0	0	0	0	0	4	0	d_Bacteria;p_Nitrospirota;c_JACRHL01;o_JACRHL01
+o_UBA2968	1	0	0	0	4	0	0	0	0	0	0	0	0	2	0	d_Bacteria;p_Latescibacterota;c_UBA2968;o_UBA2968
+o_JAFGHX01	0	0	0	3	0	0	2	0	2	0	0	0	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_JAFGHX01
+o_DSM-27196	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_DSM-27196
+o_CAIMUX01	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Eisenbacteria;c_RBG-16-71-46;o_CAIMUX01
+o_Borreliales	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Borreliales
+o_UMGS1840	0	0	0	0	1	1	0	0	1	0	0	0	0	3	0	d_Bacteria;p_Firmicutes A;c_Clostridia;o_UMGS1840
+o_Turneriellales	0	2	0	0	1	0	0	0	1	2	0	0	0	0	0	d_Bacteria;p_Spirochaetota;c_Leptospirae;o_Turneriellales
+o_SLRQ01	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	d_Bacteria;p_Myxococcota;c_Myxococcia;o_SLRQ01
+o_GCA-2716485	0	0	0	0	1	0	2	0	2	0	0	0	0	0	0	d_Bacteria;p_Margulisbacteria;c_Marinamargulisbacteria;o_GCA-2716485
+o_Acidiferrobacterales	2	0	0	0	2	1	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Acidiferrobacterales
+o_JAEULF01	0	0	0	1	0	0	1	0	2	0	0	0	0	1	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_JAEULF01
+o_DTU010	0	0	0	0	0	0	0	2	0	3	0	0	0	0	0	d_Bacteria;p_Firmicutes G;c_Limnochordia;o_DTU010
+o_DY22613	0	0	0	0	2	0	0	0	3	0	0	0	0	0	0	d_Bacteria;p_Firmicutes F;c_Halanaerobiia;o_DY22613
+o_Tepidiformales	0	0	0	0	1	0	0	0	0	2	0	0	0	2	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_Tepidiformales
+o_Proteinivoracales	0	0	0	0	0	1	0	0	4	0	0	0	0	0	0	d_Bacteria;p_Firmicutes D;c_Proteinivoracia;o_Proteinivoracales
+o_UBA6186	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_UBA6186
+o_JAAZAB01	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Kiritimatiellae;o_JAAZAB01
+o_UBA9980	0	0	0	3	2	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Wallbacteria;c_UBA9980;o_UBA9980
+o_Unclassified_p_Desulfobacterota	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	d_Bacteria;p_Desulfobacterota;c_Unclassified_p_Desulfobacterota;o_Unclassified_p_Desulfobacterota
+o_UBA3505	0	1	0	0	0	0	3	0	0	0	0	0	0	0	0	d_Bacteria;p_Myxococcota;c_UBA9042;o_UBA3505
+o_Palsa-1439	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	d_Bacteria;p_Verrucomicrobiota;c_Verrucomicrobiae;o_Palsa-1439
+o_4572-78	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_4572-78
+o_J045	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_Mor1;o_J045
+o_UBA10025	1	0	0	0	0	0	0	0	0	0	1	0	1	0	1	d_Bacteria;p_Patescibacteria;c_ABY1;o_UBA10025
+o_16-39-46	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_16-39-46
+o_CPR3	0	1	0	0	0	0	0	0	0	3	0	0	0	0	0	d_Bacteria;p_Patescibacteria;c_CPR3;o_CPR3
+o_Abditibacteriales	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Armatimonadota;c_Abditibacteria;o_Abditibacteriales
+o_Unclassified_c_Thermoleophilia	0	0	0	0	2	0	0	0	0	0	0	0	1	1	0	d_Bacteria;p_Actinobacteriota;c_Thermoleophilia;o_Unclassified_c_Thermoleophilia
+o_Geothermincolales	0	0	0	0	0	0	0	0	1	0	0	0	0	3	0	d_Bacteria;p_Actinobacteriota;c_Geothermincolia;o_Geothermincolales
+o_TC1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	d_Bacteria;p_Firmicutes B;c_TC1;o_TC1
+o_Gp22-AA2	0	0	1	0	0	0	0	0	2	0	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_Mor1;o_Gp22-AA2
+o_Bin65	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Bin65
+o_Baltobacterales	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	d_Bacteria;p_Eremiobacterota;c_Eremiobacteria;o_Baltobacterales
+o_DUMP01	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	d_Bacteria;p_DTU030;c_DTU030;o_DUMP01
+o_UBA6911	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	d_Bacteria;p_Acidobacteriota;c_UBA6911;o_UBA6911
+o_2-12-FULL-45-22	0	0	1	0	0	0	0	0	0	0	0	0	0	2	0	d_Bacteria;p_Nitrospinota B;c_2-12-FULL-45-22;o_2-12-FULL-45-22
+o_CAIXZC01	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	d_Bacteria;p_Myxococcota;c_UBA9042;o_CAIXZC01
+o_UBA1406	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Patescibacteria;c_Microgenomatia;o_UBA1406
+o_UBA4971	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	d_Bacteria;p_Firmicutes G;c_SHA-98;o_UBA4971
+o_MPNO01	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_MPNO01
+o_UBA7976	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Myxococcota;c_Bradymonadia;o_UBA7976
+o_DG-27	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	d_Bacteria;p_Zixibacteria;c_MSB-5A5;o_DG-27
+o_NPL-UPA2	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	d_Bacteria;p_NPL-UPA2;c_NPL-UPA2;o_NPL-UPA2
+o_2-01-FULL-45-10	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Omnitrophota;c_Koll11;o_2-01-FULL-45-10
+o_Unclassified_c_Marinisomatia	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Marinisomatota;c_Marinisomatia;o_Unclassified_c_Marinisomatia
+o_JADFCT01	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	d_Bacteria;p_Sumerlaeota;c_Sumerlaeia;o_JADFCT01
+o_SHWA01	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	d_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_SHWA01
+o_UBA2963	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	d_Bacteria;p_Chloroflexota;c_Dehalococcoidia;o_UBA2963
+o_Acidoferrales	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Acidobacteriota;c_Acidobacteriae;o_Acidoferrales
+o_Desulfobaccales	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Desulfobacterota;c_Desulfobaccia;o_Desulfobaccales
+o_UBA2242	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	d_Bacteria;p_Marinisomatota;c_UBA2242;o_UBA2242
+o_Aerophobales	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	d_Bacteria;p_Aerophobota;c_Aerophobia;o_Aerophobales
