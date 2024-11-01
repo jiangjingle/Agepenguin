@@ -1,0 +1,311 @@
+Fun	Abundace	Group	LDA_score	Pvalue
+Metabolism.Lipid_metabolism.Fatty_acid_biosynthesis	4.14226054879			-
+Human_Diseases.Infectious_disease_viral.Epstein__Barr_virus_infection	3.0576577583599995			-
+Human_Diseases.Infectious_disease_viral	3.9372083890599994			-
+Metabolism.Amino_acid_metabolism.Alanine__aspartate_and_glutamate_metabolism	4.115636025990001			-
+Metabolism.Xenobiotics_biodegradation_and_metabolism.Styrene_degradation	3.22702837985			-
+Genetic_Information_Processing.Replication_and_repair.Mismatch_repair	4.2137660629600004			-
+Organismal_Systems.Immune_system	4.28501803166	ADU	3.8340434894	-
+Organismal_Systems.Digestive_system.Cholesterol_metabolism	3.5515376828199994			-
+Metabolism.Metabolism_of_cofactors_and_vitamins.Thiamine_metabolism	4.08209446595			-
+Organismal_Systems.Sensory_system.Olfactory_transduction	3.64461191852	ADU	3.23866663207	-
+Metabolism.Carbohydrate_metabolism.Pentose_phosphate_pathway	3.99136268249			-
+Human_Diseases.Infectious_disease_viral.Human_papillomavirus_infection	3.17015198009			-
+Metabolism.Amino_acid_metabolism.Arginine_biosynthesis	3.8885649455599998			-
+Metabolism.Amino_acid_metabolism.Valine__leucine_and_isoleucine_degradation	3.94821526895			-
+Genetic_Information_Processing.Folding__sorting_and_degradation	4.57237979702			-
+Organismal_Systems.Nervous_system.Serotonergic_synapse	3.05124101503			-
+Metabolism.Amino_acid_metabolism.Valine__leucine_and_isoleucine_biosynthesis	4.28144856589			-
+Organismal_Systems.Endocrine_system.Glucagon_signaling_pathway	3.88028326101			-
+Metabolism.Glycan_biosynthesis_and_metabolism.Other_glycan_degradation	3.6901379967300003			-
+Environmental_Information_Processing.Membrane_transport	4.4377104015599995			-
+Organismal_Systems.Aging.Longevity_regulating_pathway	2.9544609722			-
+Environmental_Information_Processing.Signal_transduction.Phosphatidylinositol_signaling_system	3.1912104405799995			-
+Cellular_Processes.Cellular_community__prokaryotes.Biofilm_formation__Escherichia_coli	3.72955722869			-
+Metabolism.Amino_acid_metabolism.Phenylalanine_metabolism	3.7339123817199997			-
+Metabolism.Lipid_metabolism.Biosynthesis_of_unsaturated_fatty_acids	3.24052294477			-
+Genetic_Information_Processing.Folding__sorting_and_degradation.RNA_degradation	3.82797626726			-
+Organismal_Systems.Endocrine_system.Aldosterone_synthesis_and_secretion	3.1545936765700002			-
+Human_Diseases.Drug_resistance_antimicrobial	4.1825130150800005			-
+Cellular_Processes.Cellular_community__prokaryotes.Biofilm_formation__Vibrio_cholerae	3.6815895316600002	SEN	3.3462723693000003	-
+Cellular_Processes.Cell_growth_and_death.Ferroptosis	3.39246761979			-
+Cellular_Processes.Cell_motility.Bacterial_chemotaxis	4.07150918077	SEN	3.6962603837300003	-
+Metabolism.Biosynthesis_of_other_secondary_metabolites.Monobactam_biosynthesis	3.31866457899			-
+Metabolism.Metabolism_of_cofactors_and_vitamins.Ubiquinone_and_other_terpenoid__quinone_biosynthesis	3.77951114511	SEN	3.21534695538	-
+Genetic_Information_Processing.Replication_and_repair	4.7674366528			-
+Organismal_Systems.Nervous_system.Synaptic_vesicle_cycle	3.3066871903500004	ADU	3.14567985274	-
+Organismal_Systems.Aging.Longevity_regulating_pathway__worm	3.7097284534400004			-
+Organismal_Systems.Endocrine_system	4.64278226992	ADU	4.13003779009	-
+Metabolism.Metabolism_of_other_amino_acids	4.5883707371			-
+Organismal_Systems.Endocrine_system.Estrogen_signaling_pathway	3.4152768512000002			-
+Environmental_Information_Processing.Signal_transduction.TNF_signaling_pathway	3.04935648022			-
+Metabolism.Lipid_metabolism.Sphingolipid_metabolism	3.3457069790499996			-
+Metabolism.Amino_acid_metabolism	5.06641112194	SEN	4.35844895859	-
+Metabolism.Carbohydrate_metabolism.Pentose_and_glucuronate_interconversions	3.6377302947099994			-
+Organismal_Systems.Immune_system.RIG__I__like_receptor_signaling_pathway	3.07155099225			-
+Metabolism.Energy_metabolism.Methane_metabolism	3.6428215617300004			-
+Metabolism.Metabolism_of_terpenoids_and_polyketides	4.33871941436			-
+Environmental_Information_Processing.Signal_transduction.Calcium_signaling_pathway	3.15970058075			-
+Metabolism.Metabolism_of_cofactors_and_vitamins.Folate_biosynthesis	3.889120315			-
+Metabolism.Lipid_metabolism.Arachidonic_acid_metabolism	3.31203692476			-
+Metabolism.Energy_metabolism.Oxidative_phosphorylation	3.69705139226			-
+Organismal_Systems.Immune_system.B_cell_receptor_signaling_pathway	3.05473163274			-
+Human_Diseases.Infectious_disease_viral.Hepatitis_C	3.3771070596900006			-
+Metabolism.Metabolism_of_terpenoids_and_polyketides.Biosynthesis_of_siderophore_group_nonribosomal_peptides	3.13745380557			-
+Metabolism.Metabolism_of_other_amino_acids.D__Amino_acid_metabolism	3.89907193125			-
+Organismal_Systems.Endocrine_system.Insulin_signaling_pathway	3.2299074373299996			-
+Human_Diseases.Cardiovascular_disease.Lipid_and_atherosclerosis	3.13074034167			-
+Metabolism.Xenobiotics_biodegradation_and_metabolism	4.52602858038			-
+Organismal_Systems.Nervous_system.Glutamatergic_synapse	3.3238396118700004			-
+Human_Diseases.Drug_resistance_antimicrobial.beta__Lactam_resistance	3.36271133793	SEN	3.3005563640499997	-
+Human_Diseases.Cardiovascular_disease.Diabetic_cardiomyopathy	3.46680104995	ADU	3.1428953983700003	-
+Metabolism.Glycan_biosynthesis_and_metabolism.Glycosphingolipid_biosynthesis__globo_and_isoglobo_series	3.3548478577			-
+Genetic_Information_Processing.Replication_and_repair.DNA_replication	4.03933064888			-
+Cellular_Processes.Cell_growth_and_death.Apoptosis__fly	3.02007242476			-
+Metabolism.Glycan_biosynthesis_and_metabolism	4.64260561116			-
+Human_Diseases.Neurodegenerative_disease.Alzheimer_disease	3.20863695051			-
+Organismal_Systems.Endocrine_system.Relaxin_signaling_pathway	3.1182351477499997			-
+Human_Diseases.Neurodegenerative_disease.Parkinson_disease	3.3042371253900003	ADU	3.0019076959400004	-
+Cellular_Processes.Cell_growth_and_death	4.21799775709			-
+Human_Diseases.Cancer_overview.Choline_metabolism_in_cancer	2.9027215734599996			-
+Metabolism.Glycan_biosynthesis_and_metabolism.O__Antigen_nucleotide_sugar_biosynthesis	3.77259200889	SEN	3.4598592903400003	-
+Human_Diseases.Infectious_disease_parasitic	3.45666445209			-
+Cellular_Processes.Cellular_community__eukaryotes	4.31515605491			-
+Metabolism.Lipid_metabolism.Secondary_bile_acid_biosynthesis	3.8034473740900006			-
+Metabolism.Metabolism_of_other_amino_acids.Taurine_and_hypotaurine_metabolism	3.7211311722500002			-
+Metabolism.Carbohydrate_metabolism.C5__Branched_dibasic_acid_metabolism	3.9122940589999997			-
+Environmental_Information_Processing.Signal_transduction.AMPK_signaling_pathway	3.1110682755199996			-
+Metabolism.Biosynthesis_of_other_secondary_metabolites.Streptomycin_biosynthesis	4.00031202102			-
+Human_Diseases.Cardiovascular_disease	4.57292235431			-
+Organismal_Systems.Aging.Longevity_regulating_pathway__multiple_species	3.14025356987			-
+Metabolism.Carbohydrate_metabolism.Butanoate_metabolism	3.8475645207499998			-
+Metabolism.Carbohydrate_metabolism.Starch_and_sucrose_metabolism	3.86172735002			-
+Organismal_Systems.Excretory_system.Proximal_tubule_bicarbonate_reclamation	3.7795416671499997			-
+Human_Diseases.Neurodegenerative_disease.Prion_disease	3.3158361350200005			-
+Human_Diseases.Cancer_specific_types.Prostate_cancer	2.91669534226			-
+Metabolism.Xenobiotics_biodegradation_and_metabolism.Dioxin_degradation	2.93505428816			-
+Cellular_Processes.Cell_growth_and_death.Cell_cycle__Caulobacter	4.10650077771			-
+Organismal_Systems.Endocrine_system.Parathyroid_hormone_synthesis__secretion_and_action	3.18159291603			-
+Organismal_Systems	5.21836184565			-
+Metabolism.Metabolism_of_other_amino_acids.Glutathione_metabolism	3.85086415476			-
+Metabolism.Energy_metabolism.Carbon_fixation_in_photosynthetic_organisms	4.11386376677			-
+Human_Diseases.Cancer_overview.Proteoglycans_in_cancer	3.1996383943700004			-
+Organismal_Systems.Excretory_system.Aldosterone__regulated_sodium_reabsorption	2.9575816837700004			-
+Human_Diseases.Infectious_disease_bacterial.Tuberculosis	3.2106043957700003			-
+Metabolism.Amino_acid_metabolism.Glycine__serine_and_threonine_metabolism	3.96844395246	SEN	3.2327198251800002	-
+Environmental_Information_Processing.Signal_transduction.PI3K__Akt_signaling_pathway	3.2012055831599997			-
+Organismal_Systems.Immune_system.Leukocyte_transendothelial_migration	3.6893166846199996			-
+Metabolism	5.7732869223800005			-
+Genetic_Information_Processing.Folding__sorting_and_degradation.Ubiquitin_mediated_proteolysis	3.8254601556199996			-
+Metabolism.Carbohydrate_metabolism.Amino_sugar_and_nucleotide_sugar_metabolism	3.92833441415			-
+Cellular_Processes.Cell_growth_and_death.p53_signaling_pathway	3.05237557672			-
+Organismal_Systems.Development_and_regeneration.Axon_regeneration	3.0538005086199997			-
+Genetic_Information_Processing.Translation.Aminoacyl__tRNA_biosynthesis	4.116170007759999			-
+Human_Diseases.Neurodegenerative_disease.Spinocerebellar_ataxia	3.1217552813			-
+Organismal_Systems.Endocrine_system.Oxytocin_signaling_pathway	3.37041975016			-
+Human_Diseases.Cardiovascular_disease.Fluid_shear_stress_and_atherosclerosis	3.3532005293799996			-
+Organismal_Systems.Circulatory_system.Adrenergic_signaling_in_cardiomyocytes	3.9066617169199995	ADU	3.49752467106	-
+Organismal_Systems.Endocrine_system.Adipocytokine_signaling_pathway	3.4466560141900002			-
+Metabolism.Amino_acid_metabolism.Phenylalanine__tyrosine_and_tryptophan_biosynthesis	3.94067788327	SEN	3.350951339	-
+Genetic_Information_Processing.Folding__sorting_and_degradation.Proteasome	3.14134712005			-
+Metabolism.Metabolism_of_cofactors_and_vitamins.Lipoic_acid_metabolism	3.6028589903199997			-
+Metabolism.Metabolism_of_terpenoids_and_polyketides.Terpenoid_backbone_biosynthesis	3.9242464104400003			-
+Organismal_Systems.Nervous_system	4.01559666846			-
+Organismal_Systems.Endocrine_system.Thyroid_hormone_signaling_pathway	3.83292577871			-
+Genetic_Information_Processing.Replication_and_repair.Base_excision_repair	4.06645012317			-
+Organismal_Systems.Sensory_system	3.64461191852	ADU	3.23866663207	-
+Metabolism.Carbohydrate_metabolism	5.0687723066100006			-
+Environmental_Information_Processing.Signal_transduction.Notch_signaling_pathway	3.48661150169			-
+Organismal_Systems.Environmental_adaptation	3.6700094459400003	ADU	3.24516073668	-
+Organismal_Systems.Digestive_system.Salivary_secretion	3.42392232545			-
+Metabolism.Amino_acid_metabolism.Lysine_degradation	3.66143261681			-
+Genetic_Information_Processing.Folding__sorting_and_degradation.Sulfur_relay_system	4.08582151724			-
+Environmental_Information_Processing.Signal_transduction.Hippo_signaling_pathway__fly	3.0749876704799997			-
+Organismal_Systems.Development_and_regeneration.Axon_guidance	3.23122641138			-
+Cellular_Processes.Cell_growth_and_death.Necroptosis	3.28687737843	ADU	3.0387539206299996	-
+Organismal_Systems.Excretory_system.Vasopressin__regulated_water_reabsorption	3.1467706940099998			-
+Human_Diseases.Cancer_overview.Viral_carcinogenesis	3.02073112148	ADU	3.01968518415	-
+Metabolism.Xenobiotics_biodegradation_and_metabolism.Drug_metabolism__other_enzymes	4.18231489773			-
+Human_Diseases.Neurodegenerative_disease.Pathways_of_neurodegeneration__multiple_diseases	3.0970227285500003			-
+Metabolism.Xenobiotics_biodegradation_and_metabolism.Caprolactam_degradation	3.34543200426			-
+Environmental_Information_Processing.Signaling_molecules_and_interaction.Cell_adhesion_molecules	3.5287762448400004			-
+Organismal_Systems.Immune_system.IL__17_signaling_pathway	3.02926691329			-
+Organismal_Systems.Circulatory_system.Vascular_smooth_muscle_contraction	4.16585041303			-
+Human_Diseases.Immune_disease	4.37349085231			-
+Metabolism.Metabolism_of_cofactors_and_vitamins.Retinol_metabolism	3.3456452452099996			-
+Human_Diseases.Neurodegenerative_disease.Huntington_disease	3.21931456663			-
+Organismal_Systems.Environmental_adaptation.Circadian_entrainment	3.45676216393	ADU	3.0391544957	-
+Organismal_Systems.Digestive_system.Gastric_acid_secretion	3.13115636834			-
+Metabolism.Glycan_biosynthesis_and_metabolism.Arabinogalactan_biosynthesis__Mycobacterium	3.6742501621			-
+Human_Diseases.Cardiovascular_disease.Hypertrophic_cardiomyopathy	3.933124496			-
+Metabolism.Nucleotide_metabolism.Pyrimidine_metabolism	4.10643688746			-
+Metabolism.Lipid_metabolism.Steroid_hormone_biosynthesis	3.02738204435			-
+Organismal_Systems.Nervous_system.GABAergic_synapse	3.34701574712			-
+Environmental_Information_Processing.Membrane_transport.Bacterial_secretion_system	4.06849377769			-
+Human_Diseases.Infectious_disease_bacterial.Pathogenic_Escherichia_coli_infection	4.01745156124			-
+Genetic_Information_Processing.Translation	4.42758537977			-
+Human_Diseases.Neurodegenerative_disease	4.047650612180001	ADU	3.62355035679	-
+Organismal_Systems.Endocrine_system.Progesterone__mediated_oocyte_maturation	3.0391379397200002			-
+Metabolism.Carbohydrate_metabolism.Pyruvate_metabolism	3.98064382676			-
+Metabolism.Xenobiotics_biodegradation_and_metabolism.Xylene_degradation	2.94400898083			-
+Human_Diseases.Drug_resistance_antineoplastic.Platinum_drug_resistance	3.20721593602			-
+Organismal_Systems.Endocrine_system.Insulin_secretion	3.2575936381299995			-
+Metabolism.Lipid_metabolism.Fatty_acid_degradation	3.8520270159400005			-
+Metabolism.Glycan_biosynthesis_and_metabolism.Lipoarabinomannan__LAM__biosynthesis	3.5645852637199997			-
+Organismal_Systems.Immune_system.Complement_and_coagulation_cascades	2.9891129712800004			-
+Metabolism.Metabolism_of_cofactors_and_vitamins.Biotin_metabolism	4.19446855015			-
+Human_Diseases.Drug_resistance_antineoplastic.Endocrine_resistance	3.0437213736			-
+Organismal_Systems.Aging	3.86964536011			-
+Genetic_Information_Processing.Replication_and_repair.Nucleotide_excision_repair	3.8766449030300003			-
+Metabolism.Carbohydrate_metabolism.Glycolysis_Gluconeogenesis	4.081959214419999			-
+Environmental_Information_Processing.Signal_transduction.Hedgehog_signaling_pathway	3.4587084464999998			-
+Organismal_Systems.Immune_system.Antigen_processing_and_presentation	3.25529142832			-
+Cellular_Processes	4.865389660280001			-
+Human_Diseases.Endocrine_and_metabolic_disease.Type_II_diabetes_mellitus	3.3563082230699997			-
+Organismal_Systems.Development_and_regeneration	3.4525417956			-
+Organismal_Systems.Digestive_system.Fat_digestion_and_absorption	3.47304207502			-
+Environmental_Information_Processing.Signaling_molecules_and_interaction.ECM__receptor_interaction	3.43092356275			-
+Human_Diseases.Cardiovascular_disease.Dilated_cardiomyopathy	3.8924915502800004			-
+Organismal_Systems.Excretory_system.Endocrine_and_other_factor__regulated_calcium_reabsorption	3.5141991754800004			-
+Environmental_Information_Processing.Membrane_transport.Phosphotransferase_system__PTS_	3.96700768931			-
+Metabolism.Nucleotide_metabolism.Purine_metabolism	3.9322428123			-
+Genetic_Information_Processing.Replication_and_repair.Homologous_recombination	4.08098191766			-
+Genetic_Information_Processing.Translation.Ribosome	4.211838061530001			-
+Human_Diseases.Infectious_disease_viral.Coronavirus_disease__COVID__19	3.06794477399			-
+Human_Diseases	5.148366993450001			-
+Metabolism.Xenobiotics_biodegradation_and_metabolism.Fluorobenzoate_degradation	2.91411270543			-
+Cellular_Processes.Cellular_community__eukaryotes.Adherens_junction	3.21432524611			-
+Genetic_Information_Processing.Folding__sorting_and_degradation.Protein_processing_in_endoplasmic_reticulum	3.1201791764099998			-
+Genetic_Information_Processing.Folding__sorting_and_degradation.Protein_export	4.1898248997400005			-
+Human_Diseases.Infectious_disease_parasitic.Toxoplasmosis	3.16852974176			-
+Metabolism.Biosynthesis_of_other_secondary_metabolites.Acarbose_and_validamycin_biosynthesis	3.0976318148299997			-
+Metabolism.Glycan_biosynthesis_and_metabolism.Lipopolysaccharide_biosynthesis	3.7936082090300007	SEN	3.4848384571099995	-
+Organismal_Systems.Nervous_system.Long__term_depression	3.4598387616199995			-
+Organismal_Systems.Immune_system.Neutrophil_extracellular_trap_formation	3.0365419110799996			-
+Metabolism.Carbohydrate_metabolism.Propanoate_metabolism	3.9317379392			-
+Metabolism.Xenobiotics_biodegradation_and_metabolism.Metabolism_of_xenobiotics_by_cytochrome_P450	3.38629486933			-
+Metabolism.Glycan_biosynthesis_and_metabolism.Peptidoglycan_biosynthesis	4.13206679554			-
+Metabolism.Biosynthesis_of_other_secondary_metabolites.Penicillin_and_cephalosporin_biosynthesis	3.4545237005800002			-
+Metabolism.Metabolism_of_other_amino_acids.Phosphonate_and_phosphinate_metabolism	3.30284220902	SEN	3.0005202168700005	-
+Cellular_Processes.Cellular_community__eukaryotes.Tight_junction	4.17287061883			-
+Cellular_Processes.Transport_and_catabolism.Lysosome	3.1072004669			-
+Environmental_Information_Processing	4.76949573582			-
+Human_Diseases.Drug_resistance_antimicrobial.Cationic_antimicrobial_peptide__CAMP__resistance	3.68190875172			-
+Metabolism.Xenobiotics_biodegradation_and_metabolism.Steroid_degradation	3.01826486417			-
+Human_Diseases.Neurodegenerative_disease.Amyotrophic_lateral_sclerosis	3.08914492658			-
+Organismal_Systems.Immune_system.NOD__like_receptor_signaling_pathway	3.19535055945			-
+Metabolism.Metabolism_of_cofactors_and_vitamins.Porphyrin_metabolism	3.79386822083			-
+Human_Diseases.Endocrine_and_metabolic_disease.Alcoholic_liver_disease	3.0622062978900004			-
+Metabolism.Metabolism_of_cofactors_and_vitamins.Nicotinate_and_nicotinamide_metabolism	3.77299699025	SEN	3.10662533339	-
+Organismal_Systems.Immune_system.Th1_and_Th2_cell_differentiation	3.2303936201099996			-
+Metabolism.Metabolism_of_other_amino_acids.beta__Alanine_metabolism	3.83802099876			-
+Human_Diseases.Infectious_disease_bacterial	4.289443830990001			-
+Human_Diseases.Endocrine_and_metabolic_disease.Insulin_resistance	3.45212815546	ADU	3.08786057415	-
+Organismal_Systems.Endocrine_system.Regulation_of_lipolysis_in_adipocytes	3.36165920018			-
+Human_Diseases.Cancer_specific_types	3.66004736019			-
+Human_Diseases.Cancer_overview.Pathways_in_cancer	3.0017108300200004			-
+Environmental_Information_Processing.Signal_transduction.FoxO_signaling_pathway	3.0480914929900003			-
+Human_Diseases.Immune_disease.Primary_immunodeficiency	4.37349085231			-
+Metabolism.Glycan_biosynthesis_and_metabolism.Teichoic_acid_biosynthesis	3.68353158061			-
+Metabolism.Biosynthesis_of_other_secondary_metabolites	4.25475073318			-
+Metabolism.Amino_acid_metabolism.Tryptophan_metabolism	3.69575419862			-
+Metabolism.Amino_acid_metabolism.Histidine_metabolism	3.88815812773			-
+Organismal_Systems.Endocrine_system.PPAR_signaling_pathway	3.5872927043800003			-
+Environmental_Information_Processing.Signal_transduction.cGMP__PKG_signaling_pathway	3.79555456079	ADU	3.38229204698	-
+Environmental_Information_Processing.Signaling_molecules_and_interaction	3.7836300385			-
+Metabolism.Metabolism_of_terpenoids_and_polyketides.Limonene_and_pinene_degradation	3.7472323184300005			-
+Human_Diseases.Cardiovascular_disease.Viral_myocarditis	4.07297859186			-
+Metabolism.Amino_acid_metabolism.Tyrosine_metabolism	3.5558387484599994			-
+Human_Diseases.Drug_resistance_antimicrobial.Vancomycin_resistance	3.9090663566100003			-
+Human_Diseases.Infectious_disease_bacterial.Staphylococcus_aureus_infection	3.23049300192			-
+Metabolism.Amino_acid_metabolism.Cysteine_and_methionine_metabolism	3.91901945725			-
+Metabolism.Nucleotide_metabolism	4.32904550545			-
+Cellular_Processes.Transport_and_catabolism.Peroxisome	3.55539672685			-
+Metabolism.Lipid_metabolism.Fatty_acid_elongation	3.3074944988499997			-
+Metabolism.Carbohydrate_metabolism.Glyoxylate_and_dicarboxylate_metabolism	3.9868647553699996			-
+Human_Diseases.Cancer_overview.Chemical_carcinogenesis__reactive_oxygen_species	3.26696220119			-
+Human_Diseases.Endocrine_and_metabolic_disease.Type_I_diabetes_mellitus	3.42239844717			-
+Human_Diseases.Substance_dependence.Cocaine_addiction	3.0374374260500003			-
+Human_Diseases.Cancer_specific_types.Bladder_cancer	3.1978910243199996			-
+Cellular_Processes.Cellular_community__prokaryotes	4.24583650874	SEN	3.7852108372099997	-
+Human_Diseases.Infectious_disease_bacterial.Pertussis	2.95504077362			-
+Human_Diseases.Infectious_disease_viral.Herpes_simplex_virus_1_infection	3.0609744249400004			-
+Environmental_Information_Processing.Membrane_transport.ABC_transporters	3.8209859993	SEN	3.3462251495200004	-
+Metabolism.Carbohydrate_metabolism.Galactose_metabolism	3.96221695731			-
+Organismal_Systems.Excretory_system	4.06429458542			-
+Metabolism.Xenobiotics_biodegradation_and_metabolism.Nitrotoluene_degradation	3.4664099458699997			-
+Human_Diseases.Infectious_disease_parasitic.Chagas_disease	3.1423445301700004			-
+Organismal_Systems.Digestive_system	4.4801798879			-
+Metabolism.Glycan_biosynthesis_and_metabolism.Exopolysaccharide_biosynthesis	3.30127498514			-
+Organismal_Systems.Digestive_system.Bile_secretion	3.0961983829000004			-
+Genetic_Information_Processing	5.08736583519			-
+Metabolism.Energy_metabolism	4.6023117217500005	SEN	3.9093520839199996	-
+Cellular_Processes.Cell_growth_and_death.Apoptosis	3.0417295711400003			-
+Organismal_Systems.Endocrine_system.Renin_secretion	3.3626972709900005			-
+Metabolism.Lipid_metabolism.Glycerolipid_metabolism	3.68039068574			-
+Metabolism.Biosynthesis_of_other_secondary_metabolites.Tropane__piperidine_and_pyridine_alkaloid_biosynthesis	3.25245159296			-
+Human_Diseases.Cancer_overview.Central_carbon_metabolism_in_cancer	3.92196648296			-
+Cellular_Processes.Cell_motility	4.42586246333			-
+Metabolism.Carbohydrate_metabolism.Citrate_cycle__TCA_cycle_	3.9576518859599994			-
+Human_Diseases.Cardiovascular_disease.Arrhythmogenic_right_ventricular_cardiomyopathy	3.4246325305400003	ADU	3.05256179936	-
+Metabolism.Carbohydrate_metabolism.Inositol_phosphate_metabolism	3.3597231963599996			-
+Cellular_Processes.Transport_and_catabolism	3.7950481554800004			-
+Organismal_Systems.Digestive_system.Protein_digestion_and_absorption	3.6010319840400005			-
+Human_Diseases.Infectious_disease_viral.Influenza_A	3.1236022006099997			-
+Metabolism.Metabolism_of_other_amino_acids.Selenocompound_metabolism	3.9942678968300003			-
+Environmental_Information_Processing.Signal_transduction	4.561941858380001			-
+Cellular_Processes.Cellular_community__eukaryotes.Gap_junction	3.29227235857			-
+Human_Diseases.Infectious_disease_bacterial.Bacterial_invasion_of_epithelial_cells	3.156556198			-
+Metabolism.Xenobiotics_biodegradation_and_metabolism.Chlorocyclohexane_and_chlorobenzene_degradation	3.0990863347400004	SEN	3.06715327987	-
+Environmental_Information_Processing.Signal_transduction.Hippo_signaling_pathway	3.07964258842			-
+Organismal_Systems.Endocrine_system.Thyroid_hormone_synthesis	3.3638543775599996			-
+Cellular_Processes.Cellular_community__eukaryotes.Focal_adhesion	3.3372462831700003			-
+Environmental_Information_Processing.Signal_transduction.cAMP_signaling_pathway	3.24669796964			-
+Organismal_Systems.Environmental_adaptation.Thermogenesis	3.25883912756			-
+Metabolism.Lipid_metabolism.Ether_lipid_metabolism	3.39618409616	ADU	3.03670281436	-
+Metabolism.Metabolism_of_cofactors_and_vitamins.One_carbon_pool_by_folate	3.9964954281300002			-
+Human_Diseases.Infectious_disease_bacterial.Salmonella_infection	3.14594965677			-
+Environmental_Information_Processing.Signal_transduction.Apelin_signaling_pathway	3.37970429471			-
+Metabolism.Lipid_metabolism.Glycerophospholipid_metabolism	3.7967293396599997			-
+Metabolism.Metabolism_of_cofactors_and_vitamins.Pantothenate_and_CoA_biosynthesis	4.11290427081	SEN	3.53840459248	-
+Metabolism.Xenobiotics_biodegradation_and_metabolism.Benzoate_degradation	3.46989164569			-
+Cellular_Processes.Cell_motility.Flagellar_assembly	4.06283406161	SEN	3.6842893606800002	-
+Human_Diseases.Cancer_overview	4.16554786109	ADU	3.62625416454	-
+Human_Diseases.Cancer_specific_types.Hepatocellular_carcinoma	2.98256725806			-
+Metabolism.Metabolism_of_cofactors_and_vitamins.Vitamin_B6_metabolism	3.89498281108	SEN	3.3552013284099997	-
+Metabolism.Amino_acid_metabolism.Lysine_biosynthesis	3.9922590168000003	SEN	3.3853889217	-
+Human_Diseases.Endocrine_and_metabolic_disease	3.9391969847099997	ADU	3.31486625122	-
+Organismal_Systems.Digestive_system.Mineral_absorption	4.0087662127599994			-
+Human_Diseases.Drug_resistance_antineoplastic	3.9102088564699997			-
+Organismal_Systems.Digestive_system.Carbohydrate_digestion_and_absorption	3.03854709218			-
+Human_Diseases.Drug_resistance_antineoplastic.Antifolate_resistance	3.7514455152199995			-
+Environmental_Information_Processing.Signal_transduction.Phospholipase_D_signaling_pathway	2.9927522547099996			-
+Human_Diseases.Infectious_disease_bacterial.Legionellosis	3.3228717732999997			-
+Metabolism.Metabolism_of_cofactors_and_vitamins.Riboflavin_metabolism	3.78322156629			-
+Metabolism.Energy_metabolism.Nitrogen_metabolism	3.7747303995499997			-
+Human_Diseases.Substance_dependence	3.0374374260500003			-
+Metabolism.Energy_metabolism.Sulfur_metabolism	3.7373408286000003			-
+Cellular_Processes.Cellular_community__prokaryotes.Quorum_sensing	3.87183157075			-
+Metabolism.Glycan_biosynthesis_and_metabolism.Glycosaminoglycan_degradation	3.69792989014			-
+Metabolism.Xenobiotics_biodegradation_and_metabolism.Aminobenzoate_degradation	3.1612372153400004			-
+Organismal_Systems.Endocrine_system.Ovarian_steroidogenesis	3.3316365231800003			-
+Metabolism.Carbohydrate_metabolism.Fructose_and_mannose_metabolism	3.8958343390400003			-
+Organismal_Systems.Digestive_system.Pancreatic_secretion	3.49657718307			-
+Environmental_Information_Processing.Signal_transduction.HIF__1_signaling_pathway	3.7434494559900005			-
+Metabolism.Lipid_metabolism	4.66700099878			-
+Human_Diseases.Cancer_specific_types.Small_cell_lung_cancer	3.0820855057700003			-
+Organismal_Systems.Immune_system.Toll_and_Imd_signaling_pathway	3.1786527058700003			-
+Environmental_Information_Processing.Signal_transduction.TGF__beta_signaling_pathway	3.21954356326			-
+Metabolism.Metabolism_of_terpenoids_and_polyketides.Polyketide_sugar_unit_biosynthesis	3.2472547965099996			-
+Cellular_Processes.Cell_motility.Regulation_of_actin_cytoskeleton	3.9355535339			-
+Organismal_Systems.Circulatory_system.Cardiac_muscle_contraction	4.001743427619999			-
+Organismal_Systems.Circulatory_system	4.51530042134			-
+Metabolism.Energy_metabolism.Carbon_fixation_pathways_in_prokaryotes	3.79512997765			-
+Cellular_Processes.Transport_and_catabolism.Phagosome	3.2580836604299996			-
+Metabolism.Amino_acid_metabolism.Arginine_and_proline_metabolism	3.72448763329			-
+Metabolism.Lipid_metabolism.Primary_bile_acid_biosynthesis	3.4942402042300005			-
+Metabolism.Metabolism_of_cofactors_and_vitamins	4.981311347769999			-
+Organismal_Systems.Immune_system.Platelet_activation	3.3734750995800002			-
+Environmental_Information_Processing.Signal_transduction.Two__component_system	3.6649808143900002	SEN	3.2112897734900003	-
+Metabolism.Metabolism_of_terpenoids_and_polyketides.Geraniol_degradation	3.6708725378400002			-
+Metabolism.Carbohydrate_metabolism.Ascorbate_and_aldarate_metabolism	3.60018778984			-
